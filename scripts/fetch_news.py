@@ -11,9 +11,16 @@ import hashlib
 import os
 import re
 import sys
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from deep_translator import GoogleTranslator
+
+
+def strip_accents(text):
+    """Remove accents/diacritics from text for matching. e.g. Émirats -> Emirats, Dubaï -> Dubai"""
+    nfkd = unicodedata.normalize("NFKD", text)
+    return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 # --- Configuration ---
 
@@ -176,15 +183,20 @@ SECTORS = {
 # Geographic keywords — articles from non-UAE sources MUST match at least one
 # ONLY UAE-specific terms. No generic "Middle East", "Gulf", company names.
 GEO_KEYWORDS = [
-    # UAE country names
+    # UAE country names (EN + FR)
     "UAE", "United Arab Emirates",
     "Emirats Arabes Unis", "Emirats arabes unis",
+    "les Emirats", "aux Emirats", "des Emirats",  # French short forms
     # Demonyms
     "emirien", "emiriens", "emirienne", "emiriennes",
-    "emirati", "emiratis", "Emirati", "Emiratis",
-    # Emirates / cities
-    "Abu Dhabi", "Dubai", "Sharjah", "Ajman", "Fujairah",
-    "Ras Al Khaimah", "Umm Al Quwain", "Al Ain",
+    "emirati", "emiratis",
+    # Emirates / cities (EN + FR spellings)
+    "Abu Dhabi", "Abou Dhabi", "Abou Dabi", "Abou-Dhabi",
+    "Dubai", "Dubay",
+    "Sharjah", "Charjah",
+    "Ajman", "Fujairah", "Fudjayra",
+    "Ras Al Khaimah", "Ras el-Khaimah",
+    "Umm Al Quwain", "Al Ain",
     "Saadiyat", "Yas Island", "Khalifa City",
     # Key UAE sovereign entities
     "Mubadala", "ADIA", "ADIO", "ICD",
@@ -379,20 +391,20 @@ def clean_html(text):
     return clean
 
 
-def keyword_match(text, keyword):
-    """Check if a keyword matches in text. Handles plain and regex-bounded keywords."""
-    return keyword.lower() in text
+def keyword_match(text_normalized, keyword):
+    """Check if a keyword matches in accent-normalized lowercase text."""
+    return keyword.lower() in text_normalized
 
 
-def bounded_match(text_original, pattern):
-    """Check if a word-boundary regex pattern matches in text (case-insensitive)."""
-    return bool(re.search(pattern, text_original, re.IGNORECASE))
+def bounded_match(text_normalized, pattern):
+    """Check if a word-boundary regex pattern matches in accent-normalized text."""
+    return bool(re.search(pattern, text_normalized, re.IGNORECASE))
 
 
 def score_article(title, summary, lang, source_category):
     """Score an article's relevance based on sector keywords and geographic proximity."""
-    text_lower = f"{title} {summary}".lower()
-    text_original = f"{title} {summary}"
+    raw_text = f"{title} {summary}"
+    text_lower = strip_accents(raw_text).lower()  # accent-normalized for matching
 
     matched_sectors = []
     sector_score_total = 0
@@ -407,7 +419,7 @@ def score_article(title, summary, lang, source_category):
 
         # Bounded keywords (regex word-boundary match)
         for pattern in sector.get("keywords_bounded", []):
-            if bounded_match(text_original, pattern):
+            if bounded_match(text_lower, pattern):
                 sector_score += 1
 
         if sector_score > 0:
@@ -424,7 +436,7 @@ def score_article(title, summary, lang, source_category):
         if kw.lower() in text_lower:
             geo_score += 2
     for pattern in GEO_KEYWORDS_BOUNDED:
-        if bounded_match(text_original, pattern):
+        if bounded_match(text_lower, pattern):
             geo_score += 2
 
     # KEY FILTER:
