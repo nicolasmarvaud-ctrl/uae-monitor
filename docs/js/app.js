@@ -35,20 +35,19 @@
 
     // --- Data loading ---
 
-    const BASE_URL = getBaseUrl();
-
-    function getBaseUrl() {
-        // Works both locally and on GitHub Pages
-        const path = window.location.pathname;
-        if (path.includes("/docs/")) {
-            return path.substring(0, path.indexOf("/docs/") + 6);
-        }
-        return "./";
-    }
+    // Build base URL for data files — works on GitHub Pages and locally
+    const BASE_URL = (function () {
+        const loc = window.location;
+        // GitHub Pages: https://user.github.io/repo-name/
+        // The data files are at /repo-name/data/
+        const base = loc.pathname.replace(/\/+$/, "") + "/";
+        return base;
+    })();
 
     async function fetchJson(url) {
-        const resp = await fetch(url);
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        console.log("[Monitor] Fetching:", url);
+        const resp = await fetch(url, { cache: "no-cache" });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${url}`);
         return resp.json();
     }
 
@@ -76,7 +75,7 @@
                 select.appendChild(opt);
             }
         } catch (e) {
-            console.log("No digest index found, using latest.json");
+            console.warn("[Monitor] Index load failed:", e);
         }
     }
 
@@ -90,12 +89,13 @@
                 url = BASE_URL + "data/digests/" + filename;
             }
             currentDigest = await fetchJson(url);
+            console.log("[Monitor] Loaded digest:", currentDigest.total_articles, "articles");
             updateHeader();
             updateSectorCounts();
             applyFilters();
         } catch (e) {
-            showError("Unable to load digest. The monitor may not have run yet, or the data file is missing.");
-            console.error(e);
+            console.error("[Monitor] Digest load failed:", e);
+            showError("Unable to load digest (" + e.message + "). Check browser console for details.");
         }
     }
 
