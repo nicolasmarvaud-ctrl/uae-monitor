@@ -305,41 +305,14 @@ FEEDS = {
     },
 
     # --- UAE / Gulf Sources (English) ---
-    "WAM English": {
-        "url": "https://www.wam.ae/en/rss/all",
+    "The National": {
+        "url": "https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml&size=30",
         "lang": "en",
         "category": "uae"
     },
-    "The National Business": {
-        "url": "https://www.thenationalnews.com/business/rss",
+    "Gulf News": {
+        "url": "https://gulfnews.com/feed",
         "lang": "en",
-        "category": "uae"
-    },
-    "Gulf News Business": {
-        "url": "https://gulfnews.com/business/rss",
-        "lang": "en",
-        "category": "uae"
-    },
-    "Zawya": {
-        "url": "https://www.zawya.com/en/rss-feed.xml",
-        "lang": "en",
-        "category": "uae"
-    },
-    "Arabian Business": {
-        "url": "https://www.arabianbusiness.com/rss",
-        "lang": "en",
-        "category": "uae"
-    },
-    "Khaleej Times Business": {
-        "url": "https://www.khaleejtimes.com/rss/business",
-        "lang": "en",
-        "category": "uae"
-    },
-
-    # --- UAE Sources (Arabic - will be translated) ---
-    "WAM Arabic": {
-        "url": "https://www.wam.ae/ar/rss/all",
-        "lang": "ar",
         "category": "uae"
     },
 
