@@ -20,168 +20,187 @@ from deep_translator import GoogleTranslator
 SECTORS = {
     "energy": {
         "label": "Energy",
-        "keywords_en": [
-            "energy", "oil", "gas", "petroleum", "ADNOC", "TAQA", "Masdar",
-            "renewable", "solar", "wind", "hydrogen", "nuclear", "Barakah",
-            "power plant", "grid", "electricity", "fuel", "LNG", "refinery",
+        "keywords": [
+            "energy sector", "energy deal", "energy investment", "energy project",
+            "oil production", "oil field", "oil price", "crude oil",
+            "natural gas", "petroleum", "ADNOC", "TAQA", "Masdar",
+            "renewable energy", "solar energy", "solar power", "solar farm",
+            "wind energy", "wind farm", "wind power",
+            "hydrogen", "green hydrogen", "blue hydrogen",
+            "nuclear energy", "nuclear power", "Barakah",
+            "power plant", "power generation", "LNG",
+            "refinery", "petrochemical", "offshore",
             "carbon capture", "CCUS", "energy transition", "clean energy",
-            "TotalEnergies", "Engie", "EDF", "Orano", "Technip"
-        ],
-        "keywords_fr": [
-            "energie", "energies", "petrole", "gaz", "renouvelable", "solaire",
-            "eolien", "hydrogene", "nucleaire", "transition energetique",
-            "electricite", "carburant", "raffinerie", "capture carbone"
+            "TotalEnergies", "Engie", "EDF", "Orano", "Technip", "Technip Energies",
+            "transition energetique", "petrole", "gaz naturel",
+            "energie renouvelable", "energie solaire", "energie eolienne",
+            "hydrogene vert", "centrale nucleaire"
         ]
     },
     "ai_tech": {
         "label": "AI & New Technologies",
-        "keywords_en": [
-            "artificial intelligence", "AI", "machine learning", "deep learning",
-            "technology", "tech", "digital", "cloud", "data center", "semiconductor",
-            "chip", "robotics", "automation", "5G", "6G", "IoT", "blockchain",
-            "quantum", "cybersecurity", "smart city", "G42", "Presight",
-            "Abu Dhabi AI", "Technology Innovation Institute", "TII", "MBZUAI",
-            "Falcon", "Atos", "Thales", "Dassault Systemes", "OVHcloud"
+        "keywords": [
+            "artificial intelligence", "machine learning", "deep learning",
+            "generative AI", "large language model", "LLM", "neural network",
+            "data center", "data centre", "semiconductor", "microchip",
+            "robotics", "quantum computing", "cybersecurity", "cyber security",
+            "smart city", "smart cities", "G42", "Presight",
+            "Abu Dhabi AI", "Technology Innovation Institute", "MBZUAI",
+            "OVHcloud", "Dassault Systemes",
+            "intelligence artificielle", "apprentissage automatique",
+            "centre de donnees", "semi-conducteur", "informatique quantique",
+            "ville intelligente", "deeptech"
         ],
-        "keywords_fr": [
-            "intelligence artificielle", "IA", "technologie", "numerique",
-            "digital", "cloud", "semi-conducteur", "puce", "robotique",
-            "automatisation", "cybersecurite", "ville intelligente", "deeptech"
-        ]
+        # Short keywords that need word-boundary matching (regex \b)
+        "keywords_bounded": ["\\bAI\\b", "\\bIA\\b", "\\bIoT\\b", "\\b5G\\b", "\\b6G\\b"]
     },
     "climate": {
         "label": "Climate Transition",
-        "keywords_en": [
-            "climate", "carbon", "CO2", "emission", "net zero", "sustainability",
-            "sustainable", "green", "ESG", "COP", "decarbonization",
+        "keywords": [
+            "climate change", "climate policy", "climate action", "climate finance",
+            "carbon neutral", "carbon footprint", "carbon tax", "carbon market",
+            "CO2 emission", "greenhouse gas", "net zero", "net-zero",
+            "sustainability", "sustainable development", "sustainable finance",
+            "ESG investing", "ESG criteria", "green bond", "green finance",
+            "decarbonization", "decarbonisation",
             "circular economy", "waste management", "water desalination",
-            "environment", "biodiversity", "pollution", "recycling"
+            "biodiversity", "environmental protection",
+            "changement climatique", "neutralite carbone", "finance verte",
+            "developpement durable", "decarbonation", "economie circulaire",
+            "gestion dechets", "dessalement", "obligation verte"
         ],
-        "keywords_fr": [
-            "climat", "carbone", "emission", "neutralite carbone", "durabilite",
-            "durable", "vert", "decarbonation", "economie circulaire",
-            "gestion dechets", "dessalement", "environnement", "biodiversite"
-        ]
+        "keywords_bounded": ["\\bCOP\\d+\\b", "\\bCOP \\d+\\b"]
     },
     "food_security": {
         "label": "Food Security",
-        "keywords_en": [
-            "food security", "agriculture", "agritech", "agri-tech", "farming",
-            "vertical farm", "aquaculture", "food production", "food supply",
-            "food tech", "foodtech", "irrigation", "crop", "livestock",
-            "food import", "food self-sufficiency", "Al Dahra", "Agthia"
-        ],
-        "keywords_fr": [
-            "securite alimentaire", "agriculture", "agritech", "agroalimentaire",
-            "ferme verticale", "aquaculture", "production alimentaire",
-            "irrigation", "elevage", "autosuffisance alimentaire"
+        "keywords": [
+            "food security", "food supply", "food production", "food import",
+            "food self-sufficiency", "food tech", "foodtech",
+            "agritech", "agri-tech", "agricultural technology",
+            "vertical farm", "vertical farming", "indoor farming",
+            "aquaculture", "fish farming", "irrigation system",
+            "Al Dahra", "Agthia", "Elite Agro",
+            "securite alimentaire", "production alimentaire",
+            "ferme verticale", "autosuffisance alimentaire",
+            "technologie agricole", "agroalimentaire"
         ]
     },
     "logistics": {
         "label": "Logistics",
-        "keywords_en": [
-            "logistics", "supply chain", "port", "shipping", "freight",
-            "trade", "export", "import", "customs", "free zone", "free trade",
+        "keywords": [
+            "logistics hub", "logistics sector", "supply chain",
+            "shipping route", "shipping line", "freight transport",
+            "free zone", "free trade zone", "trade corridor",
             "Jebel Ali", "DP World", "Etihad Rail", "Abu Dhabi Ports",
-            "AD Ports", "COSCO", "warehouse", "distribution", "corridor",
-            "maritime", "cargo", "CMA CGM", "Bollore"
-        ],
-        "keywords_fr": [
-            "logistique", "chaine approvisionnement", "port", "transport maritime",
-            "fret", "commerce", "exportation", "importation", "douane",
-            "zone franche", "libre-echange", "entrepot", "distribution",
-            "corridor", "maritime", "cargo"
+            "AD Ports", "port authority", "container terminal",
+            "maritime trade", "maritime transport", "cargo hub",
+            "CMA CGM", "Bollore Logistics",
+            "logistique", "chaine approvisionnement", "zone franche",
+            "transport maritime", "corridor commercial", "fret",
+            "plateforme logistique"
         ]
     },
     "aeronautics": {
         "label": "Aeronautics",
-        "keywords_en": [
-            "aeronautics", "aerospace", "aviation", "aircraft", "airline",
-            "Airbus", "Boeing", "Etihad", "Emirates", "flydubai",
-            "Safran", "Thales", "Dassault Aviation", "MBDA", "defense",
-            "defence", "military", "drone", "UAV", "air show", "Dubai Airshow",
-            "airport", "MRO", "maintenance", "satellite launch", "rocket"
+        "keywords": [
+            "aeronautics", "aerospace industry", "aerospace sector",
+            "aviation industry", "aviation sector", "aircraft order",
+            "aircraft delivery", "airline industry",
+            "Airbus", "Boeing", "Etihad Airways", "Emirates airline",
+            "flydubai", "Wizz Air Abu Dhabi",
+            "Safran", "Thales", "Dassault Aviation", "MBDA",
+            "defense contract", "defense industry", "defence industry",
+            "military aircraft", "fighter jet",
+            "drone technology", "unmanned aerial",
+            "Dubai Airshow", "air show",
+            "MRO", "aircraft maintenance",
+            "aeronautique", "industrie aerospatiale",
+            "industrie aerienne", "avion de combat",
+            "industrie de defense", "salon aeronautique",
+            "maintenance aeronautique"
         ],
-        "keywords_fr": [
-            "aeronautique", "aerospatial", "aviation", "avion", "compagnie aerienne",
-            "defense", "militaire", "drone", "salon aeronautique", "aeroport",
-            "maintenance aeronautique", "satellite"
-        ]
+        "keywords_bounded": ["\\bUAV\\b"]
     },
     "space": {
         "label": "Space",
-        "keywords_en": [
-            "space", "satellite", "orbit", "launch", "rocket", "Mars",
-            "Moon", "lunar", "space agency", "UAE Space Agency", "MBRSC",
-            "Hope probe", "astronaut", "space station", "space tech",
-            "earth observation", "CNES", "Arianespace", "ArianeGroup", "Thales Alenia"
-        ],
-        "keywords_fr": [
-            "espace", "spatial", "satellite", "orbite", "lancement", "fusee",
-            "Mars", "Lune", "lunaire", "agence spatiale", "sonde",
-            "astronaute", "station spatiale", "observation terrestre"
+        "keywords": [
+            "space industry", "space sector", "space program", "space programme",
+            "space agency", "space exploration", "space mission", "space technology",
+            "satellite launch", "satellite constellation", "satellite operator",
+            "earth observation satellite", "communication satellite",
+            "orbital", "low earth orbit",
+            "UAE Space Agency", "MBRSC", "Mohammed bin Rashid Space",
+            "Hope probe", "Hope Mars",
+            "CNES", "Arianespace", "ArianeGroup", "Thales Alenia Space",
+            "industrie spatiale", "secteur spatial", "programme spatial",
+            "agence spatiale", "lancement satellite", "exploration spatiale",
+            "mission spatiale"
         ]
     },
     "fintech": {
         "label": "Fintech",
-        "keywords_en": [
-            "fintech", "financial technology", "digital bank", "neobank",
-            "payment", "crypto", "cryptocurrency", "bitcoin", "stablecoin",
-            "CBDC", "digital currency", "insurtech", "regtech", "wealthtech",
-            "ADGM", "DIFC", "sandbox", "Abu Dhabi Global Market",
-            "Dubai International Financial Centre", "First Abu Dhabi Bank", "FAB",
-            "BNP Paribas", "Societe Generale", "Amundi"
-        ],
-        "keywords_fr": [
-            "fintech", "banque digitale", "paiement", "crypto", "cryptomonnaie",
-            "monnaie numerique", "assurtech", "finance numerique",
-            "banque numerique", "technologie financiere"
+        "keywords": [
+            "fintech", "financial technology", "digital banking", "neobank",
+            "mobile payment", "digital payment", "payment platform",
+            "cryptocurrency", "crypto exchange", "bitcoin", "stablecoin",
+            "CBDC", "digital currency", "central bank digital",
+            "insurtech", "regtech", "wealthtech", "open banking",
+            "ADGM", "Abu Dhabi Global Market",
+            "DIFC", "Dubai International Financial Centre",
+            "First Abu Dhabi Bank",
+            "technologie financiere", "banque numerique",
+            "paiement numerique", "monnaie numerique",
+            "cryptomonnaie"
         ]
     },
     "health": {
         "label": "Health",
-        "keywords_en": [
-            "health", "healthcare", "hospital", "pharma", "pharmaceutical",
-            "biotech", "biotechnology", "medical", "medtech", "life sciences",
-            "clinical trial", "vaccine", "genomics", "telemedicine",
-            "Abu Dhabi Health", "DHA", "SEHA", "Mubadala Health",
-            "Sanofi", "Servier", "bioMerieux", "Essilor"
+        "keywords": [
+            "healthcare sector", "healthcare industry", "healthcare investment",
+            "hospital project", "hospital construction",
+            "pharmaceutical industry", "pharma company", "pharma sector",
+            "biotech company", "biotech sector", "biotechnology",
+            "medical device", "medical technology", "medtech",
+            "life sciences", "clinical trial", "clinical research",
+            "genomics", "precision medicine", "telemedicine", "telehealth",
+            "Abu Dhabi Health", "SEHA", "Mubadala Health", "M42",
+            "Sanofi", "Servier", "bioMerieux", "Essilor Luxottica",
+            "industrie pharmaceutique", "dispositif medical",
+            "sciences de la vie", "essai clinique", "recherche clinique",
+            "telemedecine", "secteur de la sante"
         ],
-        "keywords_fr": [
-            "sante", "hopital", "pharmaceutique", "biotech", "biotechnologie",
-            "medical", "medtech", "sciences de la vie", "essai clinique",
-            "vaccin", "genomique", "telemedecine", "dispositif medical"
-        ]
+        "keywords_bounded": ["\\bDHA\\b"]
     }
 }
 
-# Geographic / bilateral keywords — articles from non-UAE sources MUST match at least one
+# Geographic keywords — articles from non-UAE sources MUST match at least one
+# ONLY UAE-specific terms. No generic "Middle East", "Gulf", company names.
 GEO_KEYWORDS = [
-    # UAE country
-    "UAE", "United Arab Emirates", "Emirats", "Emirats Arabes Unis", "EAU",
-    "emirien", "emiriens", "emirati", "emiratis",
+    # UAE country names
+    "UAE", "United Arab Emirates",
+    "Emirats Arabes Unis", "Emirats arabes unis",
+    # Demonyms
+    "emirien", "emiriens", "emirienne", "emiriennes",
+    "emirati", "emiratis", "Emirati", "Emiratis",
     # Emirates / cities
-    "Abu Dhabi", "Dubai", "Sharjah", "Ajman", "Fujairah", "Ras Al Khaimah",
-    "Umm Al Quwain", "Al Ain", "Khalifa City", "Saadiyat", "Yas Island",
-    # Gulf region
-    "Gulf", "Golfe", "GCC", "CCEAG", "Moyen-Orient", "Middle East",
-    "Arabian", "peninsule arabique", "Arab Gulf",
-    # Key UAE entities
-    "Mubadala", "ADIA", "ADQ", "ADIO", "ICD", "TAQA", "ADNOC", "Masdar",
-    "Etihad", "Emirates", "DP World", "AD Ports", "G42", "EDGE Group",
-    "Emaar", "Aldar", "First Abu Dhabi Bank", "FAB", "DIFC", "ADGM",
-    "DMCC", "Jafza", "Jebel Ali", "MBZUAI", "TII",
-    "Abu Dhabi Investment", "Dubai Holding", "Dubai Future",
+    "Abu Dhabi", "Dubai", "Sharjah", "Ajman", "Fujairah",
+    "Ras Al Khaimah", "Umm Al Quwain", "Al Ain",
+    "Saadiyat", "Yas Island", "Khalifa City",
+    # Key UAE sovereign entities
+    "Mubadala", "ADIA", "ADQ", "ADIO", "ICD",
+    "TAQA", "ADNOC", "Masdar",
+    "Etihad Airways", "Etihad Rail", "Emirates airline", "flydubai",
+    "DP World", "AD Ports", "G42", "EDGE Group",
+    "Emaar", "Aldar", "First Abu Dhabi Bank",
+    "DIFC", "ADGM", "DMCC", "Jafza", "Jebel Ali",
+    "MBZUAI", "Abu Dhabi Investment Authority",
+    "Dubai Holding", "Dubai Future Foundation",
+    "Emirates Nuclear", "Barakah",
     # France-UAE bilateral
-    "franco-emirien", "franco-emirati", "France-EAU", "France-UAE",
-    "Business France", "BPI France", "Bpifrance", "MEDEF International",
-    "Choose France", "ambassade", "embassy",
-    # French companies with major UAE presence
-    "TotalEnergies", "Engie", "EDF", "Thales", "Airbus", "Safran",
-    "Dassault", "Naval Group", "CMA CGM", "Veolia", "Suez",
-    "BNP Paribas", "Societe Generale", "Amundi", "AXA",
-    "Sanofi", "Atos", "Capgemini", "Schneider Electric"
+    "franco-emirien", "franco-emirati", "France-EAU", "France-UAE"
 ]
+# Short geo keywords needing word boundaries
+GEO_KEYWORDS_BOUNDED = ["\\bEAU\\b", "\\bFAB\\b", "\\bTII\\b"]
 
 # RSS Feed sources
 FEEDS = {
@@ -384,22 +403,35 @@ def clean_html(text):
     return clean
 
 
+def keyword_match(text, keyword):
+    """Check if a keyword matches in text. Handles plain and regex-bounded keywords."""
+    return keyword.lower() in text
+
+
+def bounded_match(text_original, pattern):
+    """Check if a word-boundary regex pattern matches in text (case-insensitive)."""
+    return bool(re.search(pattern, text_original, re.IGNORECASE))
+
+
 def score_article(title, summary, lang, source_category):
     """Score an article's relevance based on sector keywords and geographic proximity."""
-    text = f"{title} {summary}".lower()
+    text_lower = f"{title} {summary}".lower()
+    text_original = f"{title} {summary}"
 
     matched_sectors = []
     sector_score_total = 0
 
     for sector_id, sector in SECTORS.items():
         sector_score = 0
-        if lang == "fr":
-            keywords = sector["keywords_fr"] + sector["keywords_en"]
-        else:
-            keywords = sector["keywords_en"]
 
-        for kw in keywords:
-            if kw.lower() in text:
+        # Standard keywords (substring match, case-insensitive)
+        for kw in sector.get("keywords", []):
+            if keyword_match(text_lower, kw):
+                sector_score += 1
+
+        # Bounded keywords (regex word-boundary match)
+        for pattern in sector.get("keywords_bounded", []):
+            if bounded_match(text_original, pattern):
                 sector_score += 1
 
         if sector_score > 0:
@@ -410,20 +442,31 @@ def score_article(title, summary, lang, source_category):
             })
             sector_score_total += sector_score
 
-    # Geographic / bilateral relevance
+    # Geographic relevance check
     geo_score = 0
     for kw in GEO_KEYWORDS:
-        if kw.lower() in text:
+        if kw.lower() in text_lower:
+            geo_score += 2
+    for pattern in GEO_KEYWORDS_BOUNDED:
+        if bounded_match(text_original, pattern):
             geo_score += 2
 
-    # KEY FILTER: For non-UAE sources, require geographic relevance
-    # UAE-native sources (WAM, Gulf News, etc.) are inherently about the UAE
-    if source_category != "uae" and geo_score == 0:
-        return {
-            "sectors": [],
-            "bilateral_score": 0,
-            "total_score": 0
-        }
+    # KEY FILTER: For non-UAE sources, require BOTH geographic AND sector relevance
+    # For UAE sources, require at least sector relevance (they are inherently about UAE)
+    if source_category != "uae":
+        if geo_score == 0 or sector_score_total == 0:
+            return {
+                "sectors": [],
+                "bilateral_score": 0,
+                "total_score": 0
+            }
+    else:
+        if sector_score_total == 0:
+            return {
+                "sectors": [],
+                "bilateral_score": 0,
+                "total_score": 0
+            }
 
     total_score = sector_score_total + geo_score
 
