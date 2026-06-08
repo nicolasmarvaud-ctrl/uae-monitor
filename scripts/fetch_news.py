@@ -187,7 +187,7 @@ GEO_KEYWORDS = [
     "Ras Al Khaimah", "Umm Al Quwain", "Al Ain",
     "Saadiyat", "Yas Island", "Khalifa City",
     # Key UAE sovereign entities
-    "Mubadala", "ADIA", "ADQ", "ADIO", "ICD",
+    "Mubadala", "ADIA", "ADIO", "ICD",
     "TAQA", "ADNOC", "Masdar",
     "Etihad Airways", "Etihad Rail", "Emirates airline", "flydubai",
     "DP World", "AD Ports", "G42", "EDGE Group",
@@ -200,7 +200,10 @@ GEO_KEYWORDS = [
     "franco-emirien", "franco-emirati", "France-EAU", "France-UAE"
 ]
 # Short geo keywords needing word boundaries
-GEO_KEYWORDS_BOUNDED = ["\\bEAU\\b", "\\bFAB\\b", "\\bTII\\b"]
+# Bounded geo keywords: require word boundaries AND context to avoid false positives
+# "EAU" excluded — too many false positives with French "l'eau" (water)
+# "ADQ" moved here for word boundary matching
+GEO_KEYWORDS_BOUNDED = ["\\bFAB\\b", "\\bTII\\b", "\\bADQ\\b"]
 
 # RSS Feed sources
 FEEDS = {
@@ -452,19 +455,18 @@ def score_article(title, summary, lang, source_category):
             geo_score += 2
 
     # KEY FILTER:
-    # - UAE sources: keep ALL articles (general UAE context is valuable)
-    #   Sector matches boost score but are not required
-    # - Non-UAE sources: require BOTH geographic AND sector relevance
-    if source_category != "uae":
-        if geo_score == 0 or sector_score_total == 0:
-            return {
-                "sectors": [],
-                "bilateral_score": 0,
-                "total_score": 0
-            }
+    # - UAE sources: keep ALL articles (general context)
+    # - Non-UAE sources with geo match: keep (UAE-related context from French/intl press)
+    # - Non-UAE sources without geo match: DROP (no UAE connection = noise)
+    if source_category != "uae" and geo_score == 0:
+        return {
+            "sectors": [],
+            "bilateral_score": 0,
+            "total_score": 0
+        }
 
-    # UAE sources with no sector match get a base score of 1
-    total_score = max(sector_score_total + geo_score, 1) if source_category == "uae" else sector_score_total + geo_score
+    # Base score: geo + sector. Minimum 1 for articles that pass the filter.
+    total_score = max(sector_score_total + geo_score, 1)
 
     return {
         "sectors": matched_sectors,
