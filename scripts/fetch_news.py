@@ -451,8 +451,10 @@ def score_article(title, summary, lang, source_category):
         if bounded_match(text_original, pattern):
             geo_score += 2
 
-    # KEY FILTER: For non-UAE sources, require BOTH geographic AND sector relevance
-    # For UAE sources, require at least sector relevance (they are inherently about UAE)
+    # KEY FILTER:
+    # - UAE sources: keep ALL articles (general UAE context is valuable)
+    #   Sector matches boost score but are not required
+    # - Non-UAE sources: require BOTH geographic AND sector relevance
     if source_category != "uae":
         if geo_score == 0 or sector_score_total == 0:
             return {
@@ -460,15 +462,9 @@ def score_article(title, summary, lang, source_category):
                 "bilateral_score": 0,
                 "total_score": 0
             }
-    else:
-        if sector_score_total == 0:
-            return {
-                "sectors": [],
-                "bilateral_score": 0,
-                "total_score": 0
-            }
 
-    total_score = sector_score_total + geo_score
+    # UAE sources with no sector match get a base score of 1
+    total_score = max(sector_score_total + geo_score, 1) if source_category == "uae" else sector_score_total + geo_score
 
     return {
         "sectors": matched_sectors,
