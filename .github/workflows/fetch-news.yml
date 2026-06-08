@@ -1,0 +1,44 @@
+name: Fetch News Digest
+
+on:
+  schedule:
+    # 9:30 CET = 8:30 UTC (winter) / 7:30 UTC (summer CEST)
+    # We use 7:30 UTC to cover summer time; in winter it runs at 8:30 CET which is close enough
+    - cron: '30 7 * * *'
+    # 14:00 CET = 13:00 UTC (winter) / 12:00 UTC (summer CEST)
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news and generate digest
+        run: python scripts/fetch_news.py
+
+      - name: Commit and push digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update news digest $(date -u +%Y-%m-%d_%H%M)"
+            git push
+          fi
