@@ -37,11 +37,15 @@
 
     // Build base URL for data files — works on GitHub Pages and locally
     const BASE_URL = (function () {
-        const loc = window.location;
-        // GitHub Pages: https://user.github.io/repo-name/
-        // The data files are at /repo-name/data/
-        const base = loc.pathname.replace(/\/+$/, "") + "/";
-        return base;
+        let path = window.location.pathname;
+        // Remove filename if present (e.g. /uae-monitor/index.html -> /uae-monitor/)
+        if (path.endsWith(".html") || path.endsWith(".htm")) {
+            path = path.substring(0, path.lastIndexOf("/") + 1);
+        }
+        // Ensure trailing slash
+        if (!path.endsWith("/")) path += "/";
+        console.log("[Monitor] BASE_URL:", path);
+        return path;
     })();
 
     async function fetchJson(url) {
