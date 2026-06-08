@@ -155,15 +155,32 @@ SECTORS = {
     }
 }
 
-# General UAE-France bilateral keywords (boost relevance)
-BILATERAL_KEYWORDS = [
+# Geographic / bilateral keywords — articles from non-UAE sources MUST match at least one
+GEO_KEYWORDS = [
+    # UAE country
     "UAE", "United Arab Emirates", "Emirats", "Emirats Arabes Unis", "EAU",
+    "emirien", "emiriens", "emirati", "emiratis",
+    # Emirates / cities
     "Abu Dhabi", "Dubai", "Sharjah", "Ajman", "Fujairah", "Ras Al Khaimah",
-    "Umm Al Quwain", "France", "French", "francais", "franco-emirien",
-    "bilateral", "cooperation", "partnership", "partenariat", "investissement",
-    "investment", "Mubadala", "ADIA", "ADQ", "ADIO", "ICD",
+    "Umm Al Quwain", "Al Ain", "Khalifa City", "Saadiyat", "Yas Island",
+    # Gulf region
+    "Gulf", "Golfe", "GCC", "CCEAG", "Moyen-Orient", "Middle East",
+    "Arabian", "peninsule arabique", "Arab Gulf",
+    # Key UAE entities
+    "Mubadala", "ADIA", "ADQ", "ADIO", "ICD", "TAQA", "ADNOC", "Masdar",
+    "Etihad", "Emirates", "DP World", "AD Ports", "G42", "EDGE Group",
+    "Emaar", "Aldar", "First Abu Dhabi Bank", "FAB", "DIFC", "ADGM",
+    "DMCC", "Jafza", "Jebel Ali", "MBZUAI", "TII",
+    "Abu Dhabi Investment", "Dubai Holding", "Dubai Future",
+    # France-UAE bilateral
+    "franco-emirien", "franco-emirati", "France-EAU", "France-UAE",
     "Business France", "BPI France", "Bpifrance", "MEDEF International",
-    "Choose France", "ambassade", "embassy"
+    "Choose France", "ambassade", "embassy",
+    # French companies with major UAE presence
+    "TotalEnergies", "Engie", "EDF", "Thales", "Airbus", "Safran",
+    "Dassault", "Naval Group", "CMA CGM", "Veolia", "Suez",
+    "BNP Paribas", "Societe Generale", "Amundi", "AXA",
+    "Sanofi", "Atos", "Capgemini", "Schneider Electric"
 ]
 
 # RSS Feed sources
@@ -367,12 +384,12 @@ def clean_html(text):
     return clean
 
 
-def score_article(title, summary, lang):
-    """Score an article's relevance based on sector keywords and bilateral terms."""
+def score_article(title, summary, lang, source_category):
+    """Score an article's relevance based on sector keywords and geographic proximity."""
     text = f"{title} {summary}".lower()
 
     matched_sectors = []
-    total_score = 0
+    sector_score_total = 0
 
     for sector_id, sector in SECTORS.items():
         sector_score = 0
@@ -391,19 +408,28 @@ def score_article(title, summary, lang):
                 "label": sector["label"],
                 "score": sector_score
             })
-            total_score += sector_score
+            sector_score_total += sector_score
 
-    # Bilateral relevance boost
-    bilateral_score = 0
-    for kw in BILATERAL_KEYWORDS:
+    # Geographic / bilateral relevance
+    geo_score = 0
+    for kw in GEO_KEYWORDS:
         if kw.lower() in text:
-            bilateral_score += 2
+            geo_score += 2
 
-    total_score += bilateral_score
+    # KEY FILTER: For non-UAE sources, require geographic relevance
+    # UAE-native sources (WAM, Gulf News, etc.) are inherently about the UAE
+    if source_category != "uae" and geo_score == 0:
+        return {
+            "sectors": [],
+            "bilateral_score": 0,
+            "total_score": 0
+        }
+
+    total_score = sector_score_total + geo_score
 
     return {
         "sectors": matched_sectors,
-        "bilateral_score": bilateral_score,
+        "bilateral_score": geo_score,
         "total_score": total_score
     }
 
@@ -456,7 +482,7 @@ def fetch_feed(name, config):
                 summary = translate_arabic(summary)
 
             # Score relevance
-            scoring = score_article(title, summary, config["lang"])
+            scoring = score_article(title, summary, config["lang"], config["category"])
 
             # Only keep articles with some relevance
             if scoring["total_score"] == 0:
