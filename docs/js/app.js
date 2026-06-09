@@ -153,7 +153,7 @@
             return;
         }
 
-        let articles = [...currentDigest.articles];
+        let articles = currentDigest.articles.filter(a => a.relevance_score > 1);
 
         // Sector filter
         if (activeSector !== "all") {
