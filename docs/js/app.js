@@ -320,6 +320,126 @@
         URL.revokeObjectURL(url);
     }
 
+    // --- GitHub Refresh ---
+
+    const GITHUB_REPO = "nicolasmarvaud-ctrl/uae-monitor";
+    const GITHUB_WORKFLOW = "fetch-news.yml";
+    const TOKEN_KEY = "uae-monitor-gh-token";
+
+    const $btnRefresh = document.getElementById("btn-refresh");
+    const $refreshIcon = document.getElementById("refresh-icon");
+    const $refreshLabel = document.getElementById("refresh-label");
+    const $refreshModal = document.getElementById("refresh-modal");
+    const $tokenInput = document.getElementById("token-input");
+    const $tokenError = document.getElementById("token-error");
+    const $modalSave = document.getElementById("modal-save");
+    const $modalCancel = document.getElementById("modal-cancel");
+    const $modalClose = document.getElementById("modal-close");
+
+    function getToken() {
+        try { return localStorage.getItem(TOKEN_KEY) || ""; } catch (e) { return ""; }
+    }
+
+    function saveToken(token) {
+        try { localStorage.setItem(TOKEN_KEY, token); } catch (e) { /* ignore */ }
+    }
+
+    function setRefreshState(state) {
+        const states = { loading: true, idle: false, success: false, error: false };
+        $btnRefresh.disabled = state === "loading";
+        $btnRefresh.classList.remove("success", "error");
+        $refreshIcon.classList.toggle("spin", state === "loading");
+
+        if (state === "loading") {
+            $refreshLabel.textContent = "Triggering…";
+        } else if (state === "success") {
+            $refreshLabel.textContent = "Triggered!";
+            $btnRefresh.classList.add("success");
+            setTimeout(() => setRefreshState("idle"), 3000);
+        } else if (state === "error") {
+            $refreshLabel.textContent = "Failed";
+            $btnRefresh.classList.add("error");
+            setTimeout(() => setRefreshState("idle"), 3000);
+        } else {
+            $refreshLabel.textContent = "Refresh";
+        }
+    }
+
+    async function triggerWorkflow(token) {
+        const resp = await fetch(
+            `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW}/dispatches`,
+            {
+                method: "POST",
+                headers: {
+                    "Authorization": `Bearer ${token}`,
+                    "Accept": "application/vnd.github+json",
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ ref: "main" })
+            }
+        );
+        return resp;
+    }
+
+    async function doRefresh(token) {
+        setRefreshState("loading");
+        try {
+            const resp = await triggerWorkflow(token);
+            if (resp.status === 204) {
+                setRefreshState("success");
+            } else if (resp.status === 401 || resp.status === 403) {
+                saveToken("");
+                setRefreshState("error");
+                showTokenModal("Invalid or expired token. Please enter a new one.");
+            } else {
+                setRefreshState("error");
+            }
+        } catch (e) {
+            setRefreshState("error");
+        }
+    }
+
+    function showTokenModal(errorMsg) {
+        $tokenInput.value = "";
+        $tokenError.textContent = errorMsg || "";
+        $refreshModal.classList.add("open");
+        setTimeout(() => $tokenInput.focus(), 50);
+    }
+
+    function hideTokenModal() {
+        $refreshModal.classList.remove("open");
+    }
+
+    $btnRefresh.addEventListener("click", (e) => {
+        const token = getToken();
+        if (!token || e.shiftKey) {
+            showTokenModal();
+        } else {
+            doRefresh(token);
+        }
+    });
+
+    $modalSave.addEventListener("click", async () => {
+        const token = $tokenInput.value.trim();
+        if (!token) {
+            $tokenError.textContent = "Please enter a token.";
+            return;
+        }
+        saveToken(token);
+        hideTokenModal();
+        await doRefresh(token);
+    });
+
+    $tokenInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") $modalSave.click();
+    });
+
+    $modalCancel.addEventListener("click", hideTokenModal);
+    $modalClose.addEventListener("click", hideTokenModal);
+    $refreshModal.addEventListener("click", (e) => {
+        if (e.target === $refreshModal) hideTokenModal();
+    });
+
     // --- Event listeners ---
 
     $searchInput.addEventListener("input", debounce(() => {
