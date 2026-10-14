@@ -1,0 +1,863 @@
+{
+  "generated_at": "2026-10-14T16:38:51.221545+00:00",
+  "generated_at_cet": "2026-10-14 17:38",
+  "total_articles": 57,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "1e0ed3191bc6",
+      "title": "Iran sees air, land travel chaos as US sanctions bite",
+      "summary": "Flights between Iran and the United Arab Emirates have been suspended, following tighter US sanctions on Iran's aviation industry. The move effectively cuts Tehran off from Dubai, one of the region's most important commercial hubs. There are also huge backups near Iran's border with Turkey, as overland shipping routes struggle to fill the gaps. Also in this edition: Donald Trump and Xi Jinping hail strong ties between the US and China as they discuss AI, trade and energy.",
+      "link": "https://www.france24.com/en/iran-sees-air-land-travel-chaos-as-us-sanctions-bite",
+      "source": "France 24 Eco EN",
+      "source_lang": "en",
+      "category": "french",
+      "published": "2026-09-24T20:35:39+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        },
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        },
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 7
+    },
+    {
+      "id": "fbed9b90ec6f",
+      "title": "State Street plans 100 jobs for Emiratis at Al Ain hub as it aims for July 2027 opening",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/state-street-plans-100-jobs-for-emiratis-at-al-ain-hub-as-it-aims-for-july-2027-opening/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T11:52:10+00:00",
+      "sectors": [],
+      "bilateral_score": 6,
+      "relevance_score": 6
+    },
+    {
+      "id": "0aa56e8dafeb",
+      "title": "Dubai and Abu Dhabi among top destinations for next-generation wealth, Savills says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/14/dubai-and-abu-dhabi-among-top-destinations-for-next-generation-wealth-savills-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T10:57:43+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "02b886bb9fe9",
+      "title": "Diplomats, business leaders unite at ‘Proud of UAE’ forum in Dubai",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/diplomats-business-leaders-unite-at-proud-of-uae-forum-in-dubai-1.500710473",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:55:48+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "9d78d68ba18f",
+      "title": "Les exportations de pétrole brut revenues à leur niveau d'avant-guerre",
+      "summary": "La circulation des navires pétroliers a partiellement repris dans le détroit d'Ormuz et la péninsule Arabique a réorganisé ses flux de pétrole, via l'oléoduc saoudien est-ouest ou celui vers Fujairah, dans le golfe d'Oman. Mais les tensions persistent sur les produits raffinés. Et si les membres du G7 ont accepté de libérer 100 millions de barils de leurs réserves stratégiques, la Chine, elle, recommence à acheter du pétrole pour reconstituer ses stocks.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261005-les-exportations-de-p%C3%A9trole-brut-revenues-%C3%A0-leur-niveau-d-avant-guerre",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-05T21:01:29+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "23e0e4654a78",
+      "title": "130 millions d’électeurs radiés : en Inde, la révolte des « cafards » contre Narendra Modi ne faiblit pas",
+      "summary": "En Inde depuis plusieurs semaines, un mouvement parodique baptisé les « cafards » mobilise les jeunes contre la radiation de 130 millions de noms des listes électorales, accusée de profiter au parti du Premier ministre ultranationaliste hindou Narendra Modi. Le tout sur fond de chômage des moins de 30 ans.",
+      "link": "https://www.challenges.fr/monde/130-millions-delecteurs-radies-en-inde-la-revolte-des-cafards-contre-narendra-modi-ne-faiblit-pas_646340",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-13T12:51:00+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "856b9c4c4f23",
+      "title": "'Minimise catastrophes': UAE's AI minister highlights dangers of autonomous arms",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:26:17+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "0acdd5104274",
+      "title": "Sharjah turns to AI to identify foreign investment opportunities in seconds",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/14/sharjah-turns-to-ai-to-boost-growth-and-speed-up-business-processes/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:07:56+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "e0b2053b1809",
+      "title": "Dubai launches literacy platform to help parents guide children on safe use of AI",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/dubai-launches-literacy-platform-to-help-parents-guide-children-on-safe-use-of-ai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T09:51:14+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "a79f8a570b13",
+      "title": "Sharjah launches ethical framework for AI use in schools",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/education/sharjah-launches-ethical-framework-for-ai-use-in-schools-1.500710527",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:33:48+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "11e9de75e568",
+      "title": "Sharjah launches Najm, an AI agent to guide investors",
+      "summary": "",
+      "link": "https://gulfnews.com/business/sharjah-launches-najm-an-ai-agent-to-guide-investors-1.500710070",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T08:53:47+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6e0ea8480606",
+      "title": "Des neurones humains dans le cerveau des souris : une bonne idée ?",
+      "summary": "À l'université de Stanford, des chercheurs ont réussi à faire pousser du tissu cérébral humain dans le cerveau de souris génétiquement modifiées, jusqu'à occuper plus de 90 % de l'espace cortical ainsi libéré. Cette prouesse a été publiée dans la revue \"Nature\" le 8 octobre. L'objectif : comprendre le développement du cerveau et certaines maladies neurologiques.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261009-des-neurones-humains-dans-le-cerveau-des-souris-une-bonne-id%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-09T15:08:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ac9685a8ab5f",
+      "title": "Télévision : Matthieu Pigasse veut lancer sa chaîne au nom de la «bataille culturelle»",
+      "summary": "Le patron du groupe Combat, qui rassemble notamment Radio Nova et Les Inrockuptibles, a annoncé sa candidature à l’attribution d’une fréquence de la TNT. Il entend défendre un projet culturel et politique, alors que six autorisations de diffusion arrivent à échéance fin 2027.",
+      "link": "https://www.lejdd.fr/Societe/television-matthieu-pigasse-veut-lancer-sa-chaine-au-nom-de-la-bataille-culturelle-186018",
+      "source": "Le JDD",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-14T10:05:34+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e58a50ceeada",
+      "title": "Dubai's Al Satwa Roundabout replacement to halve journey times",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/dubais-al-satwa-roundabout-replacement-to-halve-journey-times/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T15:34:14+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "15329413cc4a",
+      "title": "Dubai's rainwater drainage capacity to increase by 700 per cent on completion of Tasreef project",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/dubais-rainwater-drainage-capacity-to-increase-by-700-per-cent-on-completion-of-tasreef-project/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:50:18+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c09927fee534",
+      "title": "UAE-backed GlobalFoundries to run two chip plants under $21bn US-Japan deal",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/14/globlafoundries-japan-us-chips/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:20:35+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d3c40e2f0a69",
+      "title": "Gold worth millions seized in three smuggling bids on UAE-Delhi routes",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/india-gold-smuggling-uae-passengers/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:18:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "31c0071b5878",
+      "title": "Spices, shipwrecks and ancient trade routes: Louvre Abu Dhabi explores 1,000 years of Indian Ocean history",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/10/14/louvre-abu-dhabi-explores-1000-years-of-indian-ocean-history/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T11:48:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6a2a4b3154f3",
+      "title": "Aldar's international unit plans to deliver 9,000 homes in next five years",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/10/14/aldar-international-unit-plans-to-deliver-9000-homes-in-next-five-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T10:27:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3713ff101708",
+      "title": "Keanu Al Azhari to represent UAE with 'immense pride' after landing F3 contract for 2027",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/10/14/keanu-al-azhari-to-represent-uae-with-immense-pride-after-landing-f3-contract-for-2027/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T10:25:04+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "06ed881c673d",
+      "title": "Dubai gears up for Global Village Season 31",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-gears-up-for-global-village-season-31-1.500710412",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:13:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "913f207bda59",
+      "title": "Global Village Dubai Season 31 opening in pictures",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/global-village-dubai-season-31-opening-in-pictures-1.500710744",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T16:05:39+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f6193b5a1c91",
+      "title": "Dubai Mall Plaza and Hotel 'coming soon', teases Mohamed Alabbar",
+      "summary": "",
+      "link": "https://gulfnews.com/business/retail/dubai-mall-plaza-and-hotel-coming-soon-teases-mohamed-alabbar-1.500710718",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T15:43:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "785c0d874db2",
+      "title": "US-Iran war: 5 things UAE residents need to know today (Oct 14, 2026)",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/us-iran-war-5-things-uae-residents-need-to-know-today-oct-14-2026-1.500710662",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:45:27+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "248b94520d4b",
+      "title": "Dubai RTA to conduct strategic Metro depot drill tomorrow",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/dubai-rta-to-conduct-strategic-metro-depot-drill-tomorrow-1.500710629",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:24:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ebac09ff9826",
+      "title": "Dubai’s underground transport revolution: How the city will change",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubais-underground-transport-revolution-how-the-city-will-change-1.500710180",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "83516bc61b2c",
+      "title": "Staycation by the sea, sushi at the movies: 8 fun things to do in Abu Dhabi this week",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/staycation-by-the-sea-sushi-at-the-movies-6-fun-things-to-do-in-abu-dhabi-this-week-1.500710494",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:50:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e52d225e0fdb",
+      "title": "Bangladeshi expat mother and son, 15, killed in Abu Dhabi car crash",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/bangladeshi-expat-mother-and-son15-killed-in-abu-dhabi-car-crash-1.500710513",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:19:05+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8081b831bd8f",
+      "title": "Dubai Police add 920hp Lamborghini Temerario to luxury patrol fleet",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/dubai-police-add-920hp-lamborghini-temerario-to-luxury-patrol-fleet-1.500710417",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:13:57+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "afebbe3645e0",
+      "title": "How to protect your BBQ grill from sun, dust and rain in the UAE",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/home-and-kitchen/how-to-protect-your-bbq-grill-from-sun-dust-and-rain-in-the-uae-1.500709887",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fd24a35ebf10",
+      "title": "UK government early prisoner release scheme boosted by AI",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/2026/10/14/uk-government-early-prisoner-release-scheme-boosted-by-ai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T16:30:00+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "597e99fcbff4",
+      "title": "Families seek justice as trial of English Channel tragedy mastermind opens in Erbil",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/14/families-seek-justice-as-trial-of-english-channel-tragedy-mastermind-opens-in-erbil/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T15:22:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d4bada72fdde",
+      "title": "'World’s oldest known shipwreck' lost more than 4,000 years ago found off Turkey",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/10/14/worlds-oldest-known-shipwreck-lost-more-than-4000-years-ago-found-off-turkey/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T15:16:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "101b77d2da49",
+      "title": "Addison Lee taxi founder takes near 50% hit on London mansion sale",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/14/addison-lee-taxi-founder-takes-near-50-hit-on-london-mansion-sale/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:48:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f3446e242996",
+      "title": "Diesel shortage to persist into 2027 as Iran war disrupts supply, IEA warns",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/14/diesel-shortage-to-persist-into-2027-as-iran-war-disrupts-supply-iea-warns/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:26:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "927757897461",
+      "title": "How this year’s Nobel Prize in economics helps us understand the Gulf economies",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/14/nobel-prize-gulf-economics-robert-hall-michael-woodford/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e8fb71b16ab7",
+      "title": "Khaldoon Al Mubarak meets China's Wang Yi to strengthen bilateral ties",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/14/khaldoon-al-mubarak-meets-chinas-wang-yi-to-strengthen-bilateral-ties/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:17:05+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b43520f369d7",
+      "title": "Saudi Crown Prince meets Iraqi PM in Riyadh after deadly Houthi airport attack",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/14/saudi-crown-prince-meets-iraqs-prime-minister-in-riyadh/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:12:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e19c5fe8c2a3",
+      "title": "Under siege: Taiz isolated and afraid as Houthis and Yemeni forces fight over city",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/14/under-siege-taiz-isolated-and-afraid-as-houthis-and-yemeni-forces-fight-over-city/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:19:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "74dedda53543",
+      "title": "Lebanon's power failure: Diesel generators, $300-a-month bills - and a corrupt system milking the profits",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/14/wake-up-and-smell-the-diesel-multibillion-dollar-generators-industry-fuelling-lebanons-corruption/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:11:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0b3d6efe8e69",
+      "title": "Investors in collapsed jeweller Vashi 'could be compensated' after watchdog ruling",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/14/investors-in-collapsed-jeweller-vashi-could-be-compensated-after-ruling-by-watchdog/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T11:38:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2e55143de731",
+      "title": "Gaza committee signs recovery assistance deal with Germany’s GIZ in Cairo",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/14/gaza-committee-signs-recovery-assistance-deal-with-germanys-giz-in-cairo/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T10:02:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ca5471c9e9f4",
+      "title": "‘You can’t swim’: The rejection that fuelled Maha Al Shehhi’s Olympic journey",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/10/14/you-cant-swim-the-rejection-that-fuelled-maha-al-shehhis-olympic-journey/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T10:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8915517ec3a6",
+      "title": "US decries 'embarrassing' case against Lebanese envoy over contact with Israel",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/14/us-decries-embarrassing-case-against-lebanese-envoy-over-contact-with-israel/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T09:45:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "05e0083520f5",
+      "title": "Palestinian faction leaders gather in Cairo to renew bid for long-elusive reconciliation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/14/palestinian-faction-leaders-gather-in-cairo-to-renew-bid-for-long-elusive-reconciliation/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T09:27:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "37f75c5f4d75",
+      "title": "Crunch SPL fixture involving Cristiano Ronaldo’s Al Nassr postponed due to ‘logistical considerations’",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/14/crunch-spl-fixture-involving-cristiano-ronaldos-al-nassr-postponed-due-to-logistical-considerations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T09:21:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "899845de24b4",
+      "title": "Diplomacy's changing footprint as told by mission openings and closures",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/10/14/diplomacys-changing-footprint-as-told-by-mission-openings-and-closures/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T08:46:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "36db293af8e2",
+      "title": "OpenAI says Saudi citizen arrested over hidden recording device in office",
+      "summary": "(Bloomberg) -- An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company’s San Francisco offices, according to statements from the artificial intelligence company and the US Justice Department.",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/14/abdulrahman-alfozan-lawyer-openai-saudi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T08:44:02+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4737a38c48c6",
+      "title": "Global Village Season 31: Why the Floating Market is a foodie haven, with bites from Dh25",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/global-village-season-31-why-the-floating-market-is-a-foodie-haven-with-bites-from-dh25-1.500710708",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T15:38:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f76ed8c0abff",
+      "title": "US-Iran war: Houthi attacks spark fire at Saudi Aramco building, wound 4 in Riyadh; Trump weighs joining strikes",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/us-iran-war-houthi-attacks-spark-fire-at-saudi-aramco-building-wound-4-in-riyadh-trump-weighs-joining-strikes-1.500709746",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T03:42:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "27d423b93080",
+      "title": "India issues new update on injured nationals in Riyadh airport attack",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/india-issues-new-update-on-injured-nationals-in-riyadh-airport-attack-1.500710655",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:48:18+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5c76ac426aab",
+      "title": "Jordan recovers 14,000-year-old artefact from Australia, part of world's oldest large sculpture",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/jordan-recovers-14000-year-old-artefact-from-australia-part-of-worlds-oldest-large-sculpture-1.500709975",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T14:00:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "710ec09b3fcc",
+      "title": "I froze at the door: Syrian barber recalls surprise encounter with Cristiano Ronaldo",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/i-froze-at-the-door-syrian-barber-recalls-surprise-encounter-with-cristiano-ronaldo-1.500710388",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:58:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f187ee0946fb",
+      "title": "Papal health news: A sensitive issue for Vatican",
+      "summary": "",
+      "link": "https://gulfnews.com/world/europe/papal-health-news-a-sensitive-issue-for-vatican-3-1.500710559",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:47:37+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "427334a1168a",
+      "title": "Majid Al Futtaim CEO: Treat AI like financial capital",
+      "summary": "",
+      "link": "https://gulfnews.com/business/retail/majid-al-futtaim-ceo-treat-ai-like-financial-capital-1.500710544",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:45:29+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "17fd8f3e2855",
+      "title": "Can one travel adapter really work around the world?",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/can-one-travel-adapter-really-work-around-the-world-1.500710020",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T13:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a5d5f439327f",
+      "title": "Is Carrick’s job at risk? Man United face tough run of fixtures",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/is-carricks-job-at-risk-man-united-face-tough-run-of-fixtures-1.500710439",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-14T12:28:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 2
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 9
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 1
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 1
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
