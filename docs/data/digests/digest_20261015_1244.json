@@ -1,0 +1,955 @@
+{
+  "generated_at": "2026-10-15T12:44:22.443664+00:00",
+  "generated_at_cet": "2026-10-15 13:44",
+  "total_articles": 65,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "1e0ed3191bc6",
+      "title": "Iran sees air, land travel chaos as US sanctions bite",
+      "summary": "Flights between Iran and the United Arab Emirates have been suspended, following tighter US sanctions on Iran's aviation industry. The move effectively cuts Tehran off from Dubai, one of the region's most important commercial hubs. There are also huge backups near Iran's border with Turkey, as overland shipping routes struggle to fill the gaps. Also in this edition: Donald Trump and Xi Jinping hail strong ties between the US and China as they discuss AI, trade and energy.",
+      "link": "https://www.france24.com/en/iran-sees-air-land-travel-chaos-as-us-sanctions-bite",
+      "source": "France 24 Eco EN",
+      "source_lang": "en",
+      "category": "french",
+      "published": "2026-09-24T20:35:39+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        },
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        },
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 7
+    },
+    {
+      "id": "6eee5869716e",
+      "title": "New Dubai footbridge and Sharjah buses to improve access to Etihad Rail stations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/15/new-dubai-footbridge-and-sharjah-buses-to-improve-access-to-etihad-rail-stations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:16:47+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 6,
+      "relevance_score": 7
+    },
+    {
+      "id": "bc183b5a900d",
+      "title": "Dubai Etihad Rail–Metro pedestrian bridge opens: Five-minute walk connects stations",
+      "summary": "",
+      "link": "https://gulfnews.com/living-in-uae/transport/dubai-etihad-rail-metro-pedestrian-bridge-now-open-1.500711688",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:54:44+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "e6ce8248e3d0",
+      "title": "Aldar enters Sharjah with Dh1.1bn residential acquisition",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/10/15/aldar-enters-sharjah-with-dh11bn-residential-acquisition/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T08:31:53+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "9d78d68ba18f",
+      "title": "Les exportations de pétrole brut revenues à leur niveau d'avant-guerre",
+      "summary": "La circulation des navires pétroliers a partiellement repris dans le détroit d'Ormuz et la péninsule Arabique a réorganisé ses flux de pétrole, via l'oléoduc saoudien est-ouest ou celui vers Fujairah, dans le golfe d'Oman. Mais les tensions persistent sur les produits raffinés. Et si les membres du G7 ont accepté de libérer 100 millions de barils de leurs réserves stratégiques, la Chine, elle, recommence à acheter du pétrole pour reconstituer ses stocks.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261005-les-exportations-de-p%C3%A9trole-brut-revenues-%C3%A0-leur-niveau-d-avant-guerre",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-05T21:01:29+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "77a464b9607a",
+      "title": "Adnoc says decade-old contingency plan kept oil flowing throughout Iran war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/15/adnoc-says-decade-old-contingency-plan-kept-oil-flowing-throughout-iran-war/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:17:14+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "013ecbd25b2d",
+      "title": "Dubai cybersecurity company Dynova crosses $500,000 ARR in first year without venture capital",
+      "summary": "",
+      "link": "https://gulfnews.com/business/corporate-news/dubai-cybersecurity-company-dynova-crosses-500000-arr-in-first-year-without-venture-capital-1.500711618",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:06:14+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6e0ea8480606",
+      "title": "Des neurones humains dans le cerveau des souris : une bonne idée ?",
+      "summary": "À l'université de Stanford, des chercheurs ont réussi à faire pousser du tissu cérébral humain dans le cerveau de souris génétiquement modifiées, jusqu'à occuper plus de 90 % de l'espace cortical ainsi libéré. Cette prouesse a été publiée dans la revue \"Nature\" le 8 octobre. L'objectif : comprendre le développement du cerveau et certaines maladies neurologiques.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261009-des-neurones-humains-dans-le-cerveau-des-souris-une-bonne-id%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-09T15:08:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "711a2f0bd942",
+      "title": "Présidentielle 2027 : les enseignements du premier sondage post-primaire de la gauche",
+      "summary": "Le Pen loin en tête, Philippe qualifié au second tour s’il est seul candidat du bloc central, Lisnard devant Retailleau dans une hypothèse : voici ce qu’il faut retenir du nouveau sondage Ifop-Fiducial pour LCI et Sud Radio.",
+      "link": "https://www.lejdd.fr/politique/presidentielle-2027-les-enseignements-du-premier-sondage-post-primaire-de-la-gauche-186066",
+      "source": "Le JDD",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-14T19:58:27+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0f092b904936",
+      "title": "Sheikha Latifa hosts women leaders' majlis in Dubai to discuss innovation and opportunities",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/15/sheikha-latifa-hosts-women-leaders-majlis-in-dubai-to-discuss-innovation-and-opportunities/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:56:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b90ad2bf0204",
+      "title": "Pierre Fabre Laboratories’ new Dubai hub highlights bold plans for regional growth",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/10/15/pierre-fabre-laboratories-new-dubai-hub-highlights-bold-plans-for-regional-growth/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:27:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "698ce41c258f",
+      "title": "Abu Dhabi F1 Grand Prix: 'Unprecedented demand' and preparations on track with 50 days to go",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/f1/2026/10/15/abu-dhabi-f1-grand-prix-unprecedented-demand-and-preparations-on-track-with-50-days-to-go/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:13:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bbd364b2aa27",
+      "title": "Abu Dhabi shuts down cafe over repeated food safety violations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/15/abu-dhabi-shuts-down-cafe-over-repeated-food-safety-violations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:07:22+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "647e39ef7eca",
+      "title": "Hormuz matters but UAE has more than one gateway, economy minister says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/15/hormuz-really-matters-but-the-uae-has-more-than-one-gateway-economy-minister-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:04:45+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "054deb278422",
+      "title": "Sharjah Police arrest 33 in crackdown on $2.4bn global money-laundering scheme",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/15/33-arrests-in-international-operation-into-organised-crime-led-by-sharjah-police/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:49:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9c4ff37f385e",
+      "title": "Abu Dhabi revokes doctor's licence for violating controlled medication rules",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/15/abu-dhabi-revokes-doctors-licence-for-violating-controlled-medication-rules/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T08:27:48+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "337bb1ca1990",
+      "title": "Emirati racer Rashid Al Dhaheri takes major step towards F1 dream with Formula 3 move",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/f1/2026/10/15/emirati-racer-rashid-al-dhaheri-takes-major-step-towards-f1-dream-with-formula-3-move/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T07:54:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6e80bcde9f9d",
+      "title": "Global Village reopens in Dubai: What’s new for the 31st season?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/15/global-village-reopens-in-dubai-whats-new-for-its-31st-season/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T05:47:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3427752a9a61",
+      "title": "Lufthansa wins TAP Air Portugal bid in €1.2b deal: What UAE travellers need to know",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/lufthansa-wins-tap-air-portugal-bid-in-12b-deal-what-uae-travellers-need-to-know-1.500711853",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:23:52+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5defa2886014",
+      "title": "iPhone Duo UAE pre-orders: What you lose despite paying Dh3,000 more than the iPhone 18 Pro Max",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/iphone-duo-uae-pre-orders-what-you-lose-despite-paying-dh3000-more-than-the-iphone-18-pro-max-1.500711745",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:46:01+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "975f56e3e06e",
+      "title": "Global Village Dubai Season 31: What visitors are saying about the foodie haven and cultural delights",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/global-village-dubai-season-31-what-visitors-are-saying-about-the-foodie-haven-and-cultural-delights-1.500711662",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:59:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "72072a7336d4",
+      "title": "Sharjah eyes ports and rail as geopolitics reshape trade",
+      "summary": "",
+      "link": "https://gulfnews.com/business/sharjah-eyes-ports-and-rail-as-geopolitics-reshape-trade-1.500711570",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:58:51+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "477d46a3109e",
+      "title": "‘It’s a fantastic racecourse’: Dylan Fletcher on SailGP’s return to Dubai",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/its-a-fantastic-racecourse-dylan-fletcher-on-sailgps-return-to-dubai-1.500711666",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:39:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "51aca164c1b9",
+      "title": "How a 15-year-old boy's digital wallet exposed a global crime operation in Sharjah",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/how-a-15-year-old-boys-digital-wallet-exposed-a-global-crime-operation-in-sharjah-1.500711641",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:25:43+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9cc94c1f8ee6",
+      "title": "UAE leaders condole with Saudi King over victims of King Khalid International Airport attacks",
+      "summary": "UAE leaders condole with Saudi King over victims of King Khalid International Airport attacks",
+      "link": "https://gulfnews.com/uae/government/uae-leaders-condole-with-saudi-king-over-victims-of-king-khalid-international-airport-attacks-1.500711631",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:23:24+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2f85ad830a47",
+      "title": "Dubai regulator fines company Dh1.67 million for operating without registration",
+      "summary": "",
+      "link": "https://gulfnews.com/business/banking/dubai-regulator-fines-company-dh167-million-for-operating-without-registration-1.500711635",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:14:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "70736a990f06",
+      "title": "FNC Speaker denounces Houthi attacks, reaffirms UAE's solidarity with Saudi Arabia",
+      "summary": "FNC Speaker condemns Houthi attacks on Saudi Arabia, affirms UAE&apos;s full solidarity",
+      "link": "https://gulfnews.com/uae/fnc-speaker-denounces-houthi-attacks-reaffirms-uaes-solidarity-with-saudi-arabia-1.500711558",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:33:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "af6b69d47796",
+      "title": "What to watch in UAE cinemas and OTT this week: Ranabaali, Jailer 2 to Carrie",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/what-to-watch-in-uae-cinemas-and-ott-this-week-ranabaali-jailer-2-to-carrie-1.500711561",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:30:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "56c59a360422",
+      "title": "Dh40,000 a month to run a private home? Inside Dubai’s booming luxury household economy",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/company-news/dh40000-a-month-to-run-a-private-home-inside-dubais-booming-luxury-household-economy-1.500711550",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:18:48+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "29d843d17c95",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "source": "TechCrunch",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-10-14T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7e53511a38eb",
+      "title": "Riyadh Fashion Week postponed to next year in latest Saudi event shake-up",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/fashion-beauty/2026/10/15/riyadh-fashion-week-2026-postponed/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:39:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "50e882c2eabb",
+      "title": "DFSA fines immigration firm Hayman-Woodward Dh1.67m for unlicensed services",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/10/15/dfsa-fines-immigration-firm-hayman-woodward-dh167m-for-unlicensed-services/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:06:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "42976aa6d981",
+      "title": "Hezbollah claims ownership of explosive-laden vehicle seized by Lebanese army",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/15/hezbollah-claims-ownership-of-explosive-laden-vehicle-seized-by-lebanese-army/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:42:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6baef6116054",
+      "title": "David Dastmalchian was told to change his surname to succeed in Hollywood",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/10/15/david-dastmalchian-middle-eastern-iranian-heritage-street-fighter/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:16:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f722d86b003a",
+      "title": "Gulf-EU summit in Riyadh postponed amid Houthi attacks on Saudi Arabia",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/15/gulf-eu-summit-in-riyadh-postponed-amid-houthi-attacks-on-saudi-arabia/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:51:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aa5eec8df2f8",
+      "title": "Two dead in Istanbul as torrential rain floods Turkish city",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/15/two-dead-in-istanbul-as-torrential-rain-floods-turkish-city/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:23:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b6dcb43a2c31",
+      "title": "Nissan Patrol marks 75 years with limited-edition model exclusively for Gulf",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/motoring/2026/10/15/nissan-patrol-75th-anniversary-edition-model-sale-uae-gulf/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:09:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "65a596c4ea61",
+      "title": "Iran may not order every Houthi attack, but backing Yemen's rebels carries consequences",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/15/iran-houthis-saudi-arabia/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "54339c3c0e0e",
+      "title": "At least 32 children killed in Pakistan school roof collapse",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/asia/2026/10/15/at-least-27-children-killed-in-pakistan-school-roof-collapse-with-death-toll-feared-to-rise/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T08:37:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "81986a5a1ea5",
+      "title": "Love Is Blind on Netflix: Every international edition ranked as US season 11 arrives",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/10/15/best-love-is-blind-habibi-uk-sweden-brazil/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T08:05:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6204a139140b",
+      "title": "Houthis urged to lift Taiz siege as Yemen warns of humanitarian catastrophe",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/15/houthis-urged-to-lift-taiz-siege-as-yemen-warns-of-humanitarian-catastrophe/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T07:50:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "552e2e000502",
+      "title": "AI is changing us as humans, says pioneering Arab scientist",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/2026/10/15/ai-is-changing-us-as-humans-says-pioneering-arab-scientist/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T07:23:26+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6521b8caf324",
+      "title": "Make peace, Iran reformist urges, as hardliners rule out surrender",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/15/iran-should-reach-deal-with-us-to-end-war-reformist-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T07:16:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0ec62881c9a7",
+      "title": "Oil transfers off India's west coast surge as Gulf shipping congestion worsens",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/15/oil-transfers-off-indias-west-coast-surge-as-gulf-shipping-congestion-worsens/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T06:11:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "77314b1a1769",
+      "title": "Saudi Pro League's big money signings: Who's shining and who's struggling?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/15/saudi-pro-leagues-big-money-signings-whos-shining-and-whos-struggling/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T06:07:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8bfd80562f35",
+      "title": "Fire, sinking and reported scramble for cargo: what we know about ship lost in Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/15/fire-sinking-and-reported-scramble-for-cargo-what-we-know-about-ship-lost-in-strait-of-hormuz/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T06:05:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0ffa677693a6",
+      "title": "What Gulf economies need to watch out for as potential bond crisis looms",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/10/15/what-gulf-economies-need-to-watch-out-for-as-potential-bond-crisis-looms/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T06:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "20eb0d63d9cc",
+      "title": "Lionel Messi’s Champions League records tumble as Mbappe, Haaland and Kane make history",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/15/lionel-messis-champions-league-records-tumble-as-mbappe-haaland-and-kane-make-history/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T05:04:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c0b44e73501e",
+      "title": "Rashid Al Dhaheri to make motorsport history with Formula 3 move",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/rashid-al-dhaheri-to-make-motorsport-history-with-formula-3-move-1.500711850",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:18:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8428ff7ba8ec",
+      "title": "India: Caller name display service for telecom users from November 1",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/india-caller-name-display-service-for-telecom-users-from-november-1-1.500711815",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:10:27+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aec3e8d1d04b",
+      "title": "Vaibhav Sooryavanshi issues concerning warning to paparazzo",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/vaibhav-sooryavanshi-issues-concerning-warning-to-paparazzo-1.500711807",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:10:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "882f64fac546",
+      "title": "Mohanlal’s scenes cut from ‘Jailer 2’, costume designer hits out",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/south-indian/mohanlals-scenes-cut-from-jailer-2-costume-designer-hits-out-1.500711816",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:09:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b786605344db",
+      "title": "US-Israel-Iran war: Hormuz mine sinks cargo ship, US weighs ‘Mother of All Bombs’, Houthis target Saudi, IMF warns Gulf economies",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-conflict-us-destroys-iranian-linked-dhow-as-tehran-shifts-tactics-near-hormuz-1.500711139",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T03:39:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4eed965eab13",
+      "title": "What does the Cosori TurboBlaze 6L offer that regular air fryers don't?",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/home-and-kitchen/what-does-the-cosori-turboblaze-6l-offer-that-regular-air-fryers-dont-1.500711300",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T12:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ecb52ccfa7f5",
+      "title": "Peso breaks ₱63 for the first time ever, closes at record low of ₱63.06",
+      "summary": "",
+      "link": "https://gulfnews.com/business/markets/peso-breaks-63-for-the-first-time-ever-closes-at-record-low-of-6306-1.500711782",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:49:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2f1f4f7c9882",
+      "title": "ADIPEC shifts focus from why to where and how on AI",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/adipec-shifts-focus-from-why-to-where-and-how-on-ai-1.500711669",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:13:37+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ed0e9a68ee37",
+      "title": "Ronaldo Nazario visits New Delhi and gifts Brazil No.9 jersey to Indian sports minister",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/ronaldo-nazario-visits-new-delhi-and-gifts-brazil-no9-jersey-to-indian-sports-minister-1.500711721",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T11:07:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1d2a688d5760",
+      "title": "FIFA World Cup trophy lifted by Lionel Messi goes up for sale",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/fifa-world-cup-trophy-lifted-by-lionel-messi-goes-up-for-sale-1.500711506",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:54:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "420cd14b42e6",
+      "title": "Saudi Arabia executes Bangladeshi man, woman for indecent acts inside Mecca mosque",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-executes-bangladeshi-man-woman-for-indecent-acts-inside-mecca-mosque-1.500711645",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:25:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4ed28c4447a8",
+      "title": "Five wickets in one over! South African bowler makes history but still loses match",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/five-wickets-in-one-over-south-african-bowler-makes-history-but-still-loses-match-1.500711634",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:16:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0f28b8a8f27f",
+      "title": "Human by Design: BPG Group celebrates 30 Years of creativity in an AI era",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/company-news/human-by-design-bpg-group-celebrates-30-years-of-creativity-in-an-ai-era-1.500711623",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T10:13:56+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0b5752991090",
+      "title": "What is the ‘Mother of All Bombs’ US may use in Iran?",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/what-is-the-mother-of-all-bombs-us-may-use-in-iran-1.500711596",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:57:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0a711a838006",
+      "title": "US Rep. Ilhan Omar's phone seized and relatives subpoenaed in criminal probe",
+      "summary": "Rep. Ilhan Omar&apos;s phone seized and relatives subpoenaed in criminal probe, AP source says",
+      "link": "https://gulfnews.com/world/americas/us-rep-ilhan-omars-phone-seized-and-relatives-subpoenaed-in-criminal-probe-1.500711009",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:57:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6735e117ad2d",
+      "title": "Trump press secretary Katie Zacharia faces scrutiny over claims she’s a lawyer",
+      "summary": "",
+      "link": "https://gulfnews.com/world/americas/trump-press-secretary-katie-zacharia-faces-scrutiny-over-claims-shes-a-lawyer-1.500711568",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:32:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6c0c719b527a",
+      "title": "94% of employees adopted digital rewards platform in first year: DAMAC",
+      "summary": "",
+      "link": "https://gulfnews.com/business/property/94-of-employees-adopted-digital-rewards-platform-in-first-year-damac-1.500711565",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-15T09:30:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 2
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 5
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 3
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 1
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
