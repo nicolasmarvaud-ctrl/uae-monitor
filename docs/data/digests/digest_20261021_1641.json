@@ -1,0 +1,939 @@
+{
+  "generated_at": "2026-10-21T16:41:49.474852+00:00",
+  "generated_at_cet": "2026-10-21 17:41",
+  "total_articles": 65,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "b28c34a2b96c",
+      "title": "Les flux de pétrole du golfe Persique ont dépassé leur niveau pré-guerre",
+      "summary": "Une partie du pétrole iranien transiterait par les Émirats arabes unis L’article Les flux de pétrole du golfe Persique ont dépassé leur niveau pré-guerre est apparu en premier sur Le Grand Continent .",
+      "link": "https://legrandcontinent.eu/fr/2026/10/21/les-flux-de-petrole-du-golfe-persique-ont-depasse-leur-niveau-pre-guerre/",
+      "source": "Le Grand Continent",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-21T10:15:03+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 6,
+      "relevance_score": 7
+    },
+    {
+      "id": "894c6d81f542",
+      "title": "Shuttle service to connect Yas Island attractions to Etihad Rail station in Abu Dhabi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/21/shuttle-service-to-connect-yas-island-attractions-to-etihad-rail-station-in-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:10:20+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 6,
+      "relevance_score": 7
+    },
+    {
+      "id": "438ca4c82f6a",
+      "title": "L'Arabie saoudite ne va pas se limiter aux 95.000 tonnes de diesel déjà sécurisées: Emmanuel Macron annonce que le pays s'engage sur des livraisons supplémentaires aussi longtemps \"que nécessaire\"",
+      "summary": "Après avoir annoncé \"la sécurisation pour la France de 200.000 tonnes de diesel par mois en provenance du Bahreïn et des Émirats arabes unis\", Emmanuel Macron a indiqué que l'Arabie saoudite s'engageait sur des livraisons supplémentaires de diesel aussi longtemps \"que nécessaire\".",
+      "link": "https://www.bfmtv.com/economie/entreprises/energie/l-arabie-saoudite-ne-va-pas-se-limiter-aux-95-000-tonnes-de-diesel-deja-securisees-emmanuel-macron-annonce-que-le-pays-s-engage-sur-des-livraisons-supplementaires-aussi-longtemps-que-necessaire_AD-202610210671.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-21T14:46:57+00:00",
+      "sectors": [],
+      "bilateral_score": 6,
+      "relevance_score": 6
+    },
+    {
+      "id": "64356fb2c5ce",
+      "title": "Getting to Yas Island could become easier under new Etihad Rail deal",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/getting-to-yas-island-could-become-easier-under-new-etihad-rail-deal-1.500718537",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:24:13+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "fd8662dc9d70",
+      "title": "Mubadala Abu Dhabi Open set for fifth edition in the capital",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/mubadala-abu-dhabi-open-set-for-fifth-edition-in-the-capital-1.500718606",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:52:14+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "9d78d68ba18f",
+      "title": "Les exportations de pétrole brut revenues à leur niveau d'avant-guerre",
+      "summary": "La circulation des navires pétroliers a partiellement repris dans le détroit d'Ormuz et la péninsule Arabique a réorganisé ses flux de pétrole, via l'oléoduc saoudien est-ouest ou celui vers Fujairah, dans le golfe d'Oman. Mais les tensions persistent sur les produits raffinés. Et si les membres du G7 ont accepté de libérer 100 millions de barils de leurs réserves stratégiques, la Chine, elle, recommence à acheter du pétrole pour reconstituer ses stocks.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261005-les-exportations-de-p%C3%A9trole-brut-revenues-%C3%A0-leur-niveau-d-avant-guerre",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-05T21:01:29+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "df982f83caef",
+      "title": "UAE's new AI platform to slash VAT refund time for tourists to one day",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/21/uaes-new-ai-platform-to-slash-vat-refund-time-for-tourists-to-one-day/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T16:17:30+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "a10a00321c64",
+      "title": "Global private equity investor Advent opens ADGM office",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/21/global-private-equity-investor-advent-opens-adgm-office/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:31:35+00:00",
+      "sectors": [
+        {
+          "id": "fintech",
+          "label": "Fintech",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "c8739ee49d5c",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026&#160;AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital&#8217;s inaugural [&#8230;] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews .",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "source": "SpaceNews",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-10-20T13:00:00+00:00",
+      "sectors": [
+        {
+          "id": "space",
+          "label": "Space",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6e0ea8480606",
+      "title": "Des neurones humains dans le cerveau des souris : une bonne idée ?",
+      "summary": "À l'université de Stanford, des chercheurs ont réussi à faire pousser du tissu cérébral humain dans le cerveau de souris génétiquement modifiées, jusqu'à occuper plus de 90 % de l'espace cortical ainsi libéré. Cette prouesse a été publiée dans la revue \"Nature\" le 8 octobre. L'objectif : comprendre le développement du cerveau et certaines maladies neurologiques.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261009-des-neurones-humains-dans-le-cerveau-des-souris-une-bonne-id%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-09T15:08:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "cfba22e816c8",
+      "title": "Dubai Police issue more than 7,730 traffic fines over noisy vehicles and illegal modifications",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/21/dubai-police-issue-more-than-7730-traffic-fines-over-noisy-vehicles-and-illegal-modifications/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:34:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9054404990b8",
+      "title": "What’s the real technology behind the UAE’s world-class public services?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/21/digital-government-uae-middle-east/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b964c9960d82",
+      "title": "UFC 333: Volkanovski targets quick finish as he bids to make history against Evloev in Abu Dhabi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/combat-sports/2026/10/21/ufc-333-volkanovski-targets-quick-finish-as-he-bids-to-make-history-against-evloev-in-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:50:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "176edd5a3fc9",
+      "title": "WETEX 2026: Powering the UAE's energy future from day one",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/10/21/wetex-2026-powering-the-uaes-energy-future-from-day-one/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:47:16+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "072c87627832",
+      "title": "Whoop sees Abu Dhabi as springboard for shift to predictive health, says chief executive",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/10/21/whoop-abu-dhabi-will-ahmed-on-the-record/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:23:21+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0596d681d18f",
+      "title": "Dubai Fashion Week returns with Ludovic de Saint Sernin, Tarun Tahiliani and regional talent",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/fashion-beauty/2026/10/21/dubai-fashion-week-returns-with-ludovic-de-saint-sernin-tarun-tahiliani-and-regional-talent/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:18:16+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "69b62dc6f58e",
+      "title": "President Sheikh Mohamed holds talks with Prime Minister of Singapore in Abu Dhabi as key deals agreed",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/21/president-sheikh-mohamed-hosts-reception-in-abu-dhabi-for-prime-minister-of-singapore/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T10:52:29+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "24a3afe8f7aa",
+      "title": "Dubai records strong sales for homes valued at over $10m as it attracts wealthy despite Iran war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/10/21/dubai-records-86-deals-for-10m-homes-in-q3-as-wealthy-flock-despite-iran-war/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T10:10:21+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2b225c17dc6b",
+      "title": "Middle East conflict: What UAE residents need to know tonight (October 21, 2026)",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/middle-east-conflict-what-uae-residents-need-to-know-tonight-october-21-2026-1.500718798",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T15:06:33+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b3deb3434205",
+      "title": "The UAE’s unofficial art of being a regular",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/the-uaes-unofficial-art-of-being-a-regular-1.500716491",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T15:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f24f1c0d6e81",
+      "title": "Sharjah condolence tent permits now issued online in under 3 minutes",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah-condolence-tent-permits-now-issued-online-in-under-3-minutes-1.500718685",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:47:14+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ed6f53ce04a1",
+      "title": "NOHM Hospitality acquires majority stake in Baoli Dubai, eyes international expansion",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/company-news/nohm-hospitality-acquires-majority-stake-in-baoli-dubai-eyes-international-expansion-1.500718611",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:01:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "46ff291157b1",
+      "title": "10+ projects launched in just two years: Zoya Developments adds Elvora to its growing Dubai portfolio",
+      "summary": "",
+      "link": "https://gulfnews.com/business/property/10-projects-launched-in-just-two-years-zoya-developments-adds-elvora-to-its-growing-dubai-portfolio-1.500718601",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:57:52+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "daaa1a5d27cd",
+      "title": "Dubai to change speed limits on 5 key roads",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/dubai-to-change-speed-limits-on-5-key-roads-1.500718602",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5b5f1b3e8fd5",
+      "title": "Alexander Volkanovski ahead of UFC 333: ‘I always get a lot of love in Abu Dhabi”",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/alexander-volkanovski-ahead-of-ufc-333-i-always-get-a-lot-of-love-in-abu-dhabi-1.500718470",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:25:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "187f7e5cfd4f",
+      "title": "How Abu Dhabi became home for an Egyptian athlete of determination",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/how-abu-dhabi-became-home-for-an-egyptian-athlete-of-determination-1.500718282",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T10:18:25+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "76c7812b0574",
+      "title": "Dubai introduces world’s first 'Future Perfects' jobs at Museum of the Future",
+      "summary": "Dubai introduces world’s first &apos;Future Perfects&apos; jobs at Museum of the Future",
+      "link": "https://gulfnews.com/uae/government/dubai-introduces-worlds-first-future-perfects-jobs-at-museum-of-the-future-1.500718249",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T10:00:52+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "caa05c9451c2",
+      "title": "Revealed: Full text of Makkah defence pact between Saudi Arabia, Turkey and Pakistan",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/21/revealed-full-text-of-makkah-defence-pact-between-saudi-arabia-turkey-and-pakistan/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T16:36:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "15f3518d359a",
+      "title": "PHP vulnerability: Websites go offline amid critical security update",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/21/php-version-vulnerability-critical-security/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:38:52+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fb452d2bdb9f",
+      "title": "France’s diesel deal with Gulf states will not make fuel 'cheap overnight’ for European country",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/21/frances-diesel-deal-with-gulf-states-will-not-make-fuel-cheap-overnight-for-european-country/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:30:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "991fb2a66e46",
+      "title": "Macron visits Saudi Arabia in show of solidarity amid Houthi attacks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/21/french-president-macron-arrives-in-riyadh-on-surprise-visit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:24:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "511f116438db",
+      "title": "'A matter of time' warning on mass deaths in UK migrant boat crossing",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/21/a-matter-of-time-warning-on-mass-deaths-in-uk-migrant-boat-crossing/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:47:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d8f24689beba",
+      "title": "Mindful Movements: October wellness and fitness news and things to do",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/wellbeing/2026/09/30/mindful-movements-wellness-fitness-news-events-uae/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:55:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "041f129b2796",
+      "title": "Apple iPhone Duo hands-on: Your productivity will hinge on this",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/21/uae-iphone-duo-reviews-colors/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:28:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "78451f4622f1",
+      "title": "Halo Trust demining workers still trapped by Houthi siege in Taiz",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/21/halo-trust-demining-workers-still-trapped-by-houthi-siege-in-taiz/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:17:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "46ed9b92f909",
+      "title": "NBA targets 2027 Europe expansion as EuroLeague charts own path",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/10/21/nba-targets-2027-europe-expansion-as-euroleague-charts-own-path/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:45:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "09a9314141d8",
+      "title": "Greece rejects Libya-Turkey maritime deal after eastern parliament approves pact",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/21/greece-rejects-libya-turkey-maritime-deal-after-eastern-parliament-approves-pact/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:40:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e2b1b1d4371e",
+      "title": "Sultan Haitham mixes and matches with British style on state visit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/21/sultan-haitham-mixes-and-matches-with-british-style-on-state-visit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:23:50+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5be0d573226e",
+      "title": "Mysterious recurring stench adds to Gaza's misery",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/21/mysterious-recurring-stench-adds-to-gazas-misery/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:18:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8a906975b57a",
+      "title": "Russia frees US citizen Stephen Hubbard",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/21/putin-says-russia-has-freed-us-citizen-stephen-hubbard/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T11:10:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b3a56ddcf203",
+      "title": "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/21/non-iran-middle-east-oil-exports-recover-to-prewar-levels-with-hormuz-alternatives/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T09:48:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1a7fa02b3c38",
+      "title": "Sheikh Tahnoon holds talks with US venture capitalist David Fialkow",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/21/sheikh-tahnoon-holds-talks-with-us-venture-capitalist-david-fialkow/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T09:37:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a1d4c76d5c48",
+      "title": "Sultan's state visit: King Charles praises Oman's 'noble efforts' to keep Strait of Hormuz open",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/21/sultans-state-visit-king-charles-praises-omans-noble-efforts-to-keep-strait-of-hormuz-open/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T09:09:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ffe695c4ab40",
+      "title": "France's Macron secures gas from Qatar during Gulf trip",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/21/macron-wraps-up-gulf-tour-in-qatar-as-france-seeks-to-bolster-energy-security/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T08:47:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "58366e17bdf6",
+      "title": "Australian MP has both legs amputated after ramming 'attack'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/10/21/australian-mp-has-both-legs-amputated-after-ramming-attack/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T08:36:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5a7d9b905767",
+      "title": "Drone attack by SAF kills at least 153 in disputed border region",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/21/sudanese-army-accused-of-drone-strike-in-abyei-region-as-death-toll-rises-to-153/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T08:31:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "71992d814c57",
+      "title": "Saudi-Houthi conflict: 7 major developments on October 21",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/saudi/saudi-houthi-conflict-7-major-developments-on-october-21-1.500718833",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T16:02:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2dc74952504e",
+      "title": "PHP fixes two critical vulnerabilities as websites face attack risks",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/php-fixes-two-critical-vulnerabilities-as-websites-face-attack-risks-1.500718855",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T15:59:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b942d1786705",
+      "title": "Durga Puja celebrations bring colour and devotion to India",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/durga-puja-celebrations-bring-colour-and-devotion-to-india-1.500718818",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T15:37:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "228e7b7c6d9a",
+      "title": "du nine-month profit rises 10.8% to Dh2.4 billion as revenue hits Dh12.3 billion",
+      "summary": "",
+      "link": "https://gulfnews.com/business/markets/du-nine-month-profit-rises-108-to-dh24-billion-as-revenue-hits-dh123-billion-1.500718807",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T15:08:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "81fc075c372a",
+      "title": "Middle East War: Iran rejects US terms as tanker explodes near Hormuz",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-iran-rejects-us-terms-as-tanker-explodes-near-hormuz-1.500717832",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T03:03:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cbdd277c702f",
+      "title": "Amitabh Bachchan health update: Actor advised strict rest",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/bollywood/amitabh-bachchan-health-update-actor-advised-strict-rest-1.500718767",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:45:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6a80b7dbbf3a",
+      "title": "'Chai, chai': Sanju Samson and KL Rahul's hilarious Malayalam exchange steals the show in New Zealand",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/chai-chai-sanju-samson-and-kl-rahuls-hilarious-malayalam-exchange-steals-the-show-in-new-zealand-1.500718733",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T14:07:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "59f1ca8c32c1",
+      "title": "Allen Bailey cause of death: How did the former Chiefs DE die at 37?",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/allen-bailey-cause-of-death-how-did-the-former-chiefs-de-die-at-37-1.500718724",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:58:27+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3bf323c01770",
+      "title": "Why wide screens are the next step in the evolution of foldables",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/consumer-electronics/why-wide-screens-are-the-next-step-in-the-evolution-of-foldables-2-1.500718706",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:51:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3f7670fc0890",
+      "title": "Oman detains man over unauthorised promotion of marriage to Yemeni women",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/oman/oman-detains-man-over-unauthorised-promotion-of-marriage-to-yemeni-women-1.500718652",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:40:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ede5722e756d",
+      "title": "Fans chant ‘RCB’ as Shreyanka Patil joins Anil Kumble in Mysuru",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/fans-chant-rcb-as-shreyanka-patil-joins-anil-kumble-in-mysuru-1.500718649",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:38:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b56a1b7c7f2b",
+      "title": "Mohanlal body double controversy: ‘Jailer 2’ stunt director responds",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/mohanlal-body-double-controversy-jailer-2-stunt-director-responds-1.500718643",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:23:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0ab0ce195298",
+      "title": "Ronaldo dominating poll of greatest ever Ballon d’Or winning season",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/ronaldo-dominating-poll-of-greatest-ever-ballon-dor-winning-season-1.500718662",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:22:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2a83d504dc74",
+      "title": "Pakistan's next big stars? Mohammad Yousuf names eight youngsters but raises one concern",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/pakistans-next-big-stars-mohammad-yousuf-names-eight-youngsters-but-raises-concern-1.500718607",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:11:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8269c8c7458d",
+      "title": "Nigeria says first Ebola case is same strain as DR Congo outbreak",
+      "summary": "",
+      "link": "https://gulfnews.com/world/africa/nigeria-says-first-ebola-case-is-same-strain-as-dr-congo-outbreak-2-1.500718642",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T13:11:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "388cb94a148b",
+      "title": "Air India, IndiGo to appear before parliamentary panel on November 2",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/air-india-indigo-to-appear-before-parliamentary-panel-on-november-2-1.500718583",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:49:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "29d0a46d9965",
+      "title": "Delhi pollution: No fuel without PUC, parking fees to double",
+      "summary": "Delhi pollution: No PUC, no fuel; parking fees double",
+      "link": "https://gulfnews.com/world/asia/india/delhi-pollution-no-fuel-without-puc-parking-fees-to-double-1.500718495",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:48:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "05aa5dc0dfbb",
+      "title": "Techie Tonic: How AI is reshaping ERP to cut costs and boost business agility",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/techie-tonic-how-ai-is-reshaping-erp-to-cut-costs-and-boost-business-agility-1.500718571",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:41:32+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1f858a845f14",
+      "title": "‘I lost my world’: Indian dad mourns daughter, 5, killed by wife in US",
+      "summary": "‘I lost my world’: Indian mourns daughter killed in US",
+      "link": "https://gulfnews.com/world/americas/i-lost-my-world-indian-dad-mourns-daughter-5-killed-by-wife-in-us-1.500718474",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-21T12:40:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 2
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 2
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 2
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 1
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 1
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
