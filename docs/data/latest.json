@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T12:06:59.051922+00:00",
-  "generated_at_cet": "2026-10-24 13:06",
-  "total_articles": 48,
+  "generated_at": "2026-10-24T15:27:34.784980+00:00",
+  "generated_at_cet": "2026-10-24 16:27",
+  "total_articles": 54,
   "sources_fetched": 26,
   "articles": [
     {
@@ -16,25 +16,6 @@
       "sectors": [],
       "bilateral_score": 8,
       "relevance_score": 8
-    },
-    {
-      "id": "93e856900f91",
-      "title": "Abu Dhabi's G42 signs Greece AI deals spanning healthcare, education and cities",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabis-g42-signs-greece-ai-deals-spanning-healthcare-education-and-cities-1.500722022",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T08:36:48+00:00",
-      "sectors": [
-        {
-          "id": "ai_tech",
-          "label": "AI & New Technologies",
-          "score": 2
-        }
-      ],
-      "bilateral_score": 4,
-      "relevance_score": 6
     },
     {
       "id": "ecc3d7adf55d",
@@ -76,14 +57,14 @@
       "relevance_score": 4
     },
     {
-      "id": "0e7ec355af62",
-      "title": "Tanker oil spill in UAE: What we know so far about Umm Al Quwain beach closures and the smell",
+      "id": "cff81293bc21",
+      "title": "Dubai Police warn of fake part-time job offers targeting UAE jobseekers",
       "summary": "",
-      "link": "https://gulfnews.com/uae/uae-tanker-oil-spill-latest-what-we-know-so-far-about-umm-al-quwain-beach-closures-and-the-smell-1.500721981",
+      "link": "https://gulfnews.com/uae/dubai/dubai-police-warn-of-fake-part-time-job-offers-targeting-uae-jobseekers-1.500722324",
       "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-10-24T08:20:46+00:00",
+      "published": "2026-10-24T13:55:54+00:00",
       "sectors": [],
       "bilateral_score": 4,
       "relevance_score": 4
@@ -154,6 +135,32 @@
       "source_lang": "fr",
       "category": "french",
       "published": "2026-10-09T15:08:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "aed535a82165",
+      "title": "UFC 333: What time is Volkanovski v Evloev and rest of the main card in Abu Dhabi?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/combat-sports/2026/10/24/ufc-333-abu-dhabi-all-you-need-to-know/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T14:20:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c4e4a667059c",
+      "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:48:47+00:00",
       "sectors": [],
       "bilateral_score": 2,
       "relevance_score": 2
@@ -237,14 +244,118 @@
       "relevance_score": 2
     },
     {
-      "id": "762fcb3ff8c6",
-      "title": "‘Suluk’: What the Arabic word for behaviour has in common with Dubai’s Salik toll system",
+      "id": "1fc82e45fe41",
+      "title": "US-Israel-Iran war: What UAE residents need to know today, October 24, 2026",
       "summary": "",
-      "link": "https://www.thenationalnews.com/arts-culture/2026/10/23/dubai-salik-meaning-suluk-learn-arabic/",
-      "source": "The National",
+      "link": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388",
+      "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-10-23T18:01:00+00:00",
+      "published": "2026-10-24T14:53:18+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "60590ededdcc",
+      "title": "Ras Al Khaimah Ruler visits Fuzhou University, cultural, historical landmarks in China",
+      "summary": "Ras Al Khaimah Ruler visits Fuzhou University, cultural, historical landmarks in China",
+      "link": "https://gulfnews.com/uae/government/ras-al-khaimah-ruler-visits-fuzhou-university-cultural-historical-landmarks-in-china-1.500722289",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T14:40:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "aec11c713b61",
+      "title": "From Karama to LA: How UAE opened doors to a global music career for this Indian expat",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/from-karama-to-la-how-uae-opened-doors-to-a-global-music-career-for-this-indian-expat-1.500722359",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T14:34:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7b2eff8a7e88",
+      "title": "UAE President offers condolences to Jordan over church attack in Karak",
+      "summary": "UAE President offers condolences to King of Jordan following church attack in Karak",
+      "link": "https://gulfnews.com/uae/government/uae-president-offers-condolences-to-jordan-over-church-attack-in-karak-1.500722375",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T14:26:30+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1d69467e0061",
+      "title": "Sharjah Police warn of Dh100,000 fine, jail for spreading fake news",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah-police-warn-of-dh100000-fine-jail-for-spreading-fake-news-1.500722290",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T13:30:10+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "10e7c192e433",
+      "title": "GCC unanimously backs UAE's Lana Nusseibeh for UN secretary-general",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/gcc-unanimously-backs-uaes-lana-nusseibeh-for-un-secretary-general-1.500722243",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:35:55+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "46c850d50fa1",
+      "title": "Rain hits Masafi with UAE issuing weather alert for winds of up to 45km/h",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/weather/rain-hits-masafi-with-uae-issuing-weather-alert-for-winds-of-up-to-45kmh-1.500722236",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:12:33+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1637cfe83c81",
+      "title": "Dubai’s iconic The View Palm Jumeirah unveils glass ledges",
+      "summary": "The View Palm Jumeirah celebrates five years with thrilling new experience",
+      "link": "https://gulfnews.com/uae/dubai/dubais-iconic-the-view-palm-jumeirah-unveils-glass-ledges-1.500721682",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:03:42+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a7cb74564810",
+      "title": "UAE gold prices: How much will jewellery cost this Diwali?",
+      "summary": "",
+      "link": "https://gulfnews.com/business/uae-gold-prices-how-much-will-jewellery-cost-this-diwali-1.500722213",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:59:21+00:00",
       "sectors": [],
       "bilateral_score": 2,
       "relevance_score": 2
@@ -263,10 +374,10 @@
       "relevance_score": 2
     },
     {
-      "id": "68769e409fc7",
+      "id": "4bd4b58a59a3",
       "title": "Dubai marks two new Guinness World Records with giant gold earrings",
       "summary": "",
-      "link": "https://gulfnews.com/business/corporate-news/dubai-marks-two-new-guinness-world-records-with-giant-gold-earrings-1.500722130",
+      "link": "https://gulfnews.com/business/dubai-marks-two-new-guinness-world-records-with-giant-gold-earrings-1.500722130",
       "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
@@ -289,30 +400,30 @@
       "relevance_score": 2
     },
     {
-      "id": "fc4f8a7742c7",
-      "title": "Dubai to crown Arab Reading Challenge winners from record 40 million students",
-      "summary": "Arab Reading Challenge to crown winners among 40 million students across 60 countries on October 29",
-      "link": "https://gulfnews.com/uae/education/dubai-to-crown-arab-reading-challenge-winners-from-record-40-million-students-1.500722103",
-      "source": "Gulf News",
+      "id": "e831bdc0fb41",
+      "title": "Aston Villa v Man City ratings: Manzambi 6; Jackson 8; Guehi 5, Ndiaye 8",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/24/aston-villa-v-man-city-ratings-manzambi-6-jackson-8-guehi-5-ndiaye-8/",
+      "source": "The National",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-10-24T10:10:59+00:00",
+      "published": "2026-10-24T14:01:23+00:00",
       "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
+      "bilateral_score": 0,
+      "relevance_score": 1
     },
     {
-      "id": "a9d51e39aee7",
-      "title": "Sheikh Hamdan announces FIX Dessert as winner of Dubai-it Award",
+      "id": "365a38a794bb",
+      "title": "Deadly church attack shocks Jordan's deep-rooted Christian community",
       "summary": "",
-      "link": "https://gulfnews.com/uae/sheikh-hamdan-announces-fix-dessert-as-winner-of-dubai-it-award-1.500722112",
-      "source": "Gulf News",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/jordan-christians-church/",
+      "source": "The National",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-10-24T10:06:46+00:00",
+      "published": "2026-10-24T13:14:54+00:00",
       "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
+      "bilateral_score": 0,
+      "relevance_score": 1
     },
     {
       "id": "643c2050309b",
@@ -516,45 +627,6 @@
       "relevance_score": 1
     },
     {
-      "id": "aa09c4a49b48",
-      "title": "Pictures of the week: From show jumping at the Pyramids to Macron in the Gulf",
-      "summary": "",
-      "link": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
-      "source": "The National",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-23T18:02:00+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "6c61613ea129",
-      "title": "I'm having a baby, not opening a nursery: The pressure to buy everything before becoming a mother",
-      "summary": "",
-      "link": "https://www.thenationalnews.com/lifestyle/2026/10/23/pressures-of-first-time-mothers-to-buy-everything/",
-      "source": "The National",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-23T18:01:00+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "b6512e893e38",
-      "title": "Lupin part four: The story so far ahead of Netflix return",
-      "summary": "",
-      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/10/23/lupin-part-four-netflix-assane-diop-returns/",
-      "source": "The National",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-23T18:01:00+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
       "id": "aff4c50d8512",
       "title": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
       "summary": "",
@@ -563,6 +635,84 @@
       "source_lang": "en",
       "category": "uae",
       "published": "2026-10-24T02:48:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "819d1af4effb",
+      "title": "Abhishek Sharma becomes first batter to hit 100 T20I powerplay sixes",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/abhishek-sharma-becomes-first-batter-to-hit-100-t20i-powerplay-sixes-1.500722411",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T15:12:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d120d2ae9e99",
+      "title": "US wants regime change in Iran, not nuclear deal: Expert",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/us-wants-regime-change-in-iran-not-nuclear-deal-expert-1.500722297",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T13:07:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6fd2510feb23",
+      "title": "Never miss an important meeting detail? Why professionals are eyeing the Plaud Note Pro",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/never-miss-an-important-meeting-detail-why-professionals-are-eyeing-the-plaud-note-pro-1.500720437",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T13:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f131fb941ba5",
+      "title": "Tilak Varma, Nitish Reddy script India's stunning T20 win",
+      "summary": "Late India charge seals thrilling second T20 win over New Zealand",
+      "link": "https://gulfnews.com/sport/cricket/tilak-varma-nitish-reddy-script-indias-stunning-t20-win-1.500722175",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:40:50+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0f3ff4b535a6",
+      "title": "Delhi delivery worker dies after dispute over torn Rs10 note; two arrested",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/delhi-delivery-worker-dies-after-dispute-over-torn-rs10-note-two-arrested-1.500722170",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:00:37+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9da566ea4710",
+      "title": "Why your beard never looks quite right, even after trimming",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/why-your-beard-never-looks-quite-right-even-after-trimming-1.500720397",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T12:00:00+00:00",
       "sectors": [],
       "bilateral_score": 0,
       "relevance_score": 1
@@ -579,84 +729,6 @@
       "sectors": [],
       "bilateral_score": 0,
       "relevance_score": 1
-    },
-    {
-      "id": "8607662beb32",
-      "title": "Sonia Gandhi recalls how her love story with Rajiv Gandhi began in Cambridge: ‘I felt almost immediately…’",
-      "summary": "",
-      "link": "https://gulfnews.com/world/asia/india/sonia-gandhi-recalls-how-her-love-story-with-rajiv-gandhi-began-in-cambridge-i-felt-almost-immediately-1.500722161",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T11:01:12+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "7dec5985403c",
-      "title": "North Korea's Kim Jong Un makes surprise visit to China, reports say",
-      "summary": "",
-      "link": "https://gulfnews.com/world/asia/north-koreas-kim-jong-un-makes-surprise-visit-to-china-reports-say-1.500722100",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T10:12:47+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "678aca6e9737",
-      "title": "Museum of the Future receives over 20,000 applications for 'Future Perfects' in 48 hours",
-      "summary": "Museum of the Future receives over 20,000 applications for &apos;Future Perfects&apos; in 48 hours",
-      "link": "https://gulfnews.com/uae/museum-of-the-future-receives-over-20000-applications-for-future-perfects-in-48-hours-1.500722065",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T09:49:34+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "ef8d3f5c3bd4",
-      "title": "4 pilots killed as two Philippine military planes crash during training",
-      "summary": "Mid-air collision of Philippines military planes kills four pilots",
-      "link": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T09:38:13+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "22da5c0f41d1",
-      "title": "Did Ronaldo claim an own goal? Controversy erupts over his 982nd goal",
-      "summary": "",
-      "link": "https://gulfnews.com/sport/football/did-ronaldo-claim-an-own-goal-controversy-erupts-over-his-982nd-goal-1.500722003",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T08:15:01+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "ecb598120e70",
-      "title": "When airspace closes: How medical teams keep critically ill patients safe",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/emergencies/when-airspace-closes-how-medical-teams-keep-critically-ill-patients-safe-1.500721955",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-10-24T06:41:17+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
     }
   ],
   "sector_summary": {
@@ -666,7 +738,7 @@
     },
     "ai_tech": {
       "label": "AI & New Technologies",
-      "count": 3
+      "count": 2
     },
     "climate": {
       "label": "Climate Transition",
