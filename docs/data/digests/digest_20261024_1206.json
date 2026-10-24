@@ -1,0 +1,700 @@
+{
+  "generated_at": "2026-10-24T12:06:59.051922+00:00",
+  "generated_at_cet": "2026-10-24 13:06",
+  "total_articles": 48,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "9ad7ff0c3323",
+      "title": "La candidature émiratie au poste de secrétaire général de l’ONU fait polémique",
+      "summary": "Les Emirats arabes unis ont proposé la diplomate Lana Nusseibeh pour prendre la suite d’Antonio Guterres dans deux mois, ce qui soulève de nombreuses critiques, en raison notamment de leur rôle présumé dans la guerre civile soudanaise.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/24/la-candidature-emiratie-au-poste-de-secretaire-general-de-l-onu-fait-polemique_6799695_3210.html",
+      "source": "Le Monde International",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-24T11:30:07+00:00",
+      "sectors": [],
+      "bilateral_score": 8,
+      "relevance_score": 8
+    },
+    {
+      "id": "93e856900f91",
+      "title": "Abu Dhabi's G42 signs Greece AI deals spanning healthcare, education and cities",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabis-g42-signs-greece-ai-deals-spanning-healthcare-education-and-cities-1.500722022",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T08:36:48+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 6
+    },
+    {
+      "id": "ecc3d7adf55d",
+      "title": "UAE oil spill: Ras Al Khaimah closes all beaches 'until further notice'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/uae-oil-spill-ras-al-khaimah-closes-all-beaches-until-further-notice/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:13:43+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "12fda80e1d59",
+      "title": "Dubai chocolate brand hailed by Sheikh Hamdan after clinching UAE award win in honour of global success",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/dubai-chocolate-brand-hailed-by-sheikh-hamdan-after-clinching-uae-award-win-in-honour-of-global-success/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:57:07+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "ef28d5ec8975",
+      "title": "UAE Property: 'Should I sell my off-plan Dubai apartment amid uncertainty or wait?'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/10/24/uae-property-should-i-sell-my-off-plan-dubai-apartment-amid-uncertainty-or-wait/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T04:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "0e7ec355af62",
+      "title": "Tanker oil spill in UAE: What we know so far about Umm Al Quwain beach closures and the smell",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-tanker-oil-spill-latest-what-we-know-so-far-about-umm-al-quwain-beach-closures-and-the-smell-1.500721981",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T08:20:46+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "f9d534ec4e57",
+      "title": "Talking your language: UAE unveils AI tool designed to master Arabic dialects",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/talking-your-language-uae-unveils-ai-tool-designed-to-master-arabic-dialects/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T09:57:25+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "8cfb5aa9e6c8",
+      "title": "AstraZeneca and Cleveland Clinic Abu Dhabi team up for $50 million clinical trials action plan",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/astrazeneca-and-cleveland-clinic-abu-dhabi-team-up-for-50-million-clinical-trials-action-plan/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T07:07:36+00:00",
+      "sectors": [
+        {
+          "id": "health",
+          "label": "Health",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "c8739ee49d5c",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026&#160;AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital&#8217;s inaugural [&#8230;] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews .",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "source": "SpaceNews",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-10-20T13:00:00+00:00",
+      "sectors": [
+        {
+          "id": "space",
+          "label": "Space",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6e0ea8480606",
+      "title": "Des neurones humains dans le cerveau des souris : une bonne idée ?",
+      "summary": "À l'université de Stanford, des chercheurs ont réussi à faire pousser du tissu cérébral humain dans le cerveau de souris génétiquement modifiées, jusqu'à occuper plus de 90 % de l'espace cortical ainsi libéré. Cette prouesse a été publiée dans la revue \"Nature\" le 8 octobre. L'objectif : comprendre le développement du cerveau et certaines maladies neurologiques.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/tech-24/20261009-des-neurones-humains-dans-le-cerveau-des-souris-une-bonne-id%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-09T15:08:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "30e7fbfbc9e1",
+      "title": "Future of UAE’s ODI cricket and captain Harpreet Bhatia in doubt as end of League Two looms",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/cricket/2026/10/24/future-of-uaes-odi-cricket-and-captain-harpreet-bhatia-in-doubt-as-end-of-league-two-looms/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "459852113e15",
+      "title": "Parts of UAE set for rain, fog and 50kph winds but wait for drop in temperatures goes on",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/parts-of-uae-set-for-rain-fog-and-50kph-winds-but-wait-for-drop-in-temperatures-goes-on/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T08:04:47+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5effb338bb09",
+      "title": "Swift response key to limiting environmental impact of UAE oil spill, experts say",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T05:30:57+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "312aec124953",
+      "title": "Dana White on why Abu Dhabi is ‘a very special place’ for UFC as Usman Nurmagomedov waits in wings",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/combat-sports/2026/10/24/dana-white-ufc-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T04:17:49+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d246d18026cf",
+      "title": "Harrow Abu Dhabi to open next year as plans for capital's first boarding school take shape",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/24/inside-harrow-abu-dhabi-school-ahead-of-next-years-opening/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T02:00:01+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "cceaaa88a936",
+      "title": "T-Rex Glamping Dubai review: A Jurassic Park-inspired staycation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/10/24/t-rex-glamping-dubai-review-a-jurassic-park-inspired-staycation/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T02:00:01+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "762fcb3ff8c6",
+      "title": "‘Suluk’: What the Arabic word for behaviour has in common with Dubai’s Salik toll system",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/10/23/dubai-salik-meaning-suluk-learn-arabic/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:01:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b37b59da82c5",
+      "title": "UAE steps up efforts to protect children from online threats",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/uae-steps-up-efforts-to-protect-children-from-online-threats-1.500722198",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:39:55+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "68769e409fc7",
+      "title": "Dubai marks two new Guinness World Records with giant gold earrings",
+      "summary": "",
+      "link": "https://gulfnews.com/business/corporate-news/dubai-marks-two-new-guinness-world-records-with-giant-gold-earrings-1.500722130",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:49:57+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "99e15f284e55",
+      "title": "Ras Al Khaimah closes all public beaches until further notice",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/ras-al-khaimah-closes-all-public-beaches-until-further-notice-1.500722108",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:25:14+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fc4f8a7742c7",
+      "title": "Dubai to crown Arab Reading Challenge winners from record 40 million students",
+      "summary": "Arab Reading Challenge to crown winners among 40 million students across 60 countries on October 29",
+      "link": "https://gulfnews.com/uae/education/dubai-to-crown-arab-reading-challenge-winners-from-record-40-million-students-1.500722103",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:10:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a9d51e39aee7",
+      "title": "Sheikh Hamdan announces FIX Dessert as winner of Dubai-it Award",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sheikh-hamdan-announces-fix-dessert-as-winner-of-dubai-it-award-1.500722112",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:06:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "643c2050309b",
+      "title": "Is David Warner right in questioning Test cricket's supremacy over poor crowd attendance?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/cricket/2026/10/24/is-david-warner-right-in-questioning-test-crickets-supremacy-over-poor-crowd-attendance/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3691b9dc9b89",
+      "title": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:20:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6547303067d3",
+      "title": "AI will not replace human musicians as it lacks originality, Sennheiser boss says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/24/ai-will-not-replace-human-musicians-as-it-lacks-originality-sennheiser-boss-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:00:59+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "21e5c4460326",
+      "title": "Vincent Kompany 'stable' in hospital after collapsing at Bayern Munich training",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/24/vincent-kompany-stable-in-hospital-after-collapsing-at-bayern-munich-training/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T09:40:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b22eafa2e023",
+      "title": "Lebanon's Aoun vows end to neglect of Tripoli in first presidential visit to city in 15 years",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/lebanons-aoun-vows-end-to-neglect-of-tripoli-in-first-presidential-visit-to-city-in-15-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T09:36:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f1ae2c601ee1",
+      "title": "Al Hilal reclaim SPL top spot after beating Al Qadsiah in thriller as Ronaldo and Al Nassr go second",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/10/24/al-hilal-reclaim-spl-top-spot-after-beating-al-qadsiah-in-thriller-as-ronaldo-and-al-nassr-go-second/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T08:25:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "061ccaee979f",
+      "title": "Turkey rules out combat with Houthis under defence pact as foreign ministers meet in Istanbul",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/10/24/turkey-rules-out-combat-with-houthis-under-defence-pact-as-foreign-ministers-meet-in-istanbul/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T08:15:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "abb3dfa231ea",
+      "title": "US warns citizens that Houthi attacks 'have potential to escalate rapidly'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/us-issues-travel-advisories-for-13-middle-east-countries-after-houthi-attacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T06:54:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "efe8bf3c228f",
+      "title": "Who are the key figures in Israel's election and what are their stances on Palestinian statehood?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/who-are-the-key-figures-in-israels-election-and-what-are-their-stances-on-palestinian-statehood/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T05:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1db933ea8e19",
+      "title": "Middle East latest: Trump warns of 'another little Epic Fury' amid fears of renewed conflict",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/iran-us-war-live-trump-epic-fury/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T04:41:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fc4539611ce1",
+      "title": "Sole DXB music guide, from Lola Young to Nia Archives and Fatoumata Diawara",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/10/24/sole-dxb-music-guide-from-lola-young-to-nia-archives-and-fatoumata-diawara/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T03:23:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "93b78a4637f4",
+      "title": "Overseas Israelis mobilise for 'change' in election that could end Netanyahu era",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/24/overseas-israelis-mobilise-for-change-in-election-that-could-end-netanyahu-era/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T03:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6a7304d6424f",
+      "title": "Touchscreen MacBook: Will Apple's upcoming event contradict Steve Jobs?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/23/apple-event-touchscreen-macbook-stock/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:44:52+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "406bc4028954",
+      "title": "European and Middle Eastern foreign ministers urge restraint at Istanbul talks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/23/european-and-middle-eastern-foreign-ministers-urge-restraint-at-istanbul-talks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:35:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d85a2a1a7b20",
+      "title": "Are you ready for retirement? Because it's not just a question of having enough money",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/10/23/does-your-retirement-mean-walking-away-or-stepping-towards-something-new/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:02:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aa09c4a49b48",
+      "title": "Pictures of the week: From show jumping at the Pyramids to Macron in the Gulf",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:02:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6c61613ea129",
+      "title": "I'm having a baby, not opening a nursery: The pressure to buy everything before becoming a mother",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/2026/10/23/pressures-of-first-time-mothers-to-buy-everything/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:01:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b6512e893e38",
+      "title": "Lupin part four: The story so far ahead of Netflix return",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/10/23/lupin-part-four-netflix-assane-diop-returns/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-23T18:01:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aff4c50d8512",
+      "title": "Middle East war: US prepares fresh strikes on Iran; Houthi missile targets Riyadh; Tankers hit mines near Hormuz",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T02:48:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d40db2879400",
+      "title": "Kuwait arrests three for hiding e-cigarettes in food deliveries to schoolchildren",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-arrests-three-for-hiding-e-cigarettes-in-food-deliveries-to-schoolchildren-1.500722186",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:40:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8607662beb32",
+      "title": "Sonia Gandhi recalls how her love story with Rajiv Gandhi began in Cambridge: ‘I felt almost immediately…’",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/sonia-gandhi-recalls-how-her-love-story-with-rajiv-gandhi-began-in-cambridge-i-felt-almost-immediately-1.500722161",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T11:01:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7dec5985403c",
+      "title": "North Korea's Kim Jong Un makes surprise visit to China, reports say",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/north-koreas-kim-jong-un-makes-surprise-visit-to-china-reports-say-1.500722100",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T10:12:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "678aca6e9737",
+      "title": "Museum of the Future receives over 20,000 applications for 'Future Perfects' in 48 hours",
+      "summary": "Museum of the Future receives over 20,000 applications for &apos;Future Perfects&apos; in 48 hours",
+      "link": "https://gulfnews.com/uae/museum-of-the-future-receives-over-20000-applications-for-future-perfects-in-48-hours-1.500722065",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T09:49:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ef8d3f5c3bd4",
+      "title": "4 pilots killed as two Philippine military planes crash during training",
+      "summary": "Mid-air collision of Philippines military planes kills four pilots",
+      "link": "https://gulfnews.com/world/asia/philippines/4-pilots-killed-as-two-philippine-military-planes-crash-during-training-1.500721987",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T09:38:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "22da5c0f41d1",
+      "title": "Did Ronaldo claim an own goal? Controversy erupts over his 982nd goal",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/football/did-ronaldo-claim-an-own-goal-controversy-erupts-over-his-982nd-goal-1.500722003",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T08:15:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ecb598120e70",
+      "title": "When airspace closes: How medical teams keep critically ill patients safe",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/emergencies/when-airspace-closes-how-medical-teams-keep-critically-ill-patients-safe-1.500721955",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-24T06:41:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 0
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 3
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 1
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 1
+    }
+  }
+}
