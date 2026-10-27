@@ -1,0 +1,970 @@
+{
+  "generated_at": "2026-10-27T13:25:27.818136+00:00",
+  "generated_at_cet": "2026-10-27 14:25",
+  "total_articles": 67,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "98d7374bb5f2",
+      "title": "Abu Dhabi GP trophy arrives at Etihad Airways ahead of F1 finale",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/abu-dhabi-gp-trophy-arrives-at-etihad-airways-ahead-of-f1-finale-1.500725665",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:40:06+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "fac3ab198915",
+      "title": "Huit grandes entreprises publiques et privées créent un fonds de dotation pour faire avancer les questions de souveraineté",
+      "summary": "Fondé par EDF, RTE, Harmonie Mutuelle, Isalt, Michelin, Publicis, Radiall et Safran, et doté de 50 millions d’euros, Avenir Souveraineté financera des travaux de recherche et se chargera de les relayer auprès du public.",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/26/huit-grandes-entreprises-publiques-et-privees-creent-un-fonds-de-dotation-pour-faire-avancer-les-questions-de-souverainete_6800780_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-26T12:00:10+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        },
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "302678e4891c",
+      "title": "Public Art Abu Dhabi Biennial reveals Al Ain installations for second edition",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/10/27/public-art-abu-dhabi-biennial-reveals-al-ain-installations-for-second-edition/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:46:40+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "173f5939a84f",
+      "title": "Dubai Investments seeks to raise $543m from first UAE IPO this year",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/10/27/dubai-investments-seeks-to-raise-543m-from-first-uae-ipo-this-year/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T07:04:51+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "2a63bcdb959f",
+      "title": "Dubai Police warns UAE residents of 6 online scams as fraud rises",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-police-warns-uae-residents-of-6-online-scams-as-fraud-rises-1.500725489",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:58:23+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "69ca74089c00",
+      "title": "Dubai single dad's journey from security guard to UAE entrepreneur goes viral, wins hearts",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai-single-dads-journey-from-security-guard-to-uae-entrepreneur-goes-viral-wins-hearts-1.500725403",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:05:32+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "b31822d781e4",
+      "title": "Les Experts : Anthropic publie son prospectus d'IPO - 27/10",
+      "summary": "Ce mardi 27 octobre, l'introduction en Bourse d'Anthropic, la maison mère de Claude, son ambition de lever 100 milliards de dollars et le retour sur investissement de l'IA, qui reste largement incertain, ont été abordés par Christian Parisot, conseiller économique pour Aurel BGC et président d'Altaïr Economics, Emmanuel Combe, professeur à l'université Paris 1 Panthéon-Sorbonne et à la Skema Business School, et Frédéric Loisel, fund manager chez Quaero Capital, dans l'émission Les Experts, prése",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-les-experts-anthropic-publie-son-prospectus-d-ipo-27-10_VN-202610270350.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-27T09:35:52+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "1fc2aa0dfad4",
+      "title": "Les Experts : Anthropic publie son prospectus d'IPO - 27/10",
+      "summary": "Ce mardi 27 octobre, l'introduction en Bourse d'Anthropic, la maison mère de Claude, son ambition de lever 100 milliards de dollars et le retour sur investissement de l'IA, qui reste largement incertain, ont été abordés par Christian Parisot, conseiller économique pour Aurel BGC et président d'Altaïr Economics, Emmanuel Combe, professeur à l'université Paris 1 Panthéon-Sorbonne et à la Skema Business School, et Frédéric Loisel, fund manager chez Quaero Capital",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-anthropic-publie-son-prospectus-d-ipo-27-10_EN-202610270337.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-27T09:33:53+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "2760da1dde44",
+      "title": "Adnoc Drilling expects unconventional rebound in 2027 after third-quarter lull",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/27/adnoc-drillings-nine-month-profit-rises-to-107bn-as-revenue-hits-record/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T05:30:08+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "c8739ee49d5c",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026&#160;AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital&#8217;s inaugural [&#8230;] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews .",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "source": "SpaceNews",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-10-20T13:00:00+00:00",
+      "sectors": [
+        {
+          "id": "space",
+          "label": "Space",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "4808a607308e",
+      "title": "L'intégrale des Experts du mardi 27 octobre",
+      "summary": "Ce mardi 27 octobre, Étienne Bracq a reçu Christian Parisot, conseiller économique pour Aurel BGC et président d'Altaïr Economics, Emmanuel Combe, professeur à l'université Paris 1 Panthéon-Sorbonne et à la Skema Business School, et Frédéric Loisel, fund manager chez Quaero Capital, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/video-l-integrale-des-experts-du-mardi-27-octobre_VN-202610270375.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-27T10:04:42+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "037673316402",
+      "title": "L'intégrale des Experts du mardi 27 octobre",
+      "summary": "Ce mardi 27 octobre, Étienne Bracq a reçu Christian Parisot, conseil économique pour Aurel BGC et président d'Altaïr Economics, Emmanuel Combe, professeur à l'université Paris 1 Panthéon-Sorbonne et à la Skema Business School, et Frédéric Loisel, fund manager chez Quaero Capital, dans l'émission Les Experts sur BFM Business. Retrouvez l'émission du lundi au vendredi et réécoutez la en podcast.",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/l-integrale-des-experts-du-mardi-27-octobre_EN-202610270345.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-27T09:46:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2746acf694a3",
+      "title": "Les Experts : Le 10 ans français retombe sous les 5% - 27/10",
+      "summary": "Ce mardi 27 octobre, la baisse des taux longs dans l'ensemble du marché, ainsi que le fait que Moody's ait maintenu la note souveraine de la France à Aa3, ont été abordés par Christian Parisot, conseiller économique pour Aurel BGC et président d'Altaïr Economics, Emmanuel Combe, professeur à l'université Paris 1 Panthéon-Sorbonne et à la Skema Business School, et Frédéric Loisel, fund manager chez Quaero Capital, dans l'émission Les Experts, présentée par Étienne Bracq sur BFM Business. Retrouve",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/les-experts/les-experts-le-10-ans-francais-retombe-sous-les-5-27-10_EN-202610270316.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-27T09:04:13+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6f92e4fcc4f3",
+      "title": "Dubai Fashion Week: The best runway looks, biggest moments and designers to know",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/fashion-beauty/2026/10/25/dubai-fashion-week-2026/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T13:07:43+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a690e9cbbe4f",
+      "title": "'Raise it high': Sheikh Mohammed calls on UAE public to celebrate Flag Day",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/27/raise-it-high-sheikh-mohammed-calls-on-uae-public-to-celebrate-flag-day/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:57:52+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "93cf72188021",
+      "title": "Hail hits Northern Emirates as Abu Dhabi issues rain alert",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/27/hail-hits-northern-emirates-as-uae-weather-alert-issued-over-45kph-winds/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:51:18+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b5b5f60d8d98",
+      "title": "Beans, water and radios sell out after UK’s stockpile warning",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/27/beans-water-and-radios-sell-out-after-uks-stockpile-warning/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T09:17:47+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e9cd0f7c98fe",
+      "title": "Vladimir Ivic urges focus as Al Ain surge ahead in Asian Champions League",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/27/vladimir-ivic-urges-focus-as-al-ain-surge-ahead-in-asian-champions-league/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T08:00:01+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3cc7c19a2a2c",
+      "title": "Marc Rowan on why Apollo has taken a $1 billion stake in Mubadala Capital",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/10/27/marc-rowan-on-why-apollo-has-taken-a-1-billion-stake-in-mubadala-capital/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T07:52:15+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ad5dd5dd60e3",
+      "title": "WWE Crown Jewel 'still set' to go ahead in Riyadh: Start time, matches, tickets and how to watch in the UAE",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/10/27/wwe-crown-jewel-still-set-to-go-ahead-in-riyadh-start-time-matches-tickets-and-how-to-watch-in-the-uae/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T07:33:43+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b830f7a6cf8d",
+      "title": "Distinctive CC44 number plate fetches Dh6.72 million at lucrative Dubai auction",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/27/distinctive-cc44-number-plate-fetches-dh672-million-at-lucrative-dubai-auction/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T06:14:07+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "864e48f9e88f",
+      "title": "Al Ain maintain perfect start in AFC Champions League",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/27/al-ain-maintain-perfect-start-in-afc-champions-league/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T05:57:20+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1194b406fcd5",
+      "title": "Aldar reports 25% jump in Q3 net profit amid launch of new projects",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T05:04:57+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2a876e8fc2ac",
+      "title": "Al Hamra CEO unveils vision to transform Ras Al Khaimah into a global lifestyle and investment hub",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/al-hamra-ceo-unveils-vision-to-transform-ras-al-khaimah-into-a-global-lifestyle-and-investment-hub-1.500725701",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T13:04:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "efabee6e7f02",
+      "title": "Enersol showcases UAE energy technology at ADIPEC 2026",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/enersol-showcases-uae-energy-technology-at-adipec-2026-1.500725689",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:55:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8d7ade8e65a9",
+      "title": "Sharjah sets up addiction assessment committee to prevent drug relapse",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah/sharjah-sets-up-addiction-assessment-committee-to-prevent-drug-relapse-1.500725615",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:12:35+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a2388f3accc9",
+      "title": "5 iconic Dubai landmarks reopening in 2027 after major renovations",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai-landmarks-reopening-2027-1.500725510",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:24:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f53d66e3f952",
+      "title": "Abu Dhabi turns its museums into story spaces for young Arabic readers",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-turns-its-museums-into-story-spaces-for-young-arabic-readers-1.500725442",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:14:32+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "47464a95121f",
+      "title": "Abu Dhabi hosts free art workshops to celebrate National Day and empower People of Determination",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-hosts-free-art-workshops-to-celebrate-national-day-and-empower-people-of-determination-1.500725352",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:13:48+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5c8fc937b78d",
+      "title": "Burjeel Day Surgery Center launches dedicated rhinoplasty and oculoplasty clinics in Abu Dhabi",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/company-news/burjeel-day-surgery-center-launches-dedicated-rhinoplasty-and-oculoplasty-clinics-in-abu-dhabi-1.500725444",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:06:38+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d60e1d85c793",
+      "title": "Iraq's Al Zaidi dismisses intelligence chief in shake-up of team",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/iraqs-al-zaidi-dismisses-intelligence-chief-in-shake-up-of-team/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T13:18:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ea37a9fb42a2",
+      "title": "Middle East latest: Saudi Arabia intercepts Houthi missiles fired at Riyadh",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/live-saudi-arabia-intercepts-houthi-missiles-riyadh-latest/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T13:14:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6a07a6d934ed",
+      "title": "‘Today my conscience told me to vote’: Arab Israelis turn out in force to demand change",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/today-my-conscience-told-me-to-vote-arab-israelis-turn-out-in-force-to-demand-change/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:47:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "85edaf52774e",
+      "title": "Inside Tehran talks: Iranians link Houthi de-escalation to US approval of regional truce",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/exclusive-iran-saudi-arabia-inside-tehran-talks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:30:27+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ce30448b1886",
+      "title": "Finland and Norway leaders speak to Putin before Ukraine peace talks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/27/finland-and-norway-leaders-speak-to-putin-ahead-of-ukraine-peace-talks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:27:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "97c42cfd994c",
+      "title": "Loud bang as drone is intercepted in Baghdad",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/loud-bang-as-drone-is-intercepted-in-baghdad/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:54:37+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d78deecb6895",
+      "title": "Abhishek Sharma and Vaibhav Sooryavanshi lead record T20 chase as India win NZ series",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/cricket/2026/10/27/abhishek-sharma-and-vaibhav-sooryavanshi-lead-record-t20-chase-as-india-win-nz-series/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:34:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8782efca860c",
+      "title": "International delegation barred by Israel from entering West Bank to support olive harvest",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/27/international-delegation-barred-by-israel-from-entering-west-bank-to-support-olive-harvest/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:32:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c51961f00741",
+      "title": "Two men charged over suspected RAF Fairford airbase terror plot",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/10/27/two-charged-with-national-security-offences-over-uk-airbase-incident/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T09:20:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d882de4cd58c",
+      "title": "French students vow more protests despite concessions from Macron government",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/27/french-students-vow-more-protests-despite-concessions-from-macron-government/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T08:44:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "124c41c19f98",
+      "title": "Diwali 2026: When is the Festival of Lights and how is it celebrated?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/family/2026/10/27/diwali-dates-festival-lights-hindu-celebration/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T08:38:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a0fa99c7dc3a",
+      "title": "Iraqi court sentences seven French ISIS members to prison",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/iraqi-court-sentences-seven-french-isis-members-to-prison/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T08:31:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2afca36504a3",
+      "title": "If the Burnham bounce survives the budget, an early election could be on the cards",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/27/if-burnham-bounce-survives-the-budget-an-early-election-could-be-on-the-cards/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T08:26:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "107a7180d3e0",
+      "title": "Kuwait sentences three to death over Iran links and plot to assassinate deputy PM",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/10/27/kuwait-sentences-three-to-death-over-iran-links-and-plot-to-assassinate-deputy-pm/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T08:25:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b11cf9efd6c8",
+      "title": "Israel votes in crucial election, Jordan retaliates in Syria and Harry Kane wins Ballon d'Or",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/27/israel-votes-in-crucial-election-jordan-retaliates-in-syria-and-harry-kane-wins-ballon-dor/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T07:53:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "82077b7ad839",
+      "title": "‘Astronomical’ Arab turnout could reshape Israeli politics in key election",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T05:25:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0ab2d4e72709",
+      "title": "Israeli voters head to polling stations to deliver Netanyahu verdict",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/27/israeli-voters-head-to-polling-stations-to-deliver-netanyahu-verdict/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T05:21:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5999506f13aa",
+      "title": "Middle East War: Saudi Arabia intercepts Houthi missiles, drones as Iran talks continue",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-saudi-arabia-intercepts-houthi-missiles-drones-as-iran-talks-continue-1.500724842",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T02:54:37+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b695f9dbe8a2",
+      "title": "Cyclone Arnab bears down on India: 136,000 evacuated as Andhra, Odisha on alert",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/cyclone-arnab-bears-down-on-india-136000-evacuated-as-andhra-odisha-on-alert-1.500725700",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T13:01:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "058b33c1e221",
+      "title": "Travelling soon? These 4 suitcases could save you from a luggage nightmare at the airport",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/travelling-soon-these-4-suitcases-could-save-you-from-a-luggage-nightmare-at-the-airport-1.500724728",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T13:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "416d6976cbd9",
+      "title": "Kerala approves India’s first cooperative airline: CM’s bold promise",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/kerala-approves-indias-first-cooperative-airline-cms-bold-promise-1.500725662",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:53:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "759683e8d2c7",
+      "title": "Rs20 kachori costs Jaipur businessman Rs2 million as thieves snatch cash bag",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/rs20-kachori-costs-jaipur-businessman-rs2-million-as-thieves-snatch-cash-bag-1.500725681",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:49:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c4e9afbd2c1e",
+      "title": "Oman sets December 27 for municipal council elections",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/oman/oman-sets-december-27-for-municipal-council-elections-1.500725517",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:15:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f29b89c8c6e6",
+      "title": "Kartik Aaryan shares Harry Kane's Hindi-speaking video after Ballon d'Or triumph",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/football/kartik-aaryan-shares-harry-kanes-hindi-speaking-video-after-ballon-dor-triumph-1.500725565",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:00:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3ea8b08eb124",
+      "title": "Delhi traders fear Rs100 billion losses as Rahul Gandhi refuses to postpone rally",
+      "summary": "Delhi traders fear Rs100 billion loss over Rahul rally",
+      "link": "https://gulfnews.com/world/asia/india/delhi-traders-fear-rs100-billion-losses-as-rahul-gandhi-refuses-to-postpone-rally-1.500725581",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:00:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cdb54c77ada1",
+      "title": "Still plugging in your phone? These 4 wireless chargers could change your daily routine",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/still-plugging-in-your-phone-these-4-wireless-chargers-could-change-your-daily-routine-1.500724153",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T12:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5712a736b26c",
+      "title": "Kylian Mbappe breaks silence on Mao Zedong meme controversy",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/kylian-mbappe-breaks-silence-on-mao-zedong-meme-controversy-1.500725588",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:58:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9d8f470dabd4",
+      "title": "Sheikh Mohammed calls on citizens, residents to raise national flag on November 3",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/sheikh-mohammed-calls-on-citizens-residents-to-raise-national-flag-on-november-3-1.500725530",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:44:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3c59b3ef92ae",
+      "title": "La Liga apologises to Chinese fans after Mbappe controversy",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/la-liga-apologises-to-chinese-fans-after-mbappe-controversy-1.500725558",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:42:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bcfa28a8122f",
+      "title": "Zimaya advances portfolio with Dh185m Lawncrest in Production City",
+      "summary": "",
+      "link": "https://gulfnews.com/business/property/zimaya-advances-portfolio-with-dh185m-lawncrest-in-production-city-1.500725521",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:30:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "48977436e15a",
+      "title": "We asked Claude if Anthropic’s AI could be a ‘catastrophic risk’ to humanity – its answer was clear",
+      "summary": "",
+      "link": "https://gulfnews.com/business/markets/we-asked-claude-if-anthropics-ai-could-be-a-catastrophic-risk-to-humanity-its-answer-was-clear-1.500725507",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:23:27+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9a0c378420b3",
+      "title": "Pakistan PM Shehbaz Sharif receives 1kg gold gift: What happened to it?",
+      "summary": "Pakistan PM receives 1kg gold: Where did it go?",
+      "link": "https://gulfnews.com/world/asia/pakistan/pakistan-pm-shehbaz-sharif-receives-1kg-gold-gift-what-happened-to-it-1.500725503",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:22:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aedc135769c3",
+      "title": "Australian man finds $150,000 gold nugget after spotting tiny yellow dot in red dirt",
+      "summary": "",
+      "link": "https://gulfnews.com/world/australian-man-finds-150000-gold-nugget-after-spotting-tiny-yellow-dot-in-red-dirt-1.500725509",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:22:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e7628e038842",
+      "title": "If this is the end for Carrick, who’s next for Man United?",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/if-this-is-the-end-for-carrick-whos-next-for-man-united-1.500725497",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:21:52+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1bbb97a63d0d",
+      "title": "Indian scientist working on fighter jet project dies by suicide in Bengaluru; family alleges work stress",
+      "summary": "Indian Fighter jet scientist dies by suicide",
+      "link": "https://gulfnews.com/world/asia/india/indian-scientist-working-on-fighter-jet-project-dies-by-suicide-in-bengaluru-family-alleges-work-stress-1.500725482",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:18:24+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3936c01ea8fb",
+      "title": "Babar Azam yet to hit a six in Pakistan's tri-series despite scoring 118 runs",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/babar-azam-yet-to-hit-a-six-in-pakistans-tri-series-despite-scoring-118-runs-1.500725440",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T11:14:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2181878edd58",
+      "title": "AR Rahman brushes off Ramayana song trolling: ‘I can’t stay on old glory like Rockstar or Slumdog Millionaire’",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/ar-rahman-brushes-off-ramayana-song-trolling-i-cant-stay-on-old-glory-like-rockstar-or-slumdog-millionaire-1.500725428",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-27T10:55:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 2
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 3
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 3
+    },
+    "space": {
+      "label": "Space",
+      "count": 1
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
