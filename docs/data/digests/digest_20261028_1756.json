@@ -1,0 +1,752 @@
+{
+  "generated_at": "2026-10-28T17:56:08.726556+00:00",
+  "generated_at_cet": "2026-10-28 18:56",
+  "total_articles": 52,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "86f95f43d2b0",
+      "title": "ADNOC’s XRG invests in Azerbaijan Gas Field, aiming to build “lasting value” for UAE",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/adnocs-xrg-expands-azerbaijan-gas-field-aiming-to-build-lasting-value-for-uae-1.500727209",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:12:08+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "b6b0fb617773",
+      "title": "UAE oil spill: Sharjah closes all beaches as clean-up effort continues",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/28/sharjah-shuts-beaches-oil-spill-umm-al-quwain-coast/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T12:09:23+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "d7697be5bc63",
+      "title": "Sheikh Ahmed honoured with Dubai-it award for transforming aviation sector",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/28/sheikh-ahmed-honoured-with-dubai-it-award-for-transforming-aviation-sector/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:31:19+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "c8739ee49d5c",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026&#160;AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital&#8217;s inaugural [&#8230;] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews .",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "source": "SpaceNews",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-10-20T13:00:00+00:00",
+      "sectors": [
+        {
+          "id": "space",
+          "label": "Space",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "20fa39b6e517",
+      "title": "Beauty tech : masque LED, radiofréquence, électrostimulation, casque laser… Ces appareils d’institut s’invitent dans nos salles de bains",
+      "summary": "Masque LED, radiofréquence, sèche-cheveux nouvelle génération ou casque laser : la beauty tech s’invite dans nos salles de bains. Découvrez les derniers appareils de soin innovants, pour des résultats dignes des instituts, sans quitter la maison.",
+      "link": "https://www.challenges.fr/luxe/beauty-tech-masque-led-radiofrequence-electrostimulation-casque-laser-ces-appareils-dinstitut-sinvitent-dans-nos-salles-de-bains_646651",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-28T17:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d70e7121b8fa",
+      "title": "Dubai regulator fines Moody's Middle East unit Dh2.15m over data breaches",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/10/28/dubai-regulator-fines-moodys-middle-east-unit-dh215m-over-data-breaches/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:06:51+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8713fe6b0010",
+      "title": "UAE's Emirates Red Crescent provides Dh50 million in winter aid to Gaza",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:48:48+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3a7019a27ef4",
+      "title": "How Dubai Fitness Challenge changed lives, from finding love to losing 50kg",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/wellbeing/2026/10/28/dubai-fitness-challenge-weight-loss-transformation-unexpected-love-story/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T11:58:56+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0d07283413e5",
+      "title": "UAE's Gargash says 'wars only lead to further crises' amid concerns of Iran escalation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/28/dr-gargash-warns-wars-can-only-lead-to-further-crises-amid-concerns-of-possible-escalation-in-iran-conflict/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T10:30:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "06a2dd28a364",
+      "title": "Dh30m UAE Lottery: Check if you have the latest winning numbers",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dh30m-uae-lottery-check-if-you-have-the-latest-winning-numbers-1.500727216",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T17:41:36+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6f9efb8090cb",
+      "title": "Gianni Infantino visits UAE's youth squad during FIFA U-15 World Cup and Festival 2026",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/gianni-infantino-visits-uaes-youth-squad-during-fifa-u-15-world-cup-and-festival-2026-1.500727313",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:10:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "26f052d6608f",
+      "title": "Sheikh Hamdan announces Dubai-it Award for Sheikh Ahmed bin Saeed for aviation achievements",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/sheikh-hamdan-announces-dubai-it-award-for-sheikh-ahmed-bin-saeed-for-aviation-achievements-1.500727249",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "165602f3cf7b",
+      "title": "LuLu Financial Holdings expands digital financial services for UAE businesses with Purpleplum",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/company-news/lulu-financial-holdings-expands-digital-financial-services-for-uae-businesses-with-purpleplum-1.500727245",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:22:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "144a0aaddc1f",
+      "title": "UAE woman jailed for three months after late-night cafe fight",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/crime/uae-woman-jailed-for-three-months-after-late-night-cafe-fight-1.500727088",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:17:43+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "84449f77e6d6",
+      "title": "LuLu Group to open hypermarket in Al Shahama by UAE National Day 2027",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/lulu-group-to-open-hypermarket-in-al-shahama-by-uae-national-day-2027-1.500727109",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:53:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b7f6edfb1946",
+      "title": "UAE targets vaping among youngsters in new Gulf health campaign",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-targets-vaping-among-youngsters-in-new-gulf-health-campaign-1.500727145",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:51:43+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "226daa1e6582",
+      "title": "Israel election live: Ruling Likud party claims Arab parties 'stole' election",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T16:33:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d4f91f61c210",
+      "title": "Ronaldo and Al Nassr look to reap benefits as Al Hilal aim to bounce back: Saudi Pro League talking points",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/28/ronaldo-and-al-nassr-look-to-reap-benefits-as-al-hilal-aim-to-bounce-back-saudi-pro-league-talking-points/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T16:29:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "20361d92f287",
+      "title": "Arab parties set sights on removing Netanyahu as Israel counts last votes",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/arab-parties-set-sights-on-removing-netanyahu-as-israel-counts-last-votes/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:59:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ce0a9ead0726",
+      "title": "Energy prices to climb 32% this year as global shocks mount, World Bank says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/28/energy-prices-climb-world-bank/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:48:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "41fc74bca0e3",
+      "title": "As Anthropic gets set for a stock market listing, what risks is AI creating?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/28/as-anthropic-gets-set-for-a-stock-market-listing-what-risks-is-ai-creating/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:40:55+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bc6f6d29944c",
+      "title": "Brazilian former presidential hopeful Flavio Bolsonaro in US after failing to hand in passport",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/10/28/bolsonaro-miami-visa-lula/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:50:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "30bc5a00ad1a",
+      "title": "Iran 'welcomes negotiations' after reported Qatari-mediated draft deal",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/iran-welcomes-negotiations-after-reported-qatari-mediated-draft-deal/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:21:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4f75b0666992",
+      "title": "At least 68 killed in Spain in two-train crash",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:39:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0010875bf9c4",
+      "title": "Israel’s economic outlook hinges on next government as shekel and stocks slide",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/10/28/israels-economic-outlook-hinges-on-next-government-as-shekel-and-stocks-slide/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:33:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "74f47f69cd29",
+      "title": "Middle East latest: Yemen says Houthis attacked Aden airport twice with ballistic missiles",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-houthis-aden-airport-sanaa/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:28:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "73186d131dcf",
+      "title": "Oman calls for economic and security pact between Iran and Gulf countries",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/oman-calls-for-economic-and-security-pact-between-iran-and-gulf-countries/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:13:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6bc665e2ffb0",
+      "title": "UK tries to woo wealth creators in budget dominated by Middle East war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/28/uk-chancellor-healey-delivers-budget-to-deal-with-global-economic-storms/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:13:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "731e513951f8",
+      "title": "Egyptian court orders closure of news website and fines editor-in-chief",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/egyptian-court-orders-closure-of-news-website-and-fines-editor-in-chief/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:02:46+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "519b4fe2c9d9",
+      "title": "Why Jaguar's new electric car is designed to divide opinion, according to the people who built it",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/magazine/2026/10/28/jaguar-type-01-interview-with-designers-executives-engineers/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:01:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0d405d745374",
+      "title": "What are the main Palestinian Israeli parties and why are they doing so well?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/what-are-the-main-palestinian-israeli-parties-and-why-are-they-doing-so-well/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T12:41:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5099d61cbe2f",
+      "title": "Etihad and Emirates lead ranking of world’s most extravagant airline luxuries",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/10/28/etihad-and-emirates-lead-ranking-of-worlds-most-extravagant-airline-luxuries/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T11:49:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "614bc8fa6d5f",
+      "title": "'Foxtrot enforcer' charged with orchestrating grenade attack on restaurant",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/28/foxtrot-enforcer-charged-with-orchestrating-grenade-attack-on-restaurant/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T11:36:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fcf7d8b0e388",
+      "title": "Oil prices up due to Houthi strikes and US threat to renew Iran war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T11:30:33+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b29cace88531",
+      "title": "Reliance’s Jio soars on market debut after Indian record $3.1bn IPO",
+      "summary": "(Bloomberg) -- Jio Platforms Ltd. surged in its debut, bucking a poor track record of India’s biggest share sales and giving investors a rare bright spot amid a bruising equity selloff.",
+      "link": "https://www.thenationalnews.com/business/markets/2026/10/28/reliances-jio-soars-on-market-debut-after-indias-record-31bn-ipo/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T11:07:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e62dd7002035",
+      "title": "Gulf countries can turn the Syrian refugee crisis into an engine of regional growth",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T11:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "76d8c25eb2ec",
+      "title": "Arab Israelis wake to new political dawn after record election success",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/palestinian-israelis-wake-to-new-political-dawn-after-record-election-success/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T10:39:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a47d59968b8d",
+      "title": "'One people in two countries': Iraq's Al Zaidi calls for partnership on first visit to Syria",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T10:33:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d47db0fe51b4",
+      "title": "Real Madrid join Kylian Mbappe in China apology after striker's 'ill-judged' remarks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/28/real-madrid-join-kylian-mbappe-in-china-apology-after-strikers-ill-judged-remarks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T10:32:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cc6c6752299d",
+      "title": "Innovation in action: Jetour entrenches cutting-edge travel strategy",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/10/28/innovation-in-action-jetour-entrenches-cutting-edge-travel-strategy/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T09:34:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "62df8c2fae5a",
+      "title": "Middle East war: Netanyahu says he could work with Trump to eliminate Iran threat after Israel election; Iran war cost hits $47.1b, Hormuz tensions rise",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-netanyahu-says-he-could-work-with-trump-to-eliminate-iran-threat-after-israel-election-iran-war-cost-hits-471bn-hormuz-tensions-rise-1.500726349",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T03:47:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4486be8b4d5f",
+      "title": "Iran says Qatar offered no new proposal, only ‘unacceptable ideas’ as hardliners warn against distancing Tehran from Houthis",
+      "summary": "Qatar ‘offered no peace deal, only unacceptable ideas’",
+      "link": "https://gulfnews.com/world/mena/iran-says-qatar-offered-no-peace-deal-only-unacceptable-ideas-1.500727409",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T16:37:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f6dcd2b7dd5c",
+      "title": "Spain high-speed train crash kills 68, injures over 100",
+      "summary": "",
+      "link": "https://gulfnews.com/world/europe/spain-high-speed-train-crash-kills-68-injures-over-100-2-1.500726759",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T09:45:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9489407a975d",
+      "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/israelis-await-final-election-results-as-netanyahu-rivals-weigh-joining-forces-with-arab-parties-1.500727394",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T16:18:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1a482beeb3cb",
+      "title": "Dictionary.com names ‘maxxing’ Word of the Year as Gen Z reshapes everyday language",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/dictionarycom-names-maxxing-word-of-the-year-as-gen-z-reshapes-everyday-language-1.500725625",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T16:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "503c325f2b15",
+      "title": "Kumar Sangakkara alleges discrimination by Ryanair staff at Dublin Airport",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/kumar-sangakkara-alleges-discrimination-by-ryanair-staff-at-dublin-airport-1.500727319",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T15:15:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "39b8ffeae5ce",
+      "title": "Why throwing cigarette butts from cars puts road users at risk",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/why-throwing-cigarette-butts-from-cars-puts-road-users-at-risk-1.500727268",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:41:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ac3a2f46372e",
+      "title": "One man dead, another missing as flash floods sweep away cement mixer truck in Egypt",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/one-man-dead-another-missing-as-flash-floods-sweep-away-cement-mixer-truck-in-egypt-1.500727173",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:16:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8eb547fd032b",
+      "title": "Yuvraj Singh lauds Sanju Samson's selfless, team-first approach in New Zealand win",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/yuvraj-singh-lauds-sanju-samsons-selfless-team-first-approach-in-new-zealand-win-1.500727221",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:09:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a77ae9edd3dd",
+      "title": "Mukesh Ambani gets teary-eyed as Isha and Anant praise him at Jio's blockbuster IPO",
+      "summary": "",
+      "link": "https://gulfnews.com/business/markets/mukesh-ambani-gets-teary-eyed-as-isha-and-anant-praise-him-at-jios-blockbuster-ipo-1.500727178",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T14:03:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "810968829078",
+      "title": "Flavio Bolsonaro arrives in Florida after Brazil election loss",
+      "summary": "Bolsonaro disembarks plane after landing in Florida: AFP",
+      "link": "https://gulfnews.com/world/americas/flavio-bolsonaro-arrives-in-florida-after-brazil-election-loss-1.500727176",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T13:58:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7f97d49175e3",
+      "title": "Brett Lee speaks on Vaibhav Sooryavanshi, Sachin Tendulkar, BBL ownership and more",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/brett-lee-speaks-on-vaibhav-sooryavanshi-sachin-tendulkar-bbl-ownership-and-more-1.500726633",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T08:25:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 2
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 1
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 1
+    },
+    "space": {
+      "label": "Space",
+      "count": 1
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
