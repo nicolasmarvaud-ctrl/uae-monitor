@@ -1,0 +1,794 @@
+{
+  "generated_at": "2026-10-29T18:04:59.758455+00:00",
+  "generated_at_cet": "2026-10-29 19:04",
+  "total_articles": 53,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "b936afdefc2a",
+      "title": "Masdar starts construction on 200MW solar energy project in Malaysia",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/29/masdar-starts-construction-on-200mw-solar-energy-project-in-malaysia/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T17:05:59+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 3
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 5
+    },
+    {
+      "id": "d3a6cf17d4ac",
+      "title": "Nearly 90% of energy leaders boosted AI spending last year, Adnoc-Microsoft study finds",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/10/29/nearly-90-of-energy-leaders-boosted-ai-spending-last-year-adnoc-microsoft-study-finds/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:54:49+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        },
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "7f32894ce99d",
+      "title": "Indian expat in Sharjah wins Dh5 million in UAE Lottery days before his 60th birthday",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/indian-expat-in-sharjah-wins-dh5-million-in-uae-lottery-days-before-his-60th-birthday-1.500723746",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-26T07:42:52+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "7aa1fc004b83",
+      "title": "Sharjah's child safety body warns of AI-generated fake sexual images targeting children",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/sharjahs-child-safety-body-warns-of-ai-generated-fake-sexual-images-targeting-children-1.500728506",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T13:05:20+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "33a3270284c5",
+      "title": "Botim launches UAE's first fintech-issued Jaywan prepaid card",
+      "summary": "",
+      "link": "https://gulfnews.com/business/banking/botim-launches-uaes-first-fintech-issued-jaywan-prepaid-card-1.500728352",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T11:45:40+00:00",
+      "sectors": [
+        {
+          "id": "fintech",
+          "label": "Fintech",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "c8739ee49d5c",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026&#160;AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital&#8217;s inaugural [&#8230;] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews .",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "source": "SpaceNews",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-10-20T13:00:00+00:00",
+      "sectors": [
+        {
+          "id": "space",
+          "label": "Space",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "20fa39b6e517",
+      "title": "Beauty tech : masque LED, radiofréquence, électrostimulation, casque laser… Ces appareils d’institut s’invitent dans nos salles de bains",
+      "summary": "Masque LED, radiofréquence, sèche-cheveux nouvelle génération ou casque laser : la beauty tech s’invite dans nos salles de bains. Découvrez les derniers appareils de soin innovants, pour des résultats dignes des instituts, sans quitter la maison.",
+      "link": "https://www.challenges.fr/luxe/beauty-tech-masque-led-radiofrequence-electrostimulation-casque-laser-ces-appareils-dinstitut-sinvitent-dans-nos-salles-de-bains_646651",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-10-28T17:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fd5e19e1a54a",
+      "title": "UAE weather: Rain and hail forecast in some areas until Monday",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-weather-rain-and-hail-forecast-in-some-areas-until-monday/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T16:54:39+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7d848a05c563",
+      "title": "Apple gives backing to UAE's Coders HQ to boost app developer pool",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/29/apple-gives-backing-to-uaes-coders-hq-to-boost-app-developer-pool/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:16:04+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9765f8fe01c2",
+      "title": "Five-star Awais Ali Shah powers UAE to rare ODI victory",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/cricket/2026/10/29/five-star-awais-ali-shah-powers-uae-to-rare-odi-victory/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:55:51+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "11ea3a39c445",
+      "title": "Abu Dhabi court sentences eight men to life in jail over Sudanese arms trafficking case",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/29/abu-dhabi-court-sentences-eight-men-to-life-in-jail-over-sudanese-arms-trafficking-case/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:19:48+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "760462ff6808",
+      "title": "The UAE-US partnership and the rise of ‘algo-diplomacy’",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/10/29/us-uae-ai-artificial-intelligence-silicon-valley-diplomacy/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b68042d73d08",
+      "title": "Accident as lorry driver falls asleep at wheel sparks Dubai Police warning",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T13:29:40+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fe82085f19a4",
+      "title": "Abu Dhabi apartment prices rise 24 per cent in third quarter",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/10/29/abu-dhabi-apartment-prices-rise-24-per-cent-in-third-quarter/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T12:25:49+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a2aabe3dc762",
+      "title": "UAE recalls baby gripe water over alcohol content",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-recall-babies-magic-tea-brand-baby-sleep-gripe-water/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T11:36:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ea7afce76819",
+      "title": "Jake Paul picks Dubai for Christmas Eve boxing comeback",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/combat-sports/2026/10/29/jake-paul-picks-dubai-for-christmas-eve-boxing-comeback/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T10:57:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e77a3629ff03",
+      "title": "UAE oil spill: Everything we know as beaches close and clean-up drive continues",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T10:27:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f76bb29dcaba",
+      "title": "Dubai's Palm Jumeirah to get two pedestrian bridges by 2027",
+      "summary": "RTA commences construction of two pedestrian bridges at Dubai&apos;s Palm Jumeirah",
+      "link": "https://gulfnews.com/uae/dubai/dubais-palm-jumeirah-to-get-two-pedestrian-bridges-by-2027-1.500728821",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T16:47:34+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f53db43b86bb",
+      "title": "Middle East war: What UAE residents need to know this evening (Thursday, October 29)",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-what-uae-residents-need-to-know-this-evening-thursday-october-29-1.500728698",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:09:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ef3f2f17ad7d",
+      "title": "ADIPEC 2026: Abu Dhabi announces parking, truck and bus restrictions",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/adipec-2026-abu-dhabi-announces-parking-truck-and-bus-restrictions-1.500728683",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:45:43+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4c0524054243",
+      "title": "UAE trains experts to tackle nuclear emergencies",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/uae-trains-experts-to-tackle-nuclear-emergencies-1.500728647",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:18:23+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b2e413982baa",
+      "title": "Abu Dhabi court jails 8 for life over arms supplies to Sudanese Army",
+      "summary": "Yasser Al Atta, Salah Gosh, Othman Al Zubair, five others sentenced to life imprisonment in arms trafficking, money laundering case",
+      "link": "https://gulfnews.com/uae/crime/abu-dhabi-court-jails-8-for-life-over-arms-supplies-to-sudanese-army-1.500728382",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T12:11:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ae144be38dad",
+      "title": "Truck crashes into safety barrier on Dubai's E611 after driver falls asleep",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/truck-crashes-into-safety-barrier-on-dubais-e611-after-driver-falls-asleep-1.500728392",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T12:09:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a89e080819ce",
+      "title": "Etihad Credit Bureau launches Score 3i credit scoring model for UAE residents",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/etihad-credit-bureau-launches-score-3i-credit-scoring-model-for-uae-residents-1.500728299",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T11:19:10+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bb48dca22383",
+      "title": "New UAE driving test rules for 2027: Automatic failure even with a passing score",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/uae-driving-test-rules-2027-75-percent-passing-score-1.500726193",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-28T02:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fa91ddf53c36",
+      "title": "Iran cancels execution for woman who 'filmed burning shop' during protests",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/iran-cancels-execution-for-woman-who-filmed-burning-shop-during-protests/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T17:59:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b6b6868546f0",
+      "title": "IMF sets December target to clear Egypt's last programme review",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/10/29/imf-sets-december-target-to-clear-egypts-last-programme-review/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T17:44:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2da83de469d1",
+      "title": "UK government urged to expand Israel sanctions to cover Gaza aid blockade",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/29/uk-government-urged-to-expand-israel-sanctions-to-cover-gaza-aid-blockade/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T16:27:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "72a7a38bff4a",
+      "title": "Bruno Fernandes 'fully committed' and will remain Manchester United captain",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/10/29/bruno-fernandes-fully-committed-and-will-remain-manchester-united-captain/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:57:31+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "87ced7faf7f5",
+      "title": "Israel election live: Qatar denies 'ridiculous' interference allegations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/israel-election-results-netanyahu-qatar-allegations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:17:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3c90898312fa",
+      "title": "Europe set to release 42 million barrels of oil for 'short term relief'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/29/europe-set-to-release-42-million-barrels-of-oil-for-short-term-relief/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:51:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c2b2a5582e8e",
+      "title": "Israeli election results raise prospect of new Iran attack",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/israeli-election-results-raise-prospect-of-new-iran-attack/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:49:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d3c198dcd84a",
+      "title": "Iraqi excavations to reveal secrets of life in Mesopotamia 4,000 years ago",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-excavations-to-reveal-secrets-of-life-in-mesopotamia-4000-years-ago/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:42:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8b0c4d18842e",
+      "title": "Sudanese people ‘trapped between drones and incarceration’ in Al Obeid, says UN mission",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/sudanese-people-trapped-between-drones-and-incarceration-in-al-obeid-says-un-mission/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:36:05+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bd7fe2310fea",
+      "title": "Futurist Parag Khanna fears we're already in third world war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/10/29/futurist-parag-khanna-fears-were-already-in-third-world-war/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:10:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bad0881b5913",
+      "title": "Rage against the machines: How data centres became a US midterm election issue",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/10/29/data-centers-opposition-ai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T13:46:24+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0a21dc6bc048",
+      "title": "QatarEnergy turns to US LNG with Woodside deal as Hormuz force majeure drags on",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/10/29/qatarenergy-turns-to-us-lng-with-woodside-deal-as-hormuz-force-majeure-drags-on/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T13:10:17+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2ca619ab6579",
+      "title": "Qatar denies 'ridiculous' accusations after Netanyahu casts doubt on validity of Arab vote",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-casts-doubt-on-validity-of-record-arab-vote/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T13:07:56+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7b3cc052d057",
+      "title": "Netanyahu finds shrinking support among Europe's far-right",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-finds-shrinking-support-among-europes-far-right/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T12:53:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b93bc240e493",
+      "title": "From AI to empty rooms: What scares us in modern horror?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/podcasts/culture-bites/2026/10/29/from-ai-to-empty-rooms-what-scares-us-in-modern-horror/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T12:20:58+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "16b5ca29a481",
+      "title": "Gang jailed after charging migrants $1,800 to be smuggled from UK to France",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/10/29/gang-jailed-after-charging-migrants-1800-to-be-smuggled-from-uk-to-france/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T12:17:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1805c9b88230",
+      "title": "ECB President Christine Lagarde resigns after months of speculation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/10/29/ecb-president-christine-lagarde-resigns-after-months-of-speculation/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T11:32:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d197174f37cc",
+      "title": "From Kendall Jenner to Elle Fanning, why bangle watches are back in fashion",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/magazine/2026/10/29/from-kendall-jenner-to-elle-fanning-why-bangle-watches-are-back-in-fashion/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T10:29:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "293a04bb24e7",
+      "title": "Five killed, including four children, as flash floods sweep across Syria",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/five-killed-including-four-children-as-flash-floods-sweep-across-syria-1.500728880",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T17:26:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c952b4bb1cd2",
+      "title": "Middle East War: Iran receives JD Vance letter as four tankers reportedly hit mines in Hormuz",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-houthi-missile-as-iran-warns-israel-against-strikes-1.500727751",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T03:58:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8c179f0264a8",
+      "title": "Families hold out hope for loved ones missing after deadly Spain train crash",
+      "summary": "Families hold out hope for loved ones missing after deadly Spain train crash",
+      "link": "https://gulfnews.com/world/europe/families-hold-out-hope-for-loved-ones-missing-after-deadly-spain-train-crash-1.500728715",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T17:05:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "71986ce583a0",
+      "title": "Sanju Samson funds Kerala sprinter TM Atul after record-breaking gold",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/sanju-samson-funds-kerala-sprinter-tm-atul-after-record-breaking-gold-1.500728797",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T16:18:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "53bcde1059d5",
+      "title": "Philippine business groups demand cleanup of ‘deeply troubling’ 2027 budget: Why they said so",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/philippines/philippine-business-groups-demand-cleanup-of-deeply-troubling-2027-budget-what-you-need-to-know-1.500728642",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:18:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f0a8bb009e83",
+      "title": "Alaska governor orders probe into election same-name ‘spoiler’",
+      "summary": "",
+      "link": "https://gulfnews.com/world/americas/alaska-governor-orders-probe-into-election-same-name-spoiler-2-1.500728722",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T15:07:05+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "83b75e48a33f",
+      "title": "'Football belongs to the fans': Cristiano Ronaldo reacts to BOAT win over Messi",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/football/football-belongs-to-the-fans-cristiano-ronaldo-reacts-to-boat-win-over-messi-1.500728648",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T14:12:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "42adaf8e577e",
+      "title": "Arab Reading Challenge: Sheikh Mohammed crowns Egyptian girl,11, as Dh500,000 champion who beat 40m students",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/arab-reading-challenge-sheikh-mohammed-crowns-egyptian-girl11-as-dh500000-champion-who-beat-40m-students-1.500728039",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T09:01:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c2e0af8c380a",
+      "title": "Brain health must be part of every conversation about healthy ageing",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/health/brain-health-must-be-part-of-every-conversation-about-healthy-ageing-1.500725235",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-29T07:51:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bcb2a9061669",
+      "title": "Beyond ‘Us vs. Them’: Philippines’ industrial future demands a whole-of-nation push on 'Pax Silica'",
+      "summary": "",
+      "link": "https://gulfnews.com/opinion/beyond-us-vs-them-philippines-industrial-future-demands-a-whole-of-nation-push-on-pax-silica-1.500712634",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-10-16T06:08:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 4
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 4
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 1
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 1
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
