@@ -1,0 +1,687 @@
+{
+  "generated_at": "2026-11-02T21:26:35.501035+00:00",
+  "generated_at_cet": "2026-11-02 22:26",
+  "total_articles": 47,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "d43b7a4d5eb0",
+      "title": "Dubai prepares for month-long UAE National Day festivities",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/uae-national-day-dubai-announces-month-long-programme/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T15:21:40+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "8f74502c1b9e",
+      "title": "Abu Dhabi's Adia, Avolon and I Squared Capital to launch aviation investment platform",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/aviation/2026/11/02/abu-dhabis-adia-avolon-and-i-squared-capital-to-launch-aviation-investment-platform/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T13:23:26+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "5ed66c1855c6",
+      "title": "What does it take to bring Crazy Horse Paris to UAE? Behind the scenes at new Dubai cabaret",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/2026/11/02/behind-the-scenes-cray-horse-dubai-edition/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T13:22:13+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "622e258e869b",
+      "title": "UAE's ambitious Asteroid Belt mission targets 2028 Q1 launch",
+      "summary": "UAE Space Agency on track for Asteroid Belt mission launch in Q1 2028",
+      "link": "https://gulfnews.com/uae/government/uaes-ambitious-asteroid-belt-mission-targets-2028-q1-launch-1.500733359",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T19:21:27+00:00",
+      "sectors": [
+        {
+          "id": "space",
+          "label": "Space",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "36baaba8ba6e",
+      "title": "UAE plans Dh200 billion energy investment by 2030: Suhail Al Mazrouei",
+      "summary": "UAE plans to invest AED200 billion in energy sector by 2030: Suhail Al Mazrouei",
+      "link": "https://gulfnews.com/business/energy/uae-plans-dh200-billion-energy-investment-by-2030-suhail-al-mazrouei-1.500733116",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T19:00:19+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "805a35da60f5",
+      "title": "AD Ports Group appoints Afif Al Yafei as chief executive",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/11/02/ad-ports-group-appoints-afif-al-yafei-as-chief-executive/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T13:41:40+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "69605a743816",
+      "title": "DP World strengthens China–Africa corridor with new shipping link",
+      "summary": "DP World strengthens China–Africa corridor with new shipping link",
+      "link": "https://gulfnews.com/business/dp-world-strengthens-chinaafrica-corridor-with-new-shipping-link-1.500733275",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:42:33+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "653c2c0248d8",
+      "title": "Sur RTL, au jeu « Quitte ou double », les candidats jouent la sécurité des gains",
+      "summary": "Les participants de l’émission de radio sont de plus en plus prudents pour s’assurer de repartir avec un peu d’argent. Un phénomène lié à la baisse du pouvoir d’achat.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/02/sur-rtl-au-jeu-quitte-ou-double-les-candidats-jouent-la-securite-des-gains_6805284_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T16:00:13+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bd8def7fd698",
+      "title": "En retard sur ses livraisons de trains en Allemagne, Alstom émet un nouvel avertissement sur ses résultats",
+      "summary": "Les difficultés de production des trains Coradia Max remettent en cause les prévisions de résultats financiers du constructeur ferroviaire français sur la période d’avril à septembre 2026.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/02/en-retard-sur-ses-livraisons-de-trains-en-allemagne-alstom-emet-un-nouvel-avertissement-sur-ses-resultats_6805052_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T06:30:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f5883e1b16de",
+      "title": "Le journaliste Arthur Sarradin, prix Albert Londres, alerte sur une « précarité intenable » des reporters à l’étranger",
+      "summary": "« Ici, à Radio France, on est payés par exemple 100 euros pour un reportage de guerre » et « on n’est pas assurés, on doit payer nous-mêmes nos gilets pare-balles », a souligné le journaliste de 26 ans sur le réseau social X.",
+      "link": "https://www.lemonde.fr/actualite-medias/article/2026/11/02/le-journaliste-arthur-sarradin-prix-albert-londres-alerte-sur-une-precarite-intenable-des-reporters-a-l-etranger_6805267_3236.html",
+      "source": "Le Monde International",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T14:29:13+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d4547efba90f",
+      "title": "Une plongée rare dans les rouages de la fraude fiscale grâce à une clé USB : le procès des « Dubaï Papers » ouvre à Paris",
+      "summary": "Le procès des « Dubaï Papers », qui commence ce lundi au tribunal correctionnel de Paris, donnera un aperçu rare des rouages du milieu opaque de la fraude fiscale internationale, grâce à une clé USB remise anonymement au PNF en 2019.",
+      "link": "https://www.challenges.fr/economie/une-plongee-rare-dans-les-rouages-de-la-fraude-fiscale-grace-a-une-cle-usb-le-proces-des-dubai-papers-ouvre-a-paris_646727",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T05:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c424cd035410",
+      "title": "Christine Kelly : «Ce racisme de gauche»",
+      "summary": "CHRONIQUE. Alors que RMC et Radio Nova s’en prennent sans cesse à son accent et ses origines, Christine Kelly constate que certains prétendent militer pour la diversité mais ne la supportent que si ses représentants servent leur idéologie.",
+      "link": "https://www.lejdd.fr/Societe/christine-kelly-ce-racisme-de-gauche-187551",
+      "source": "Le JDD",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T07:03:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b3101000615c",
+      "title": "Abu Dhabi restaurant menus to feature labels identifying healthier dishes",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/abu-dhabi-restaurant-menus-to-feature-labels-identifying-healthier-dishes/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T16:05:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7666a49a0a35",
+      "title": "Dubai delivery riders to be monitored by cameras and smart technology",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/dubai-delivery-riders-to-be-monitored-by-cameras-and-smart-technology/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T15:16:06+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "813e66a7ffa5",
+      "title": "Dubai launches workspaces in Al Barsha Pond Park",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/park-office-dubai-al-barsha-pond-park/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T14:09:25+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f00333de60c8",
+      "title": "How to apply for Dubai tourist visa as application process eased",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/visit-dubai-uae-tourist-visa-30-day-60-day-multiple-entry/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T12:22:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "58fa7af4b092",
+      "title": "UAE oil exports surpass prewar levels despite Hormuz disruption, energy minister says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/02/uae-oil-exports-surpass-prewar-levels-despite-hormuz-disruption-uae-energy-minister-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T12:20:41+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c08897acdcc6",
+      "title": "Jake Paul to fight Cedric Doumbe in Dubai on Christmas Eve",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/combat-sports/2026/11/02/jake-paul-to-fight-cedric-doumbe-in-dubai-on-christmas-eve/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T11:55:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a4bf3a980f52",
+      "title": "UAE President and Bavarian Minister-President discuss strengthening cooperation",
+      "summary": "UAE President and Bavarian Minister-President discuss strengthening cooperation",
+      "link": "https://gulfnews.com/uae/uae-president-and-bavarian-minister-president-discuss-strengthening-cooperation-1.500733334",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:53:05+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1dabc6f35002",
+      "title": "Dh12.5m UAE winter aid campaign to help 300,000 people in 17 countries",
+      "summary": "ERC launches AED12.5 million winter aid campaign to benefit over 300,000 people in 17 countries",
+      "link": "https://gulfnews.com/uae/government/c31xcmb-erc-launches-aed125-million-winter-aid-campaign-1.500733286",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:52:39+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "84bffbe00110",
+      "title": "UAE sends 343 tonnes of humanitarian aid to Gaza in four convoys",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-sends-343-tonnes-of-humanitarian-aid-to-gaza-in-four-convoys-1.500733301",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:04:18+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d2ad8c3825c4",
+      "title": "Fireballs, Leonid meteors and Beaver Moon: What's coming to UAE skies?",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/fireballs-leonid-meteors-and-beaver-moon-whats-coming-to-uae-skies-1.500733279",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T17:58:47+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "35fba8f7ef5d",
+      "title": "Sharjah desert gatherings allowed, police clarify rules",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah/sharjah-desert-gatherings-allowed-police-clarify-rules-1.500733258",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T17:25:01+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bd70a6bf61a3",
+      "title": "Famous election predictor Allan Lichtman makes US midterm forecast",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/02/midterm-election-prediction-lichtman-sayed/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T21:00:31+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a8f099dab13b",
+      "title": "UN begins shutting down Western Sahara peacekeeping mission after 35 years",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/02/un-begins-shutting-down-western-sahara-peacekeeping-mission-after-35-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T20:20:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ae52d0a592b3",
+      "title": "Trump makes final midterm pitch with ‘Golden Age’ message even as voters fret over prices",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/02/midterms-trump-final-pitch-reflecting-pool/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:37:56+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c03047b6719e",
+      "title": "Emirates Red Crescent launches $3.4m winter aid campaign to help 300,000 people",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/emirates-red-crescent-launches-34m-winter-aid-campaign-to-help-300000-people/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:06:04+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "618cad05f1e7",
+      "title": "Bombs hidden in bricks and flasks make crossing Yemen ever more perilous",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/02/bombs-hidden-in-bricks-and-flasks-make-crossing-yemen-ever-more-perilous/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T17:48:18+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b834227e8bfd",
+      "title": "The Milky Way to a ring of fire: Best of British photography revealed",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/02/the-milky-way-to-a-ring-of-fire-best-of-british-photography-revealed/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T17:47:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3c8e153ca850",
+      "title": "Anthropic reports $17bn in Q3 revenue before supersized IPO",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/02/anthropic-reports-17bn-in-q3-revenue-before-supersized-ipo/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T16:59:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e19b5c65e408",
+      "title": "Attacks on ships in Strait of Hormuz 'could be higher than official count'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/02/attacks-on-ships-in-strait-of-hormuz-could-be-higher-than-official-count/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T16:54:04+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "709d94eba1be",
+      "title": "Two teens to leave Riyadh hospital weeks after Houthi strike on airport killed father",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/two-teens-to-leave-riyadh-hospital-weeks-after-houthi-strike-on-airport-killed-father/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T16:48:04+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "93570c6bb12a",
+      "title": "US risks leaving 'vengeful' Iran a danger to Gulf allies, former White House adviser Hochstein warns",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/02/us-iran-war-gulf-allies-amos-hochstein/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T15:43:50+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "085c12d0ac0a",
+      "title": "US midterms latest: Americans head to polls in election that could change course of Iran war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/02/us-midterms-live-trump-republicans-democrats-vote/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T15:27:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d6c631bb4266",
+      "title": "What makes a happy marriage on The Gilded Age? Season four has surprising answers",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/02/the-gilded-age-cast-season-four-spoilers-hbo-where-to-watch/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T15:15:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4901a36a6360",
+      "title": "Syria appoints Druze TV personality and activist as peace adviser",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/02/syria-appoints-druze-tv-personality-and-activist-as-peace-adviser/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T14:33:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "39321344f8aa",
+      "title": "European supermarkets hit by freezer hacks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/02/european-supermarkets-hit-by-freezer-hacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T14:24:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b751531468c2",
+      "title": "After straying from Democrats in 2024, Arab Americans are coming home",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/02/us-midterm-elections-arab-muslim-americans-gaza-democrats-republicans-donald-trump/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a3905417be02",
+      "title": "Global health exposed as deadly viruses continue to spread, report finds",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/global-health-exposed-as-deadly-viruses-continue-to-spread-report-finds/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T13:58:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d9595297f977",
+      "title": "Lebanon's government to hold emergency meeting over food poisoning outbreak",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/02/lebanons-government-to-hold-emergency-meeting-over-food-poisoning-outbreak/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T12:45:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6aa7ed3ff8d7",
+      "title": "Could the US midterms cause a surprise stock market rally?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/11/02/could-the-us-midterms-cause-a-surprise-stock-market-rally/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T12:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a8c2fe01f743",
+      "title": "Former military barracks in London transformed into luxury residences with eye on security",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/02/former-military-barracks-in-london-transformed-into-luxury-residences-with-eye-on-security/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T11:47:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3ff1610aa7c3",
+      "title": "Jordan will not allow terrorists to undermine its security and unity, King Abdullah says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/02/jordan-will-not-allow-terrorists-to-undermine-its-security-and-unity-king-abdullah-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T11:43:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c9242cea1bb2",
+      "title": "Middle East conflict: Trump threatens Iran with military action as Tehran warns new war could last longer",
+      "summary": "",
+      "link": "https://gulfnews.com/world/americas/middle-east-conflict-trump-threatens-iran-with-military-action-as-tehran-warns-new-war-could-last-longer-1.500732180",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T02:59:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6952a593f181",
+      "title": "Vessel struck near Strait of Hormuz: maritime agency",
+      "summary": "Vessel struck near Strait of Hormuz: maritime agency",
+      "link": "https://gulfnews.com/world/mena/vessel-struck-near-strait-of-hormuz-maritime-agency-1.500733362",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T19:31:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "88167efce0df",
+      "title": "'Over a million' abuse images found on phone of UK man who drugged, raped wife",
+      "summary": "&apos;Over a million&apos; abuse images found on phone of UK man who drugged, raped wife",
+      "link": "https://gulfnews.com/world/europe/over-a-million-abuse-images-found-on-phone-of-uk-man-who-drugged-raped-wife-1.500733314",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-02T18:31:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 1
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 0
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 3
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 1
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
