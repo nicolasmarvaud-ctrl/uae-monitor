@@ -1,0 +1,758 @@
+{
+  "generated_at": "2026-11-03T19:07:45.286929+00:00",
+  "generated_at_cet": "2026-11-03 20:07",
+  "total_articles": 52,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "01440ab4f5d3",
+      "title": "Long-term demand for LNG will continue to rise, Adnoc Gas CEO says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/03/long-term-demand-for-lng-will-continue-to-rise-adnoc-gas-ceo-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T11:37:16+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "951539581de1",
+      "title": "Nomad art fair to return to old Abu Dhabi airport terminal in November",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/09/08/nomad-art-fair-to-return-to-old-abu-dhabi-airport-terminal-in-november/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T14:48:08+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "01d1dc861912",
+      "title": "Adipec: Welsh companies look to UAE for energy sector growth",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/03/adipec-welsh-companies-look-to-uae-for-energy-sector-growth/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:31:33+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "ba92357b52d9",
+      "title": "Dubai court upholds student's dismissal over AI-written thesis",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-court-upholds-students-dismissal-over-ai-written-thesis-1.500734592",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:28:29+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "adc71786a490",
+      "title": "\"Vous n'êtes jamais allé sur CNews ? Jamais\" : un ministre pris en flagrant délit de mensonge",
+      "summary": "Interrogé dans l'émission « Lundi, c'est politique », diffusée sur LCP en partenariat avec Challenges et Radio Classique, au sujet de la pétition contre CNews, le ministre de l'Enseignement supérieur, Philippe Baptiste, a affirmé ne jamais y avoir mis les pieds. Pourtant, il y a bien été reçu en mai 2025.",
+      "link": "https://www.challenges.fr/politique/vous-netes-jamais-alle-sur-cnews-jamais-un-ministre-pris-en-flagrant-delit-de-mensonge_646760",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-03T11:50:06+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5a6bf6b9857b",
+      "title": "UAE to introduce limit on number of cars one person can register as minimum age for e-scooter use is lowered",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/03/uae-traffic-laws-2027-vehicle-registration-fees-e-scooter-rules/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T14:18:42+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5f447a6ed560",
+      "title": "Ten UAE glamping and caravan stays to book as the weather cools",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/03/ten-uae-glamping-and-caravan-stays-to-book-as-the-weather-cools/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:15:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "01e64cd64696",
+      "title": "Abu Dhabi Golf Championship: Jon Rahm keeps an open mind upon return from LIV Tour",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/03/abu-dhabi-golf-championship-jon-rahm-keeps-an-open-mind-upon-return-from-liv-tour/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:51:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "36a8b75f27da",
+      "title": "President Sheikh Mohamed meets Germany's economy and energy minister in Abu Dhabi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/03/president-sheikh-mohamed-meets-germanys-economy-and-energy-minister-in-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:29:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d0ccaeaa4cdf",
+      "title": "Diwali 2026: When and where to celebrate in the UAE",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/family/2026/11/03/diwali-dates-festival-lights-hindu-celebration/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:13:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ba4930bd6f2a",
+      "title": "Sheikh Mansour bin Zayed meets Turkish intelligence chief in Abu Dhabi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/03/sheikh-mansour-bin-zayed-meets-turkish-intelligence-chief-in-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:08:23+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4e04b9a285a6",
+      "title": "UAE President recognises diplomats with First Class Order of Zayed II",
+      "summary": "UAE President receives ambassadors awarded Order of Zayed II and Order of Independence",
+      "link": "https://gulfnews.com/uae/government/uae-president-recognises-diplomats-with-first-class-order-of-zayed-ii-1.500734896",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T18:49:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f15ace7c931e",
+      "title": "Dubai-based Indian expat wins Dh25m Big Ticket jackpot",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai-based-indian-expat-wins-dh25m-big-ticket-jackpot-1.500734522",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:51:20+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "90591f83fdf2",
+      "title": "Sharjah Ruler orders Dh22.71m debt relief for 66 cases",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah/sharjah-ruler-orders-dh2271m-debt-relief-for-66-cases-1.500734802",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:43:17+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "74a6f5d24d1e",
+      "title": "Sheikh Theyab bin Mohamed bin Zayed Al Nahyan raises UAE flag, celebrating solidarity and progress",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/sheikh-theyab-bin-mohamed-bin-zayed-al-nahyan-raises-uae-flag-celebrating-solidarity-and-progress-1.500734626",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T14:45:49+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fc5954ff783c",
+      "title": "Syria takes spotlight at World Travel Market in London",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T19:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ce49f9f64126",
+      "title": "Drills and nuclear warnings as climate of uncertainty shrouds Middle East",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/drills-and-nuclear-warnings-as-climate-of-uncertainty-shrouds-middle-east/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T17:13:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "53d822f3eb0a",
+      "title": "Arab Youth Centre launches New Economy Programme to train 400 young Arabs in tech and business",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/03/arab-youth-centre-launches-new-economy-programme-to-train-400-young-arabs-in-tech-and-business/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T17:02:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f44510614aaf",
+      "title": "Foie gras ban on ballot paper for Washington voters",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/03/foie-gras-ban-washington-dc/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:54:05+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cb013b3ff239",
+      "title": "Hidden hands behind the Houthis: Yemen claims 21 IRGC and Hezbollah agents are supporting rebels",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/hidden-hands-behind-the-houthis-yemen-claims-21-irgc-and-hezbollah-agents-are-supporting-rebels/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:52:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "54f75caf79c1",
+      "title": "Binance says fake job interviews and internal AI tool used in $6.3bn heist",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/11/03/binance-says-fake-job-interviews-and-internal-ai-tool-used-in-63bn-heist/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:35:05+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "47c2f4006c3d",
+      "title": "Energy companies brace for new Iran tension as cost of resilience mounts",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/03/energy-companies-brace-for-new-iran-tension-as-cost-of-resilience-mounts/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:33:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c91a5a90bdaa",
+      "title": "Trump claims he will end military aid to Israel, but figures tell a different story",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/trump-claims-he-will-end-military-aid-to-israel-but-figures-tell-a-different-story/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:26:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aae48bb223a6",
+      "title": "Jordan church attack suspects charged with terrorism",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/jordan-church-attack-suspects-charged-with-terrorism/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T14:36:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5183a81ced79",
+      "title": "Donald Trump says US will end $4bn in annual military aid to Israel",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/03/trump-says-us-will-end-4bn-in-annual-military-aid-to-israel/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T14:22:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d86ceb31d49e",
+      "title": "Hezbollah is betting its future on Iran as Lebanon becomes a proxy battlefield",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/03/iran-lebanon-hezbollah-israel-us-donald-trump/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0baa1251aa0a",
+      "title": "Zayed National Museum opens 'calm room' for neurodivergent visitors",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/03/zayed-national-museum-opens-calm-room-for-neurodivergent-visitors/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:50:43+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "27757c9db792",
+      "title": "US midterms latest: Trump says US will stop $4 billion military aid to Israel at end of 2026",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/03/us-midterms-live-polling-stations-open-iran-war/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:46:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "dc88ad5805ab",
+      "title": "Palestinian relations with UK improve despite Israeli pressure",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/03/palestinian-relations-with-uk-improve-despite-israeli-pressure/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:35:37+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5306c2071e3c",
+      "title": "Israeli opposition scrambles to oust Netanyahu after crucial meeting",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/israeli-opposition-scrambles-to-oust-netanyahu-after-crucial-meeting/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:28:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c868eedc3763",
+      "title": "Kurdish security forces arrest suspected smuggler over boat sinking that killed three children",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/kurdish-security-forces-arrest-suspected-smuggler-over-boat-sinking-that-killed-three-children/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:09:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1ef22755378b",
+      "title": "Syria foils 'Hezbollah-linked plot' to blow up oil refinery",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/syria-foils-hezbollah-linked-plot-to-blow-up-oil-refinery/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:28:51+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "28519658af17",
+      "title": "How Asian Cup postponement will affect Europe’s big leagues as well as Gulf football",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/03/how-asian-cup-postponement-will-affect-europes-big-leagues-as-well-as-gulf-football/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T12:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e08375a3ad42",
+      "title": "Lebanon cuts electricity to public institutions over unpaid bills",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/lebanon-cuts-electricity-to-public-institutions-over-unpaid-bills/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T11:50:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b415a3e1e4e5",
+      "title": "Two young men executed in Iran over January protests",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/03/two-young-men-executed-in-iran-over-january-protests/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T11:13:46+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "97c1a22d1cd7",
+      "title": "UK cyber chief warns 'upgrade your tech defences' after supermarket hacks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/03/uk-cyber-chief-warns-upgrade-your-tech-defences-after-supermarket-hacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T11:04:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7b0d3da400de",
+      "title": "Middle East conflict: US carries out defensive strikes on Iran’s Qeshm Island near Strait of Hormuz as tensions escalate",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-conflict-us-carries-out-defensive-strikes-on-irans-qeshm-island-near-strait-of-hormuz-as-tensions-escalate-1.500733555",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T03:12:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6aa711c0e07e",
+      "title": "How fake job interviews helped hackers steal $6.34 billion from Binance",
+      "summary": "",
+      "link": "https://gulfnews.com/business/markets/how-fake-job-interviews-helped-hackers-steal-634-billion-from-binance-1.500734933",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T18:38:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "34504c26d93e",
+      "title": "Kuwait approves two hotels at new airport terminal, cinema and ice rink at Messilah Beach",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-approves-two-hotels-at-new-airport-terminal-cinema-and-ice-rink-at-messilah-beach-1.500734863",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T18:20:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9ba592fa0d69",
+      "title": "European supermarket fridges got hacked. Again. Here's what to know",
+      "summary": "European supermarket fridges got hacked. Again. Here&apos;s what to know",
+      "link": "https://gulfnews.com/world/europe/european-supermarket-fridges-got-hacked-again-heres-what-to-know-1.500734917",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T18:14:32+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "721832f9586b",
+      "title": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
+      "summary": "Top UN court to rule Nov 19 on Myanmar/Rohingya genocide case",
+      "link": "https://gulfnews.com/world/asia/top-un-court-to-rule-nov-19-on-myanmarrohingya-genocide-case-1.500734900",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T17:59:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d43324078a77",
+      "title": "Greenland parliament ratifies US security deal",
+      "summary": "Greenland parliament ratifies US security deal",
+      "link": "https://gulfnews.com/world/americas/greenland-parliament-ratifies-us-security-deal-1.500734884",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T17:50:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "952c651ad7d1",
+      "title": "US midterm elections 2026: Trump's grip on Congress hangs in the balance",
+      "summary": "",
+      "link": "https://gulfnews.com/world/americas/us-midterm-elections-2026-trumps-grip-on-congress-hangs-in-the-balance-1.500734851",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T17:12:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6d63dc17482e",
+      "title": "Mother of three, 22, killed by alleged domestic violence; husband reportedly dead",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/mother-of-three-22-killed-by-alleged-domestic-violence-husband-reportedly-dead-1.500734833",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:58:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "84e28a6c6605",
+      "title": "Iran voices deep pessimism over US talks, warns conflict could spread to Europe",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/iran-voices-deep-pessimism-over-us-talks-warns-conflict-could-spread-to-europe-1.500734776",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:37:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "95a7040871d9",
+      "title": "Disney plans thousands of layoffs as managers asked to cut costs by 20%",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/disney-plans-thousands-of-layoffs-as-managers-asked-to-cut-costs-by-20-1.500734784",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:22:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ef4af819bfc0",
+      "title": "Zayed National Museum launches Calm Room for neurodivergent visitors",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/zayed-national-museum-launches-calm-room-for-neurodivergent-visitors-1.500734775",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T16:12:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b6a9802caa44",
+      "title": "Jury begins deliberating at Russell Brand's rape and sexual assault trial",
+      "summary": "Jury begins deliberating at Russell Brand&apos;s rape and sexual assault trial",
+      "link": "https://gulfnews.com/entertainment/jury-begins-deliberating-at-russell-brands-rape-and-sexual-assault-trial-1.500734697",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:19:05+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b4f121f25337",
+      "title": "Bomb threat forces plane reported to be from Israel to land in Bulgaria",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/bomb-threat-forces-plane-reported-to-be-from-israel-to-land-in-bulgaria-1.500734545",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:18:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "18a57e54fbb8",
+      "title": "The business of letting strangers into your home: Meet Saudi Arabia's HiHome",
+      "summary": "",
+      "link": "https://gulfnews.com/the-kurator/life/the-business-of-letting-strangers-into-your-home-meet-saudi-arabias-hihome-1.500734691",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T15:10:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e5409d948b82",
+      "title": "80% of young adults use ChatGPT weekly, OpenAI executive says",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/80-of-young-adults-use-chatgpt-weekly-openai-executive-says-1.500734485",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-03T13:33:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 3
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 3
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
