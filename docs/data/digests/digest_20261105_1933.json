@@ -1,0 +1,745 @@
+{
+  "generated_at": "2026-11-05T19:33:28.617460+00:00",
+  "generated_at_cet": "2026-11-05 20:33",
+  "total_articles": 51,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "154f40b1e252",
+      "title": "Masdar and Endesa begin construction of $28m battery storage projects in Spain amid clean energy push",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/05/masdar-and-endesa-begin-construction-of-28m-battery-storage-projects-in-spain-amid-clean-energy-push/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T11:37:06+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "f28198a8b1ba",
+      "title": "Mubadala Energy to double output over next decade with natural gas in focus",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/05/mubadala-energy-to-double-output-over-next-decade-with-natural-gas-in-focus/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:29:44+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "66e87e7d8cdf",
+      "title": "Sheikh Khaled lauds Adnoc's role in global energy security system",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/11/05/sheikh-khaled-lauds-adnocs-role-in-global-energy-security-system/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T11:12:38+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4499cd8c2cfa",
+      "title": "CNews comparée à Radio Mille-Collines sur le plateau de T18",
+      "summary": "Invité de T18 mercredi 4 novembre, l’avocat et membre de la Ligue des droits de l’Homme Arié Alimi a esquissé un parallèle entre CNews et la Radio-télévision des Mille-Collines, responsable de la propagande appelant à massacrer les Tutsis lors du génocide au Rwanda en 1994.",
+      "link": "https://www.lejdd.fr/Societe/cnews-comparee-a-radio-mille-collines-sur-le-plateau-de-t18-187890",
+      "source": "Le JDD",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-05T12:22:37+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "22e14e3797c5",
+      "title": "UAE marks three years of Operation Gallant Knight 3 delivering aid to Gaza",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/05/uae-marks-three-years-of-operation-gallant-knight-3-delivering-aid-to-gaza/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T17:34:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bb272d8dd08a",
+      "title": "UAE to hold Union Fortress 11 military parade in Liwa City in December",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/05/uae-to-hold-union-fortress-11-military-parade-in-liwa-city-in-december/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:58:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "daa1aa690ec6",
+      "title": "UAE companies brace for impact of nine-hour limits on driving",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/05/drivers-hours-rule-will-improve-safety-but-cause-upheaval-analysts-say/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:49:50+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1959fecb6be0",
+      "title": "Emaar plans to delist construction unit after board approves $3.3 billion buyout",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/05/emaar-plans-to-delist-construction-unit-after-board-approves-33-billion-buyout/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:46:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d6b2313bed17",
+      "title": "Abu Dhabi's IHC more than doubles net profit in first nine months of 2026",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/05/abu-dhabis-ihc-more-than-doubles-net-profit-in-first-nine-months-of-2026/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T15:23:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fcc8760ed91e",
+      "title": "Rory McIlroy hit by two-stroke penalty at Abu Dhabi Golf Championship",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/05/rory-mcilroy-hit-by-two-stroke-penalty-at-abu-dhabi-golf-championship/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T14:23:07+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "859fbde57fb5",
+      "title": "Emaar Properties reports 5.6% increase in Q3 profit on revenue boost",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/11/05/emaar-properties-reports-56-increase-in-q3-profit-on-revenue-boost/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:54:05+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d53d48e15712",
+      "title": "Staged suicides and suspicious fires: How Dubai Police solve crimes",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/05/staged-suicides-and-suspicious-fires-how-dubai-police-solve-crimes/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:15:23+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "441dbdbbe836",
+      "title": "Diwali 2026: When and where to celebrate in the UAE",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/family/2026/11/05/diwali-weekend-2026-hindu-festival-lights-things-to-do/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T12:49:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "91774eccbc6f",
+      "title": "ROX delivers first UAE-made ADAMAS vehicles, marking a new era of UAE automotive excellence",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/05/rox-delivers-first-uae-made-adamas-vehicles-marking-a-new-era-of-uae-automotive-excellence/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T12:07:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fa195856f067",
+      "title": "Driverless cars to be tested in Ras Al Khaimah communities",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/ras-al-khaimah/driverless-cars-to-be-tested-in-ras-al-khaimah-communities-1.500737665",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:48:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "773349e0f523",
+      "title": "UAE's first cryoneurolysis treatment brings relief to MS patient",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/health/uaes-first-cryoneurolysis-treatment-brings-relief-to-ms-patient-1.500737672",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T17:55:21+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ce46d956f64f",
+      "title": "A new home for Arab art: Sharjah's Barjeel museum to open in 2028",
+      "summary": "",
+      "link": "https://gulfnews.com/the-kurator/style/a-new-home-for-arab-art-sharjahs-barjeel-museum-to-open-in-2028-1.500737590",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:41:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0d640f852e1c",
+      "title": "Anwar Gargash praises Mohammed bin Rashid’s recognition of Emirati diplomat Afra Al Hameli",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/anwar-gargash-praises-mohammed-bin-rashids-recognition-of-emirati-diplomat-afra-al-hameli-1.500737518",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:37:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f86ea97915cd",
+      "title": "Nothing is cooler than a simple watch, says Abu Dhabi's young watch-designer",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/nothing-is-cooler-than-a-simple-watch-says-abu-dhabis-young-watchmaker-1.500737250",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:12:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "358a63382cf8",
+      "title": "RadianX promises solar-powered devices that never need charging",
+      "summary": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
+      "link": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+      "source": "TechCrunch",
+      "source_lang": "en",
+      "category": "international",
+      "published": "2026-11-05T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c06fdf592d8e",
+      "title": "US issues sanctions over efforts to supply Iran with portable air-defence weapons",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/05/manpads-iran-sanctions/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:59:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "22d6985e6394",
+      "title": "Sheikh Mohammed honours winners of 2026 Mohammed bin Rashid Government Excellence Award",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/05/sheikh-mohammed-honours-winners-of-2026-mohammed-bin-rashid-government-excellence-award/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T17:51:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e06f97452e0e",
+      "title": "Oil rebounds from two-month low as uncertainty lingers over Iran war",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/05/oil-rebounds-from-two-month-low-as-uncertainty-lingers-over-iran-war/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:05:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e3fb66ad8c8f",
+      "title": "Nasdaq plunges 5% as investors dump AI stocks after midterms",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/05/ai-fears-overtake-democratic-sweep-as-nasdaq-enters-correction-territory/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T15:50:59+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a4e23a2dcb34",
+      "title": "Arab parties back Eisenkot, but path to Israeli coalition remains fraught",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/arab-parties-back-eisenkot-but-path-to-israeli-coalition-remains-fraught/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T15:32:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8f8d13af0afa",
+      "title": "Nithya Raman: Who is the Indian-born politician tipped to become next Los Angeles mayor?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/05/nithya-raman-los-angeles-who-is/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T15:29:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fde91e99bb92",
+      "title": "Cyber criminals put 'welfare' internet systems for offshore workers in their crosshairs",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/05/keeping-offshore-workers-connected-to-their-families-can-expose-oil-and-gas-platforms-to-cyber-risks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T14:36:19+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "59bc7ca96473",
+      "title": "Oil could fall to $80-$85 after war, while Kevin Warsh believes in pixies, UBS economist says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/11/05/oil-could-fall-to-80-85-after-war-while-kevin-warsh-believes-in-pixies-ubs-economist-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T14:10:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "66e288b47bf6",
+      "title": "Israelis fear for future of US support after midterm backlash against Trump",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/israelis-fear-for-future-of-us-support-after-midterm-backlash-against-trump/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T14:04:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3959c79ba55c",
+      "title": "Sudan and Ethiopia in retaliatory expulsions of diplomats as tensions rise",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/sudan-and-ethiopia-in-tit-for-tat-expulsions-of-diplomats-as-tensions-rise/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:44:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d57cb6f50a4a",
+      "title": "Syrian killed after Lebanese Army shoots on vehicle 'posing imminent danger' at border",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/syrian-killed-after-lebanese-army-shoots-on-vehicle-posing-imminent-danger-at-border/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:38:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8a1e6900f56c",
+      "title": "What a Democratic-controlled US Congress can and cannot do in the Middle East",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/05/us-congress-democrats-republicans-donald-trump-middle-east-gulf-iran-israel/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2ef480048919",
+      "title": "Energy security, AI and supply deals take centre stage as Adipec wraps up",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/11/05/energy-security-ai-and-supply-deals-take-centre-stage-as-adipec-wraps-up/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T13:02:42+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8b03e036dc44",
+      "title": "From Ramayana to RRR: The most expensive Indian films ever made",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/05/from-ramayana-to-rrr-the-most-expensive-indian-films-ever-made/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T12:37:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "91ec0bc3981c",
+      "title": "The 9ft crime boss: Puzzle over doctored mugshot released by Iraq",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/the-27-metre-crime-boss-puzzle-over-doctored-mugshot-released-by-iraq/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T12:31:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bef25074a9e9",
+      "title": "Policeman killed in 'terrorist attack' in Amman",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/05/jordan-says-terrorist-attack-killed-policeman-in-amman/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T12:02:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "10801388da15",
+      "title": "48 hours in Rabat: History and culture meet modernity in Morocco's capital",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/05/48-hours-in-rabat-history-and-culture-meet-modernity-in-moroccos-capital/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T11:52:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cc13065659de",
+      "title": "Trump weighs Iran strikes or deal after midterm loss as Vance urges agreement, Qatar mediates; Brent oil falls to $93",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T03:43:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "49f111d41717",
+      "title": "ADIPEC 2026 wraps up with record $67 billion in agreements",
+      "summary": "ADIPEC 2026 concludes with record US$67 billion in energy agreements",
+      "link": "https://gulfnews.com/business/energy/adipec-2026-wraps-up-with-record-67-billion-in-agreements-1.500737658",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T19:12:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bfc89424b1ae",
+      "title": "Elon Musk spends $445 million on US midterms as Republicans suffer major defeats",
+      "summary": "",
+      "link": "https://gulfnews.com/world/americas/elon-musk-spends-445-million-on-us-midterms-as-republicans-suffer-major-defeats-1.500737712",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:50:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "26fa71e1979d",
+      "title": "Will Trump launch fresh strikes on Iran after US poll defeat?",
+      "summary": "After midterm loss, Trump is left to weigh his next move in Iran war that contributed to GOP debacle",
+      "link": "https://gulfnews.com/world/americas/will-trump-launch-fresh-strikes-on-iran-after-us-poll-defeat-1.500736621",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:47:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c882892e7d64",
+      "title": "Trump administration's secret talks with Iran on deportations exposed",
+      "summary": "Trump administration held talks with Iran on deporting Iranians during the war, court documents show",
+      "link": "https://gulfnews.com/world/mena/trump-administrations-secret-talks-with-iran-on-deportations-exposed-1.500737652",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:30:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "64011b763600",
+      "title": "LIV Golf to shut down after five years as $300 million rescue plan collapses",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/golf-in-uae/liv-golf-to-shut-down-after-five-years-as-300-million-rescue-plan-collapses-1.500737064",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:26:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "121e5309b3ea",
+      "title": "Iran war puts US Defence Secretary Pete Hegseth's Pentagon future in doubt",
+      "summary": "Pressure mounts on US defense chief after Republican election rout",
+      "link": "https://gulfnews.com/world/americas/iran-war-puts-us-defence-secretary-pete-hegseths-pentagon-future-in-doubt-1.500737625",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T18:19:05+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f7a4a660c794",
+      "title": "RAK prison education programme transforms lives of 5,000 inmates",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/ras-al-khaimah/rak-prison-education-programme-transforms-lives-of-5000-inmates-1.500737574",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T17:33:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "34143801e8ea",
+      "title": "Tragic shooting in western Turkey leaves eight dead",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/tragic-shooting-in-western-turkey-leaves-eight-dead-1.500737641",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T17:26:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "45ad8a0039c6",
+      "title": "Saudi Arabia issues thunderstorm and flash flood warning across most regions",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-issues-thunderstorm-and-flash-flood-warning-across-most-regions-1.500737484",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:35:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "170d3e626488",
+      "title": "RCB revisits Virat Kohli's GOAT tribute to Cristiano Ronaldo after international retirement",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/football/rcb-revisits-virat-kohlis-goat-tribute-to-cristiano-ronaldo-after-international-retirement-1.500737528",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:08:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a4cca3629ff4",
+      "title": "Instagram launches free desktop video editor to rival CapCut",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/companies/instagram-launches-free-desktop-video-editor-to-rival-capcut-1.500737430",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T16:03:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "64fde95ed22d",
+      "title": "Why are Yemen’s Houthis demanding $51 billion from Saudi Arabia to end the war?",
+      "summary": "Why are Houthis demanding $51b from Saudi Arabia?",
+      "link": "https://gulfnews.com/world/gulf/yemen/why-are-yemen-s-houthis-demanding-51-billion-from-saudi-arabia-to-end-the-war-1.500737436",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-05T15:01:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 4
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 2
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
