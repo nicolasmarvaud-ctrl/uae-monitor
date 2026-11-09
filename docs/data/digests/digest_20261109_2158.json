@@ -1,0 +1,713 @@
+{
+  "generated_at": "2026-11-09T21:58:14.850311+00:00",
+  "generated_at_cet": "2026-11-09 22:58",
+  "total_articles": 49,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "6a499c591ae1",
+      "title": "EN DIRECT, guerre en Ukraine : lors des négociations d’Abou Dhabi, la délégation ukrainienne insistera sur les échanges de prisonniers",
+      "summary": "« Nous allons accorder une grande attention à la dimension humanitaire », écrit sur Telegram Kyrylo Boudanov, chef de cabinet de Volodymyr Zelensky, et membre de la délégation dépêchée à Abou Dhabi mardi et mercredi. Russes et Ukrainiens « ont montré un peu de souplesse en privé », a estimé un responsable américain.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-lors-des-negociations-d-abou-dhabi-la-delegation-ukrainienne-insistera-sur-les-echanges-de-prisonniers_6808609_3210.html",
+      "source": "Le Monde International",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-09T19:12:21+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6e29210c41f2",
+      "title": "Négociations Ukraine-Russie à Abou Dhabi : que révèle la composition de la délégation russe ?",
+      "summary": "Rien n’indique que Poutine envisage de mettre fin à la guerre L’article Négociations Ukraine-Russie à Abou Dhabi&#160;: que révèle la composition de la délégation russe&#160;? est apparu en premier sur Le Grand Continent .",
+      "link": "https://legrandcontinent.eu/fr/2026/11/09/negociations-ukraine-russie-a-abou-dhabi-que-revele-la-composition-de-la-delegation-russe/",
+      "source": "Le Grand Continent",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-09T18:43:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2448a93c4ee2",
+      "title": "UAE postpones plan to cap number of vehicles a person can own",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/uae-postpones-plan-to-cap-number-of-vehicles-a-person-can-own/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T16:46:05+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3b063ff0d729",
+      "title": "Dubai has urgent need to boost student accommodation, say experts",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/dubai-has-urgent-need-to-boost-student-accommodation-say-experts/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T15:37:07+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6204584fe44b",
+      "title": "UAE closes east coast beach due to oil spill",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/al-luluyah-beach-in-khor-fakkan-is-closed-due-to-impact-of-oil-spill/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T15:30:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a74254ad6789",
+      "title": "UAE will move forward 20 years for every year it is set back, says Al Gergawi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/uae-will-move-forward-20-years-for-every-year-it-is-set-back-says-al-gergawi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T14:32:20+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "d628098c6a4d",
+      "title": "Abu Dhabi communities urged to protect children by reporting safety concerns",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/abu-dhabi-communities-urged-to-protect-children-by-reporting-safety-concerns/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T14:21:38+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3d33c2e3ddaf",
+      "title": "Sharjah Ruler allocates Dh4.5m to buy books from international fair to stock libraries",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/sharjah-ruler-allocates-dh45m-to-buy-books-from-international-fair-to-stock-libraries/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:22:13+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "65d7aa79e2fc",
+      "title": "University College London's new Dubai school will focus on business of healthcare",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/university-college-londons-new-dubai-school-will-focus-on-business-of-health-care/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T11:45:45+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c7d38747b7cc",
+      "title": "Bitten or scratched by a stray animal? Dubai issues five steps to follow",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/health/bitten-or-scratched-by-a-stray-animal-dubai-issues-five-steps-to-follow-1.500741393",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:28:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0ea580578584",
+      "title": "UAE becomes first country outside Europe to launch fully digital ATA Carnet system",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-becomes-first-country-outside-europe-to-launch-fully-digital-ata-carnet-system-1.500741416",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:08:37+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4af2298721a5",
+      "title": "GDRFA Dubai wins major GCC award for government HR excellence",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/gdrfa-dubai-wins-major-gcc-award-for-government-hr-excellence-1.500741562",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:04:32+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ce2bc5a3a381",
+      "title": "UAE non-Muslim places of worship face Dh750,000 fines: What are the violations?",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-non-muslim-places-of-worship-face-dh750000-fines-what-are-the-violations-1.500741454",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T15:08:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4380f101fd4e",
+      "title": "Nvidia's Jensen Huang should have been on lookout for China 'honeytrap', expert says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/09/jensen-huang-scandal-nvidia-china-alice/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T20:11:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "de267d268f3c",
+      "title": "China extends pause on rare earth export curbs for two months",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T19:54:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bd4fe16895b5",
+      "title": "Ukraine talks to focus on security guarantees as doubts persist over breakthrough",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/09/ukraine-talks-to-focus-on-security-guarantees-as-doubts-persist-over-breakthrough/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T19:16:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "04e157b9538b",
+      "title": "Iraq sets ambitious target to more than double oil production by 2032",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/iraq-sets-ambitious-target-to-more-than-double-oil-production-by-2032/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T19:04:01+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bede170598ad",
+      "title": "Russia rejects Ukraine war 'freeze' and claims Kyiv would use pause to rearm",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/09/russia-ukraine-war-abu-dhabi-ceasefire-talks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:50:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8df2a7e67898",
+      "title": "US-Saudi Business Council discusses expanding trade and investment ties",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/09/us-saudi-business-council-discusses-expanding-trade-and-investment-ties/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:04:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5b675c847ec8",
+      "title": "Egypt makes Muslim Brotherhood’s terrorist listing permanent",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/egypt-makes-muslim-brotherhoods-terrorist-listing-permanent/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T16:46:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c26ec22fe36f",
+      "title": "Syria has no plans to send troops to fight Houthis in Yemen 'in near future'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/syria-has-no-plans-to-send-troops-to-fight-houthis-in-yemen-in-near-future/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T16:24:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7dda6df6c5e8",
+      "title": "Lionel Messi and Lamine Yamal named in FIFPro World XI but no Harry Kane or Cristiano Ronaldo",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/09/lionel-messi-and-lamine-yamal-named-in-fifpro-world-xi-but-no-harry-kane-or-cristiano-ronaldo/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T16:24:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "431714b5dc42",
+      "title": "Hundreds of Algerian and Iraqi criminals live freely in UK despite deportation orders",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/09/hundreds-of-algerian-and-iraqi-criminals-live-freely-in-uk-despite-deportation-orders/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T15:44:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "38a76f88205e",
+      "title": "Zayed Award for Human Fraternity receives nominations from more than 90 nations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/zayed-award-for-human-fraternity-receives-nominations-from-more-than-90-nations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T15:37:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d81f56031392",
+      "title": "Iraqi PM secretly visits Tehran 'at Trump's request' in bid to ease tension",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/iraqi-pm-secretly-visits-tehran-at-trumps-request-in-bid-to-ease-tension/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T15:16:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "84c3640fc1fc",
+      "title": "Call it sabotage: Europe is finally confronting its vulnerability trap",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/09/eu-europe-disinformation/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4f8e2290a64d",
+      "title": "QatarEnergy agrees to buy 25% stake in Namibia's offshore oil block in expansion push",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/09/qatarenergy-agrees-to-buy-25-stake-in-namibias-offshore-oil-block-in-expansion-push/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:41:39+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cd6051131070",
+      "title": "'People were screaming': Deadly landslide a warning for winter in Gaza",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/people-were-screaming-deadly-tent-collapse-a-warning-for-winter-in-gaza/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:39:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2bff4b93d77e",
+      "title": "Constant state of danger takes toll on shipping crews in Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/09/safety-elusive-for-crews-stuck-at-sea-in-strait-of-hormuz-as-death-toll-climbs/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:32:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8dfe0c25b052",
+      "title": "Saudi Arabia and Egypt to join G7 talks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/09/saudi-arabia-and-egypt-to-join-g7-talks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:09:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d539e01ceda5",
+      "title": "Egypt's transport minister urged to resign after seven killed in train crash",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/egypt-train-crash-transport-minister-urged-to-resign-after-seven-killed-and-114-injured/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:02:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "96585de4f0f1",
+      "title": "Thirteen migrants found dead and 18 rescued from boat off Greece's Crete island",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/09/thirteen-migrants-found-dead-and-18-rescued-from-boat-off-greeces-crete-island/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T12:01:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9e3076e8c1f9",
+      "title": "France accuses Iran of being behind Europe-wide hacks on fridges",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/09/uk-sends-cyber-force-to-help-allies-as-disruption-spreads-across-europe/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T11:56:18+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "debc816e11b6",
+      "title": "Olivia Wilde has changed her mind about what happens after The Invite ends",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/09/olivia-wilde-the-invite-ending/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T11:56:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "97b229d57b18",
+      "title": "Enzo Maresca aims to kick-start Manchester City season after run of defeats",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/09/enzo-maresca-aims-to-kick-start-manchester-city-season-after-run-of-defeats/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T11:48:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2ed3a7283d9f",
+      "title": "Jordan's Foreign Minister visits Damascus to smooth relations after deadly air raid",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/09/jordan-syria/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T11:34:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "521725c181cc",
+      "title": "Andhra Pradesh Deputy CM and actor Pawan Kalyan announces separation from wife Anna after 13 years",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/andhra-pradesh-deputy-cm-and-actor-pawan-kalyan-announces-separation-from-wife-anna-after-13-years-1.500741786",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T21:22:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "296634848c60",
+      "title": "NBQ ranks among world’s top performing banks in 2026 by Forbes",
+      "summary": "",
+      "link": "https://gulfnews.com/business/banking/nbq-ranks-among-worlds-top-performing-banks-in-2026-by-forbes-1.500726621",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "98f400de09eb",
+      "title": "Middle East conflict: Trump says Iran Task Force Iron Gate is in effect, expects Xi and Putin meeting next week",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-task-force-iron-gate-is-in-effect-expects-xi-and-putin-meeting-next-week-1.500740691",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T02:47:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9e1c75592568",
+      "title": "In another shake-up at DC Studios, Gunn and Safran are out as Skydance appoints Marvel vet Latchman",
+      "summary": "James Gunn and Peter Safran are out in another DC Studios shakeup, Skydance appoints Jeremy Latchman",
+      "link": "https://gulfnews.com/entertainment/hollywood/in-another-shake-up-at-dc-studios-gunn-and-safran-are-out-as-skydance-appoints-marvel-vet-latchman-1.500741688",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T19:30:15+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "075b363c310f",
+      "title": "Lionel Messi wins the MLS Golden Boot for a second straight season",
+      "summary": "Lionel Messi wins the MLS Golden Boot for a second straight season",
+      "link": "https://gulfnews.com/sport/football/lionel-messi-wins-the-mls-golden-boot-for-a-second-straight-season-1.500741665",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T19:21:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9d882d4a8c9e",
+      "title": "‘Harry Potter’ star Bonnie Wright’s newborn has been hospitalised 6 times in 5 weeks",
+      "summary": "‘Harry Potter’ star Bonnie Wright’s newborn has been hospitalised 6 times in 5 weeks",
+      "link": "https://gulfnews.com/entertainment/hollywood/harry-potter-star-bonnie-wrights-newborn-has-been-hospitalised-6-times-in-5-weeks-1.500741732",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T19:05:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "edcb3529c256",
+      "title": "Boeing to cut 5% of commercial plane staff on slower ramp-up plans",
+      "summary": "Boeing to cut 5% of commercial plane staff on slower ramp-up plans",
+      "link": "https://gulfnews.com/business/aviation/boeing-to-cut-5-of-commercial-plane-staff-on-slower-ramp-up-plans-1.500741712",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:54:16+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1a4882eb8666",
+      "title": "Remote learning reinstated in Riyadh",
+      "summary": "Schools in Saudi capital Riyadh to return to online classes: message to parents",
+      "link": "https://gulfnews.com/world/gulf/saudi/remote-learning-reinstated-in-riyadh-1.500741717",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:43:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9e8c0bd3cd5a",
+      "title": "Biden scales back book tour as cancer 'slows me down'",
+      "summary": "Biden scales back book tour as cancer &apos;slows me down&apos;",
+      "link": "https://gulfnews.com/world/americas/biden-scales-back-book-tour-as-cancer-slows-me-down-1.500741633",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T18:19:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7531a0e1b84b",
+      "title": "France blames Iran for last month's cyberattack on supermarket fridges",
+      "summary": "France blames Iran for the last month&apos;s cyberattack on supermarket fridges",
+      "link": "https://gulfnews.com/world/europe/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges-1.500741692",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T17:56:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "705414e30772",
+      "title": "Trump returns to US election fraud claims after initial concession",
+      "summary": "Trump casts doubt on US midterm results with new fraud claims",
+      "link": "https://gulfnews.com/world/americas/trump-returns-to-us-election-fraud-claims-after-initial-concession-1.500741556",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T17:50:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ab6956430df4",
+      "title": "US expels Lebanese consul over posts praising 1983 Beirut bombing",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/us-expels-lebanese-consul-over-posts-praising-1983-beirut-bombing-1.500741620",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-09T17:43:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 3
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 0
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 2
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
