@@ -1,0 +1,866 @@
+{
+  "generated_at": "2026-11-10T19:22:56.381794+00:00",
+  "generated_at_cet": "2026-11-10 20:22",
+  "total_articles": 58,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "e1215ac62cf7",
+      "title": "EN DIRECT, guerre en Ukraine : « La libération des prisonniers de guerre est une priorité », souligne Volodymyr Zelensky après la première journée de discussions à Abou Dhabi",
+      "summary": "« Le format trilatéral a été constructif et assez substantiel », écrit le président ukrainien sur les réseaux sociaux. Des négociations entre la Russie et l’Ukraine se tiennent aux Emirats arabes unis, dans le cadre d’une médiation américaine.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-marco-rubio-juge-les-pourparlers-d-abou-dhabi-tres-productifs_6808609_3210.html",
+      "source": "Le Monde International",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-10T14:43:31+00:00",
+      "sectors": [],
+      "bilateral_score": 8,
+      "relevance_score": 8
+    },
+    {
+      "id": "4de1b7a3a8db",
+      "title": "Middle East latest: Ship attacked in UAE waters, says operator Adnoc",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/iran-war-live-shipping-adnoc-uae-trump-latest/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:54:42+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "36177b013eb2",
+      "title": "Sheikh Khaled unveils expansion of Abu Dhabi's Emirati family growth drive",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-khaled-approves-latest-stage-of-abu-dhabis-emirati-family-growth-drive/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:26:31+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "018ac312a243",
+      "title": "UAE reports 404% growth in Emirati workforce and 109% rise in women's participation",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-reports-404-growth-in-emirati-workforce-and-109-rise-in-womens-participation-1.500742903",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:51:38+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "add5b8b4a0ca",
+      "title": "503 km/h à Abou Dabi: le record historique de BYD et de sa marque ultra-luxe Yangwang",
+      "summary": "Cap sur Abou Dabi pour une édition spéciale d'En Route pour Demain consacrée à l'exploit technologique du groupe BYD. Au programme : le décryptage du nouveau record mondial à 503,17 km/h établi par la Yangwang U9 Xtreme, les interviews de la vice-présidente du groupe chinois Stella Li et du pilote allemand Marc Basseng , ainsi que la découverte en première mondiale de la limousine ultra-luxe Altior et d'un bras de recharge autonome pour \"faire le plein\" en 5 minutes en plein désert grâce à l'éne",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/en-route-pour-demain/video-503-km-h-a-abou-dabi-le-record-historique-de-byd-et-de-sa-marque-ultra-luxe-yangwang_VN-202611100808.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-10T18:12:45+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "1e56c40e9aa6",
+      "title": "UAE approves national genomics masterplan to bring personalised medicine to all citizens",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/uae-approves-national-genomics-masterplan-to-bring-personalised-medicine-to-all-citizens/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T17:56:26+00:00",
+      "sectors": [
+        {
+          "id": "health",
+          "label": "Health",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "3f1b64c1ea73",
+      "title": "UAE joins French AI safety declaration to protect children",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/10/uae-among-dozens-of-countries-to-sign-ai-safety-declaration-to-protect-children/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:25:35+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6ca2b0d53432",
+      "title": "US-Israel-Iran war: GCC approves military command headquarters in Kuwait; Qatar PM joins G7 talks on Iran; ADNOC vessel sustains damage following attack",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/usisrael-iran-war-coalition-intercepts-houthi-missiles-fired-at-riyadh-as-trump-says-us-locked-and-loaded-republican-moves-to-impeach-hegseth-1.500741921",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T03:19:47+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "2756e9f8e3f2",
+      "title": "Khaled bin Mohamed approves UAE genomics masterplan to provide 900,000 personalised health reports",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/health/khaled-bin-mohamed-approves-uae-genomics-masterplan-to-provide-900000-personalised-health-reports-1.500742890",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:12:17+00:00",
+      "sectors": [
+        {
+          "id": "health",
+          "label": "Health",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "c1e96851169e",
+      "title": "AI, VR and remote monitoring feature at Abu Dhabi medical congress",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/ai-vr-and-remote-monitoring-feature-at-abu-dhabi-medical-congress-1.500742808",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:56:48+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "4e7ee7aab24c",
+      "title": "Abu Dhabi deploys AI-Driven drones as first responders to emergencies and disasters",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-deploys-ai-driven-drones-as-first-responders-to-emergencies-and-disasters-1.500742700",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:54:07+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "062a8a2111e1",
+      "title": "Audiovisuel public : «La matinale de France Inter continue de pencher à gauche malgré les rappels de l'Arcom»",
+      "summary": "ENTRETIEN. En dépit des injonctions du gendarme de l'audiovisuel, une nouvelle étude Hexagone documente la surreprésentation de la gauche parmi les invités de la matinale de la radio du service public. Analyse avec Paul Cébille, rédacteur en chef de l’observatoire statistique.",
+      "link": "https://www.lejdd.fr/Societe/audiovisuel-public-france-inter-continue-de-pencher-a-gauche-malgre-les-rappels-de-larcom-188301",
+      "source": "Le JDD",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-10T14:29:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6e29210c41f2",
+      "title": "Négociations Ukraine-Russie à Abou Dhabi : que révèle la composition de la délégation russe ?",
+      "summary": "Rien n’indique que Poutine envisage de mettre fin à la guerre L’article Négociations Ukraine-Russie à Abou Dhabi&#160;: que révèle la composition de la délégation russe&#160;? est apparu en premier sur Le Grand Continent .",
+      "link": "https://legrandcontinent.eu/fr/2026/11/09/negociations-ukraine-russie-a-abou-dhabi-que-revele-la-composition-de-la-delegation-russe/",
+      "source": "Le Grand Continent",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-09T18:43:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "997c37147b4f",
+      "title": "Abu Dhabi's cost of living steady despite fallout from geopolitical conflict",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/11/10/abu-dhabis-cost-of-living-steady-despite-fallout-from-geopolitical-conflict/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T17:28:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "699ecbd48612",
+      "title": "Trump nominates former Kansas governor Jeffrey Colyer as US ambassador to UAE",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/10/us-uae-ambassador-jeffrey-colyer/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:15:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3b5087879f09",
+      "title": "Children's reliance on chatbots 'a problem already', Dubai educators warn",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/childrens-reliance-on-chatbots-a-problem-already-dubai-educators-warn/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:41:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "01560e244314",
+      "title": "UAE ship attacked and damaged in Arabian Gulf",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:02:23+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9eae2a29e51d",
+      "title": "Abu Dhabi Grand Prix confirmed as F1 scraps Imola contingency plans",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/f1/2026/11/10/abu-dhabi-grand-prix-confirmed-as-f1-scraps-imola-contingency-plans/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:56:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4175c086ac47",
+      "title": "Dubai Peninsula and the next chapter of the city’s coastline",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/10/dubai-peninsula-and-the-next-chapter-of-the-citys-coastline/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:08:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5b21ea8b24d6",
+      "title": "Passports 'redundant' in five years, suggests Dubai Airports chief",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/10/passports-redundant-in-five-years-suggests-dubai-airports-chief/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:04:56+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "75d04953f42c",
+      "title": "UAE's etisalat starts selling Meta smart glasses to boost wearables base",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/10/uaes-etisalat-starts-selling-meta-smart-glasses-to-boost-wearables-base/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:59:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1bd9fe30b149",
+      "title": "Sharjah approves housing support for 1,100 families and raises marriage grant limit to Dh50,000",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sharjah-approves-housing-support-for-1100-families-and-raises-marriage-grant-limit-to-dh50000/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:52:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fe7da48ad0a5",
+      "title": "UAE sets fines of up to Dh750,000 for non-Muslim places of worship that breach rules",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/uae-sets-fines-of-up-to-dh750000-for-non-muslim-places-of-worship-that-breach-rules/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:47:32+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5e040f745db2",
+      "title": "Sheikh Mansour recognises cultural leaders at UAE Government Annual Meetings",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-mansour-recognises-cultural-leaders-at-uae-government-annual-meetings/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:29:09+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a1ca5748c878",
+      "title": "Dubai to launch Metro line to Al Maktoum Airport to boost connectivity",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-hamdan-dubai-metro-connect-al-maktoum-airport/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:25:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "efdb5cff9ea8",
+      "title": "Khaled bin Mohamed, Hamdan bin Mohammed discuss UAE priorities at annual meetings",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/khaled-bin-mohamed-hamdan-bin-mohammed-discuss-uae-priorities-at-annual-meetings-1.500742784",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:46:55+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4553d827f152",
+      "title": "Sharjah raises marriage grant salary ceiling from Dh30,000 to Dh50,000",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah-raises-marriage-grant-salary-ceiling-from-dh30000-to-dh50000-1.500742667",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:46:12+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "12a5e32af2bb",
+      "title": "Abu Dhabi shoppers share strategies for Singles Day deals",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/abu-dhabi-shoppers-share-strategies-for-singles-day-deals-1.500742895",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:09:07+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "da728be5c971",
+      "title": "Pantheon ACR and HOP Events take Bismil Ki Mehfil on a world tour from Dubai to London",
+      "summary": "",
+      "link": "https://gulfnews.com/business/corporate-news/pantheon-acr-and-hop-events-take-bismil-ki-mehfil-on-a-world-tour-from-dubai-to-london-1.500742899",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:07:47+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "13026848382c",
+      "title": "Nominations open for Dubai-based global nursing award, $250,000 prize to honour healthcare heroes",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/health/nominations-open-for-dubai-based-global-nursing-award-250000-prize-to-honour-healthcare-heroes-1.500742773",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:39:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5627b657a217",
+      "title": "LifeBot unveils medical command network at Abu Dhabi military medicine congress",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/lifebot-unveils-medical-command-network-at-abu-dhabi-military-medicine-congress-1.500741698",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:28:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "038e641c90a5",
+      "title": "Abu Dhabi Grand Prix still on as F1 drops Imola backup",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/motorsport/abu-dhabi-grand-prix-still-on-as-f1-drops-imola-backup-1.500742840",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:25:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3033d4e4514a",
+      "title": "Lebanon's long-awaited second airport to open on December 14",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/lebanons-long-awaited-second-airport-to-open-on-december-14/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T18:32:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2b48aa827707",
+      "title": "FDA orders new warning on GLP-1 drugs over potential risk of blindness",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/science/2026/11/10/do-glps1s-cause-blindness/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:59:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "62b3698aa174",
+      "title": "F1 legend Lewis Hamilton sees aid parcels waiting at Gaza border",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/f1-legend-lewis-hamilton-sees-aid-parcels-waiting-at-gaza-border/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:57:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "59fac37338dc",
+      "title": "King of Bahrain meets Saudi Crown Prince on visit to Riyadh",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/king-of-bahrain-meets-saudi-crown-prince-on-visit-to-riyadh/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:56:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e82c0e4fac6a",
+      "title": "For GCC countries, localised green supply chains offer growth opportunities",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/10/uae-gulf-gcc-supply-chains-globalisation-climate/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:00:00+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f196539af07d",
+      "title": "Crucial Syria-Lebanon border crossing reopens after two years",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/crucial-syria-lebanon-border-crossing-reopens-after-two-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:55:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "caa557a64c42",
+      "title": "Pentagon chief Hegseth dismisses impeachment effort as a 'farce'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/10/hegseth-impeachment-iran/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:10:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "399ff6ce782e",
+      "title": "European ministers cautious over Strait of Hormuz after G7 briefings",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/10/europeans-upbeat-after-qatari-pms-update-on-us-iran-peace-talks-and-trump-meeting/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:40:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a36c04ffaa34",
+      "title": "Turkey shuns Israel at Cop31 climate summit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/turkey-shuns-israel-at-cop31-climate-summit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:29:11+00:00",
+      "sectors": [
+        {
+          "id": "climate",
+          "label": "Climate Transition",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "07c1e687a460",
+      "title": "Manchester United: Mauricio Pochettino and Eddie Howe in running to replace Michael Carrick",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/10/manchester-united-mauricio-pochettino-and-eddie-howe-in-running-to-replace-michael-carrick/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:16:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e42cc4338fd4",
+      "title": "Netanyahu rivals strike first deal as Israel swears in parliament",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T11:30:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "09200f52c423",
+      "title": "GCC defence ministers approve new military command centre in Kuwait",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/10/gcc-defence-ministers-approve-advanced-military-command-in-kuwait/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T11:20:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bcd2428a86df",
+      "title": "Inside Iran’s cyber-hacking operations: The three men France has linked to fridge attacks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/10/inside-irans-cyber-hacking-operations-the-three-men-france-has-linked-to-fridge-attacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:25:52+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8561b986eaa4",
+      "title": "Can Lalit Modi's proposed Indian Premier League date changes work?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/cricket/2026/11/10/can-lalit-modis-proposed-indian-premier-league-date-changes-work/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:05:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "dbea443a6726",
+      "title": "Middle East war: IndiGo extends suspension of Saudi Arabia flights",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/middle-east-war-indigo-extends-suspension-of-saudi-arabia-flights-1.500743017",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T18:23:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b14c75ab7cbb",
+      "title": "Binance warns iPhone flaw could expose crypto wallet secrets",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/companies/binance-warns-iphone-flaw-could-expose-crypto-wallet-secrets-1.500743016",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T18:18:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d6accdb275fd",
+      "title": "Nvidia falls more than 6%, no longer 2nd biggest company by market value",
+      "summary": "Nvidia falls more than 6%, no longer 2nd biggest company by market value",
+      "link": "https://gulfnews.com/business/markets/nvidia-falls-more-than-6-no-longer-2nd-biggest-company-by-market-value-1.500742966",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T17:28:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7313ea52b265",
+      "title": "Deterrence, diplomacy key to sustainable regional security: Anwar Gargash",
+      "summary": "Deterrence, diplomacy key to sustainable regional security: Anwar Gargash",
+      "link": "https://gulfnews.com/uae/deterrence-diplomacy-key-to-sustainable-regional-security-anwar-gargash-1.500742956",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T17:27:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a4b04e2b7824",
+      "title": "Mohamed Khalifa Al Mubarak receives World Monuments Fund’s Hadrian Award",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/abu-dhabi/mohamed-khalifa-al-mubarak-receives-world-monuments-funds-hadrian-award-1.500742951",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T17:17:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a67e5f4896f9",
+      "title": "NYC sightseeing helicopter makes emergency landing after reporting possible engine trouble",
+      "summary": "NYC sightseeing helicopter makes emergency landing after reporting possible engine trouble",
+      "link": "https://gulfnews.com/world/americas/nyc-sightseeing-helicopter-makes-emergency-landing-after-reporting-possible-engine-trouble-1.500742919",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T17:05:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0d0fd594b169",
+      "title": "Families' agony after deadly Turkey steel blast kills 18",
+      "summary": "Families&apos; agony after deadly Turkey steel blast kills 17",
+      "link": "https://gulfnews.com/world/mena/families-agony-after-deadly-turkey-steel-blast-kills-18-1.500742781",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:46:18+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a64bbe88a059",
+      "title": "More women contact UK police after Russell Brand rape case",
+      "summary": "More women contact UK police after Russell Brand rape case",
+      "link": "https://gulfnews.com/entertainment/more-women-contact-uk-police-after-russell-brand-rape-case-1.500742690",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:04:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e7907e01bc55",
+      "title": "Ramayana enters Oscars race as makers submit Ranbir Kapoor film for 99th Academy Awards",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/bollywood/ramayana-enters-oscars-race-as-makers-submit-ranbir-kapoor-film-for-99th-academy-awards-1.500742879",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T16:00:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e2160f338d8b",
+      "title": "Emirates president Tim Clark postpones retirement plans after regional war",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/emirates-president-tim-clark-postpones-retirement-plans-after-regional-war-1.500742871",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:51:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c373fff12134",
+      "title": "British comedian and children's author David Walliams accused of sexual misconduct",
+      "summary": "British children&apos;s author David Walliams accused of sexual misconduct",
+      "link": "https://gulfnews.com/entertainment/british-comedian-and-childrens-author-david-walliams-accused-of-sexual-misconduct-1.500742725",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:47:58+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 4
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 3
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 1
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 1
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 2
+    }
+  }
+}
