@@ -1,0 +1,945 @@
+{
+  "generated_at": "2026-11-10T15:41:20.980988+00:00",
+  "generated_at_cet": "2026-11-10 16:41",
+  "total_articles": 65,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "b941cc5cb84c",
+      "title": "EN DIRECT, guerre en Ukraine : Marco Rubio juge les pourparlers d’Abou Dhabi « très productifs »",
+      "summary": "Des négociations entre la Russie et l’Ukraine se tiennent aux Emirats arabes unis, dans le cadre d’une médiation américaine. Selon le secrétaire d’Etat américain, il reste « beaucoup de travail à accomplir ».",
+      "link": "https://www.lemonde.fr/international/live/2026/11/10/en-direct-guerre-en-ukraine-marco-rubio-juge-les-pourparlers-d-abou-dhabi-tres-productifs_6808609_3210.html",
+      "source": "Le Monde International",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-10T14:43:31+00:00",
+      "sectors": [],
+      "bilateral_score": 8,
+      "relevance_score": 8
+    },
+    {
+      "id": "61b23f1157c3",
+      "title": "Un plein électrique en 5 minutes à 1.500 kW: le constructeur chinois BYD dévoile une station de recharge futuriste dans le désert d'Abou Dabi",
+      "summary": "À l'occasion de son record de vitesse à plus de 500 km/h aux Emirats arabes unis, le groupe chinois a présenté une station autonome capable d'injecter jusqu'à 1.500 kW dans un véhicule électrique en 5 minutes grâce à une batterie tampon et un bras articulé.",
+      "link": "https://www.bfmtv.com/economie/entreprises/energie/un-plein-electrique-en-5-minutes-a-1-500-k-w-le-constructeur-chinois-byd-devoile-une-station-de-recharge-futuriste-dans-le-desert-d-abou-dabi_AV-202611100478.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-10T11:09:43+00:00",
+      "sectors": [],
+      "bilateral_score": 8,
+      "relevance_score": 8
+    },
+    {
+      "id": "4de1b7a3a8db",
+      "title": "Middle East latest: Ship attacked in UAE waters, says operator Adnoc",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/iran-war-live-shipping-adnoc-uae-trump-latest/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:54:42+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "f040da792607",
+      "title": "ADNOC ship damaged after attack within UAE territorial waters",
+      "summary": "",
+      "link": "https://gulfnews.com/business/markets/adnoc-logistics-vessel-damaged-in-attack-in-uae-territorial-waters-1.500742780",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:48:19+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "36177b013eb2",
+      "title": "Sheikh Khaled unveils expansion of Abu Dhabi's Emirati family growth drive",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-khaled-approves-latest-stage-of-abu-dhabis-emirati-family-growth-drive/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:26:31+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "408f2efbc05a",
+      "title": "US hails Russia-Ukraine peace talks in Abu Dhabi as ‘very productive’; Rubio seeks wider European role",
+      "summary": "US hails Ukraine talks in UAE as ‘very productive’",
+      "link": "https://gulfnews.com/world/europe/us-hails-ukraine-talks-in-uae-as-very-productive-1.500742768",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:48:41+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "a026013b1396",
+      "title": "GCC Secretary-General welcomes talks between Russia, Ukraine, US in Abu Dhabi; commends UAE's diplomatic role",
+      "summary": "GCC Secretary-General welcomes talks between Russia, Ukraine, US in Abu Dhabi; commends UAE&apos;s diplomatic role",
+      "link": "https://gulfnews.com/uae/abu-dhabi/gcc-secretary-general-welcomes-talks-between-russia-ukraine-us-in-abu-dhabi-commends-uaes-diplomatic-role-1.500742630",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:20:41+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "ce61f8c686f3",
+      "title": "UAE among dozens of countries to sign AI safety declaration to protect children",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/10/uae-among-dozens-of-countries-to-sign-ai-safety-declaration-to-protect-children/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:25:35+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6ca2b0d53432",
+      "title": "US-Israel-Iran war: GCC approves military command headquarters in Kuwait; Qatar PM joins G7 talks on Iran; ADNOC vessel sustains damage following attack",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/usisrael-iran-war-coalition-intercepts-houthi-missiles-fired-at-riyadh-as-trump-says-us-locked-and-loaded-republican-moves-to-impeach-hegseth-1.500741921",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T03:19:47+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "cde453cc38b8",
+      "title": "Novus Loyalty opens Dubai office to strengthen AI-powered enterprise loyalty across the GCC and MENA",
+      "summary": "",
+      "link": "https://gulfnews.com/business/corporate-news/novus-loyalty-opens-dubai-office-to-strengthen-ai-powered-enterprise-loyalty-across-the-gcc-and-mena-1.500742640",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:15:42+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "062a8a2111e1",
+      "title": "Audiovisuel public : «La matinale de France Inter continue de pencher à gauche malgré les rappels de l'Arcom»",
+      "summary": "ENTRETIEN. En dépit des injonctions du gendarme de l'audiovisuel, une nouvelle étude Hexagone documente la surreprésentation de la gauche parmi les invités de la matinale de la radio du service public. Analyse avec Paul Cébille, rédacteur en chef de l’observatoire statistique.",
+      "link": "https://www.lejdd.fr/Societe/audiovisuel-public-france-inter-continue-de-pencher-a-gauche-malgre-les-rappels-de-larcom-188301",
+      "source": "Le JDD",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-10T14:29:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6e29210c41f2",
+      "title": "Négociations Ukraine-Russie à Abou Dhabi : que révèle la composition de la délégation russe ?",
+      "summary": "Rien n’indique que Poutine envisage de mettre fin à la guerre L’article Négociations Ukraine-Russie à Abou Dhabi&#160;: que révèle la composition de la délégation russe&#160;? est apparu en premier sur Le Grand Continent .",
+      "link": "https://legrandcontinent.eu/fr/2026/11/09/negociations-ukraine-russie-a-abou-dhabi-que-revele-la-composition-de-la-delegation-russe/",
+      "source": "Le Grand Continent",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-09T18:43:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "01560e244314",
+      "title": "UAE ship attacked and damaged in Arabian Gulf",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/10/uae-ship-attacked-and-damaged-in-arabian-gulf/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:02:23+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9eae2a29e51d",
+      "title": "Abu Dhabi Grand Prix confirmed as F1 scraps Imola contingency plans",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/f1/2026/11/10/abu-dhabi-grand-prix-confirmed-as-f1-scraps-imola-contingency-plans/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:56:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4175c086ac47",
+      "title": "Dubai Peninsula and the next chapter of the city’s coastline",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/10/dubai-peninsula-and-the-next-chapter-of-the-citys-coastline/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:08:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5b21ea8b24d6",
+      "title": "Passports 'redundant' in five years, suggests Dubai Airports chief",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/10/passports-redundant-in-five-years-suggests-dubai-airports-chief/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:04:56+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "75d04953f42c",
+      "title": "UAE's etisalat starts selling Meta smart glasses to boost wearables base",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/10/uaes-etisalat-starts-selling-meta-smart-glasses-to-boost-wearables-base/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:59:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1bd9fe30b149",
+      "title": "Sharjah approves housing support for 1,100 families and raises marriage grant limit to Dh50,000",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sharjah-approves-housing-support-for-1100-families-and-raises-marriage-grant-limit-to-dh50000/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:52:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fe7da48ad0a5",
+      "title": "UAE sets fines of up to Dh750,000 for non-Muslim places of worship that breach rules",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/uae-sets-fines-of-up-to-dh750000-for-non-muslim-places-of-worship-that-breach-rules/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:47:32+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5e040f745db2",
+      "title": "Sheikh Mansour recognises cultural leaders at UAE Government Annual Meetings",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-mansour-recognises-cultural-leaders-at-uae-government-annual-meetings/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:29:09+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a1ca5748c878",
+      "title": "Dubai to launch Metro line to Al Maktoum Airport to boost connectivity",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/sheikh-hamdan-dubai-metro-connect-al-maktoum-airport/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:25:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "568cf31aa34f",
+      "title": "'Emerging stronger': President reaffirms UAE's unity and resilience amid challenges",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/emerging-stronger-president-reaffirms-uaes-unity-and-resilience-amid-challenges/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T09:49:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ecc40e328fbf",
+      "title": "Ukraine talks begin in UAE with focus on security guarantees, but doubts persist over breakthrough",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/10/ukraine-talks-to-focus-on-security-guarantees-as-doubts-persist-over-breakthrough/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T09:21:49+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3713dee9bb9a",
+      "title": "Nakheel unveils mega development for 50,000 residents in Dubai",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/11/10/nakheel-unveils-mega-development-for-50000-residents-in-dubai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T08:53:21+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "30a07625123f",
+      "title": "Abu Dhabi hosts Russia and Ukraine for security-focused peace talks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T08:39:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c5e8b9de0605",
+      "title": "Sheikh Hamdan unveils more than Dh11 billion plan for Dubai's future",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/sheikh-hamdan-unveils-more-than-dh11-billion-plan-for-dubais-future-1.500742726",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:33:59+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "28230c770be1",
+      "title": "Middle East War: 9 things UAE residents need to know tonight, November 10",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/middle-east-war-9-things-uae-residents-need-to-know-tonight-november-10-1.500742737",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:33:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ebb7372d0df7",
+      "title": "Dubai Shopping Festival to launch 32nd edition on December 4",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-shopping-festival-to-launch-32nd-edition-on-december-4-1.500742735",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:21:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a34d01d4015b",
+      "title": "Dubai Metro expansion: All you need to know",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/dubai-metro-expansion-all-you-need-to-know-1.500742733",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:17:16+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "412d23526bee",
+      "title": "UAE records 5,122 suspected drug side-effect reports in nine months",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/health/uae-records-5122-suspected-drug-side-effect-reports-in-nine-months-1.500742697",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:03:55+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ef46fc0408b8",
+      "title": "UAE shoppers can now convert shopping rewards into Emirates Skywards miles",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/uae-shoppers-can-now-convert-shopping-rewards-into-emirates-skywards-miles-1.500742683",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:49:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "eb6c1e61b65d",
+      "title": "Virender Sehwag's son smashes 160 as India beat UAE by 70 runs in Asia Cup",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/virender-sehwags-son-smashes-160-as-india-beat-uae-by-70-runs-in-asia-cup-1.500742656",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:34:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a54daff215ec",
+      "title": "UAE sets Dh350,000 limit on disaster aid for damaged homes",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-sets-dh350000-limit-on-disaster-aid-for-damaged-homes-1.500742644",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:24:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2eb5501a32e5",
+      "title": "Dubai court blocks order to return girl to Malaysia over custody",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-court-blocks-order-to-return-girl-to-malaysia-over-custody-1.500742546",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:10:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1c606a54b61c",
+      "title": "Akon Dubai concert 2026: Dates, tickets and what to expect",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/akon-dubai-concert-2026-dates-tickets-and-what-to-expect-1.500742585",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:51:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e82c0e4fac6a",
+      "title": "For GCC countries, localised green supply chains offer growth opportunities",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/10/uae-gulf-gcc-supply-chains-globalisation-climate/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:00:00+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f196539af07d",
+      "title": "Crucial Syria-Lebanon border crossing reopens after two years",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/crucial-syria-lebanon-border-crossing-reopens-after-two-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:55:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "caa557a64c42",
+      "title": "Pentagon chief Hegseth dismisses impeachment effort as a 'farce'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/10/hegseth-impeachment-iran/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:10:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e03ff67a433e",
+      "title": "Europeans ministers left cautious over Hormuz after G7 briefings",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/10/europeans-upbeat-after-qatari-pms-update-on-us-iran-peace-talks-and-trump-meeting/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:40:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a36c04ffaa34",
+      "title": "Turkey shuns Israel at Cop31 climate summit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/turkey-shuns-israel-at-cop31-climate-summit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:29:11+00:00",
+      "sectors": [
+        {
+          "id": "climate",
+          "label": "Climate Transition",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "07c1e687a460",
+      "title": "Manchester United: Mauricio Pochettino and Eddie Howe in running to replace Michael Carrick",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/10/manchester-united-mauricio-pochettino-and-eddie-howe-in-running-to-replace-michael-carrick/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:16:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fa32b32a6740",
+      "title": "Netanyahu rivals strike first deal as Israel prepares to swear in parliament",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T11:30:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "09200f52c423",
+      "title": "GCC defence ministers approve new military command centre in Kuwait",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/10/gcc-defence-ministers-approve-advanced-military-command-in-kuwait/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T11:20:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bcd2428a86df",
+      "title": "Inside Iran’s cyber-hacking operations: The three men France has linked to fridge attacks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/10/inside-irans-cyber-hacking-operations-the-three-men-france-has-linked-to-fridge-attacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:25:52+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8561b986eaa4",
+      "title": "Can Lalit Modi's proposed Indian Premier League date changes work?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/cricket/2026/11/10/can-lalit-modis-proposed-indian-premier-league-date-changes-work/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T10:05:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "086faf615267",
+      "title": "Global spread of new Covid variant highlights lingering danger of deadly virus",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/10/global-spread-of-new-covid-variant-highlights-lingering-danger-of-deadly-virus/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T09:58:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7661d007406d",
+      "title": "Brent falls below $90 a barrel for first time since August",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/10/brent-falls-below-90-a-barrel-for-the-first-time-since-august/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T09:56:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2b804981ae54",
+      "title": "Egypt detains rail staff as inquiry unearths safety failures before deadly crash",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/egypt-detains-rail-staff-as-inquiry-unearths-safety-failures-before-deadly-crash/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T09:52:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c8fcf24e8180",
+      "title": "Iraq to reopen Al Sheeb border crossing with Iran but temporarily shuts Mandali",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/10/iraq-to-reopen-al-sheeb-border-crossing-with-iran-but-temporarily-shuts-mandali/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T09:48:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "11c14e7ed5d2",
+      "title": "Indian cricketer Rinku Singh set to marry on December 4",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/indian-cricketer-rinku-singh-set-to-marry-on-december-4-1.500742820",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T15:14:10+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "65bdee3a6492",
+      "title": "Iran rejects France's 'baseless accusations' on cyberattack",
+      "summary": "Iran rejects France&apos;s &apos;baseless accusations&apos; on cyberattack",
+      "link": "https://gulfnews.com/world/europe/iran-rejects-frances-baseless-accusations-on-cyberattack-1.500742625",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:56:40+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ace265d17715",
+      "title": "Love that fresh-from-the-salon look? Amazon's 11.11 sale might have your next hair tool",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/love-that-fresh-from-the-salon-look-amazons-1111-sale-might-have-your-next-hair-tool-1.500742204",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8eeb99b25884",
+      "title": "Five killed, over 50 injured in multiple-bus collision in Sri Lanka",
+      "summary": "Five killed, over 50 injured in multiple-bus collision in Sri Lanka",
+      "link": "https://gulfnews.com/world/asia/five-killed-over-50-injured-in-multiple-bus-collision-in-sri-lanka-1.500742691",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:26:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1e3489878b20",
+      "title": "Readers share their Diwali photos",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/readers-share-their-diwali-photos-1.500740175",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T14:23:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bcf5244e52e3",
+      "title": "Your car looks clean, but what is hiding between the seats?",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/your-car-looks-clean-but-what-is-hiding-between-the-seats-1.500742097",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:53:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "68e9884d0d75",
+      "title": "11:11 sale: How an Anti-Valentine's Day celebration became a global phenomenon",
+      "summary": "",
+      "link": "https://gulfnews.com/lifestyle/1111-sale-how-an-anti-valentines-day-celebration-became-a-global-phenomenon-1.500742655",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:48:52+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e22f9624cb98",
+      "title": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+      "summary": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+      "link": "https://gulfnews.com/business/markets/anthropic-targets-13-trillion-valuation-in-potentially-record-breaking-ipo-1.500742614",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:23:31+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "28081e9179d4",
+      "title": "US defence chief Hegseth dismisses impeachment bid over Iran war as 'political spectacle'",
+      "summary": "US defense chief calls move to impeach him a &apos;political spectacle&apos;",
+      "link": "https://gulfnews.com/world/americas/us-defence-chief-hegseth-dismisses-impeachment-bid-over-iran-war-as-political-spectacle-1.500742624",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:16:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1213bbb8e5fb",
+      "title": "etisalat puts AI on your face with Meta glasses from Dh1,160",
+      "summary": "",
+      "link": "https://gulfnews.com/business/etisalat-puts-ai-on-your-face-with-meta-glasses-from-dh1160-1.500742566",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T13:02:30+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2b972758f5ea",
+      "title": "MP: Railways start fencing 530km track to prevent cattle accidents",
+      "summary": "MP: Railways start fencing 530-km track to prevent cattle accidents",
+      "link": "https://gulfnews.com/world/asia/india/mp-railways-start-fencing-530km-track-to-prevent-cattle-accidents-1.500742560",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:49:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "00e61c0856b1",
+      "title": "Bulgaria motorway pileup kills 11, dozens injured",
+      "summary": "Bulgaria motorway pileup kills 11, dozens injured",
+      "link": "https://gulfnews.com/world/europe/bulgaria-motorway-pileup-kills-11-dozens-injured-2-1.500742551",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:45:24+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a64996020912",
+      "title": "Philippines confirms data breaches involving 10 government agencies",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/philippines/philippines-confirms-data-breaches-involving-10-government-agencies-1.500742572",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:43:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "40e1b34bc252",
+      "title": "Iran urges US to meet Hormuz demands as Trump sees 'momentum' to end war",
+      "summary": "Iran urges US to meet Hormuz demands as Trump sees &apos;momentum&apos; to end war",
+      "link": "https://gulfnews.com/world/americas/iran-urges-us-to-meet-hormuz-demands-as-trump-sees-momentum-to-end-war-1.500742516",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:40:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5d6c902145be",
+      "title": "Iran says two oil tankers on fire in Hormuz",
+      "summary": "Iran says two oil tankers on fire in Hormuz",
+      "link": "https://gulfnews.com/world/mena/iran-says-two-oil-tankers-on-fire-in-hormuz-1.500742494",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-10T12:35:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 4
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 3
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 1
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 1
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
