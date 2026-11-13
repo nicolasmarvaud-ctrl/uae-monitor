@@ -1,0 +1,668 @@
+{
+  "generated_at": "2026-11-13T19:15:52.790099+00:00",
+  "generated_at_cet": "2026-11-13 20:15",
+  "total_articles": 46,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "64ff8f7074b4",
+      "title": "Pictures of the week: From a memorial in Krakow to UAE women’s cricket in Dubai",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/13/pictures-of-the-week-from-a-memorial-in-krakow-to-uae-womens-cricket-in-dubai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:51:00+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "5c756a25cbe6",
+      "title": "Fujairah crash: UAE prosecutors investigating two accidents that left 14 dead",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/fujairah-crash-uae-prosecutors-probe-two-accidents-that-left-14-dead/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T15:29:08+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "041debfc22c0",
+      "title": "UAE art guide: 21 exhibitions to see, from Art Here 2026 at Louvre Abu Dhabi to Shaikha Al Mazrou",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/13/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T12:50:04+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "7cad060eef74",
+      "title": "UAE warns truck drivers of Dh3,000 fines after deadly Fujairah crash",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/uae-warns-truck-drivers-of-dh3000-fines-after-deadly-fujairah-crash-1.500746707",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:39:42+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "54915238fd2a",
+      "title": "Fujairah crash that killed 14 deeply saddens UAE: Anwar Gargash",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/fujairah-crash-that-killed-14-deeply-saddens-uae-anwar-gargash-1.500746701",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:00:23+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "99da0fc0e1ef",
+      "title": "Audiences de la radio : les stations d’information accusent le coup",
+      "summary": "Alors que France Inter, Franceinfo, RTL, RMC et Europe 1 affichent, en septembre-octobre, des audiences en recul par rapport à la même période en 2025, Radio Nova confirme sa spectaculaire percée, et fait jeu égal avec France Culture.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/13/audiences-de-la-radio-les-stations-d-information-accusent-le-coup_6809290_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-13T07:00:27+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "6388656bd27c",
+      "title": "Masdar completes $950m solar and battery storage project in US",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/13/masdar-completes-950m-solar-and-battery-storage-project-in-us/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T12:14:51+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "7e5c70eb8044",
+      "title": "Le RN a t-il vraiment des mesures pour aider les plus pauvres ?",
+      "summary": "Ce lundi 09 novembre, Sébastien Chenu, le vice-président RN de l'Assemblée nationale était l'invité de \"Lundi, c'est politique\" sur LCP en partenariat avec Radio Classique et Challenges. L'occasion pour notre journaliste, chef du service France, Laurent Fargues, de questionner l'élu sur les mesures de son parti à destination des plus pauvres.",
+      "link": "https://www.challenges.fr/economie/le-rn-a-t-il-vraiment-des-mesures-pour-aider-les-plus-pauvres_646950",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-12T16:30:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3fb58e09599c",
+      "title": "From forest to front room: A race against time to deliver the UAE's Christmas trees",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/real-christmas-tree-uae-delivery-canadian-fraser-firs/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:56:42+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6a6b11f4c90b",
+      "title": "My Dubai Salary: 'I said goodbye to two husbands to focus on my business'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/11/13/my-dubai-salary-i-said-goodbye-to-two-husbands-to-focus-on-my-business/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:53:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "77a4e4458c44",
+      "title": "Timeframe: When Judy Heumann joined a UAE-backed disability rights event at the UN",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/2026/11/13/timeframe-when-judy-heumann-joined-a-uae-backed-disability-rights-event-at-the-un/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8992b962386b",
+      "title": "Review: Inside Siro Porto Montenegro, the brand's second berth after its debut in Dubai",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/13/review-siro-porto-montenegro-kerzner-dubai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "07aa008274ec",
+      "title": "Dvalishvili cleared to wrestle at RAF Abu Dhabi following arrest with Lazishvili set to make pro debut",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/combat-sports/2026/11/13/dvalishvili-cleared-to-wrestle-at-raf-abu-dhabi-following-arrest-with-lazishvili-set-to-make-pro-debut/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:27:57+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ac30328ebaaa",
+      "title": "Seven-year-old boy with cerebral palsy fulfils football dream at Sharjah match",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/seven-year-old-boy-with-cerebral-palsy-fulfils-football-dream-at-sharjah-match/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T16:11:35+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6d8ceae0c664",
+      "title": "UAE confirms Eid Al Etihad holidays for private sector employees",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/uae-confirms-national-day-holidays-for-private-sector-employees/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:30:38+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "196ab6b609b1",
+      "title": "Fire brought under control at Al Bahyah in Abu Dhabi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/fire-brought-under-control-at-al-bahyan-in-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:01:40+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7f448640459e",
+      "title": "Dubai to get more smart cameras after 27,000 traffic violations detected in October",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/dubai-to-get-more-smart-cameras-after-27000-traffic-violations-detected-in-october/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T12:40:46+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e48945cc2a25",
+      "title": "Eight sentenced to prison by Abu Dhabi court over Nurmagomedov and Dvalishvili hotel brawl",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/raf-abu-dhabi-yas-hotel-brawl-nurmagomedov-dvalishvili/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T12:15:36+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "af405d42022c",
+      "title": "Fujairah Crown Prince visits families of victims killed in 23-vehicle crash",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/fujairah-crown-prince-visits-families-of-victims-killed-in-23-vehicle-crash-1.500746777",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T18:42:35+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "db3c37a7eb4a",
+      "title": "Microsoft outage updates: Outlook, Teams down for millions as UAE users report disruption",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/microsoft-outage-updates-outlook-teams-down-for-millions-as-uae-users-report-disruption-1.500746008",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T07:03:25+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fd92ef1d818d",
+      "title": "UAE President, Arab League chief discuss regional developments",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-president-arab-league-chief-discuss-regional-developments-1.500746691",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:01:17+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "03a57487c96d",
+      "title": "UAE among world's top 25 in 2026 Happy Passports Index",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-among-worlds-top-25-in-2026-happy-passports-index-1.500746648",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T16:44:48+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4e69ebef2e7e",
+      "title": "Dubai makes history as GDRFA wins world's top 7-star rating",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-makes-history-as-gdrfa-wins-worlds-top-7-star-rating-1.500746543",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T16:44:24+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fbfe748ff9eb",
+      "title": "noon’s 11.11 Sale ends today: Last-day deals with up to 90% off across the UAE",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/noons-1111-sale-ends-today-last-day-deals-with-up-to-90-off-across-the-uae-1.500746391",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:58:52+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0d7281a75504",
+      "title": "UAE ranks fifth globally, first in MENA in 2026 industrial quality infrastructure index",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/uae-ranks-fifth-globally-first-in-mena-in-2026-industrial-quality-infrastructure-index-1.500746677",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T16:31:27+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7acd781359ac",
+      "title": "Fujairah crash that killed 14: Truck driver detained as prosecutors investigate",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/crime/fujairah-crash-that-killed-14-truck-driver-detained-as-prosecutors-investigate-1.500746613",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T15:22:39+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "924c64e9ea62",
+      "title": "UAE announces two-day paid Eid Al Etihad holiday for private sector",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/government/uae-announces-two-day-paid-eid-al-etihad-holiday-for-private-sector-1.500746419",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T12:59:50+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "307dc327056a",
+      "title": "Gaza baby dies from exposure to cold as WHO warns of rising infection rates",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/gaza-baby-dies-from-exposure-to-cold-as-who-warns-of-rising-infection-rates/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T18:22:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c2b104613d16",
+      "title": "Why the energy transition needs a new approach to urban planning",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/13/cop31-architecture-climate/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:56:52+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "125522aa163b",
+      "title": "Cartoon for November 14, 2025",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/cartoon/2026/11/13/microsoft-shutdown-teams-outlook-tech-computers/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:55:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "16042e27d65e",
+      "title": "The curious case of All's Fair: Why 'the worst TV show' continues to dominate the charts",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/13/the-curious-case-of-alls-fair-why-the-worst-tv-show-continues-to-dominate-the-charts/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:51:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9898e83ee97c",
+      "title": "'Wasl': The Arabic word that connects people, places and ideas",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/13/learn-arabic-words-wasl-meaning-connection-wasala-etisalat/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "de7f4f103a04",
+      "title": "Has Europe reached peak right-wing populism?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/13/has-europe-reached-peak-right-wing-populism/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "12626bd72dc1",
+      "title": "A truly multilingual society should not come at the cost of Arabic",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/13/learn-uae-arabic-language-law-multilingual/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "89a057c184c3",
+      "title": "Iraq's first Jewish Museum opens a door to the past – and a contentious debate on the present",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/iraqi-jews-shamash-jewish-museum-baghdad-history/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a011d876450b",
+      "title": "As GTA VI arrives, how 40 years of gaming helped me navigate love, fatherhood and loss",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/11/13/gta-vi-40-years-playstation-video-games-fatherhood-love-loss/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:50:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b1aaa08a1922",
+      "title": "Middle East latest: US says it shot down Iranian drones launched toward Bahrain",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/iran-war-live-us-bahrain-trump-centcom/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T17:13:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a6f2d13d8634",
+      "title": "President Sheikh Mohamed and Arab League chief discuss regional developments",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/13/president-sheikh-mohamed-and-arab-league-chief-discuss-regional-developments/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T16:46:45+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6fe6a35aab8d",
+      "title": "Inside energy’s next chapter at Adipec 2026, powered by $67bn in deals",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/13/inside-energys-next-chapter-at-adipec-2026-powered-by-67bn-in-deals/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T15:41:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "365c9d36604e",
+      "title": "Outlook outage: Microsoft says 'sorry' as service returns for many",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/13/what-caused-the-outlook-outage/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:51:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8d958f0421f4",
+      "title": "Mauricio Pochettino era begins as Manchester United appoint Argentine as manager",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/13/mauricio-pochettino-era-begins-as-manchester-united-appoint-argentine-as-manager/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:49:56+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "05c5ec4f2394",
+      "title": "Hamas bodyguard to be extradited from UK to Germany over massacre plot",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/13/hamas-bodyguard-to-be-extradited-from-uk-to-germany-over-massacre-plot/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:41:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3017f0097225",
+      "title": "Oil market to return to surplus for first time since start of Iran war, IEA says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T13:23:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a60d7787b4df",
+      "title": "US/Israel-Iran war: Trump warns Iran of devastating consequences if US officials are assassinated; Saudi Arabia intercepts drones",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/us-israel-iran-war-enemy-strike-hits-irans-sirik-as-trump-warns-tehran-over-threats-to-us-officials-houthis-claim-attack-on-saudi-pipeline-1.500745854",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T04:10:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1f8073fbb228",
+      "title": "El Nino: Act now for $36 billion or face $73 billion bill, UN warns",
+      "summary": "Act now against El Nino or costs will double, UNDP warns",
+      "link": "https://gulfnews.com/world/europe/el-nino-act-now-for-36-billion-or-face-73-billion-bill-un-warns-1.500746440",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T16:16:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "20b937e7835b",
+      "title": "Claude AI hit by outage as users report login and access problems",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/companies/claude-ai-hit-by-outage-as-users-report-login-and-access-problems-1.500746584",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T15:04:16+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 3
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 1
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
