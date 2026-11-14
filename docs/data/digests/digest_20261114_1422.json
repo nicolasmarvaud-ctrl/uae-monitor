@@ -1,0 +1,829 @@
+{
+  "generated_at": "2026-11-14T14:22:09.891404+00:00",
+  "generated_at_cet": "2026-11-14 15:22",
+  "total_articles": 57,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "e808b43466b4",
+      "title": "Fujairah accident: Fourth Indian killed in UAE tragedy identified as 13-year-old boy",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/fujairah-accident-fourth-indian-killed-in-uae-tragedy-identified-as-13-year-old-boy-1.500747161",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T09:15:33+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "00dacb07cd9d",
+      "title": "Eugenio Chacarra on brink of glory as Rory McIlroy stalls on thrilling penultimate day of DP World Tour season",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/14/eugenio-chacarra-on-brink-of-glory-as-rory-mcilroy-stalls-on-thrilling-penultimate-day-of-dp-world-tour-season/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:55:37+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "1180993d7605",
+      "title": "DP World Tour Championship: Rory McIlroy’s company adds spice for home favourite Adrian Otaegui",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/14/dp-world-tour-championship-rory-mcilroys-company-adds-spice-for-home-favourite-adrian-otaegui/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T07:22:15+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "cf64215f11a8",
+      "title": "Rory McIlroy and Tyrell Hatton share lead at DP World Tour Championship",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/14/rory-mcilroy-and-tyrell-hatton-share-lead-at-dp-world-tour-championship/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T07:12:37+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "8dc2792f44f4",
+      "title": "Dubaï Papers : plongée dans les rouages d'une vaste fraude fiscale présumée",
+      "summary": "Un procès hors norme s'ouvre ce lundi 2 novembre à Paris. Treize personnes et trois sociétés sont jugées dans l'affaire des Dubaï Papers : un vaste système présumé d'évasion fiscale qui aurait permis de dissimuler plus de 200 millions d'euros pour le compte de contribuables français.",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-duba%C3%AF-papers-plong%C3%A9e-dans-les-rouages-d-une-vaste-fraude-fiscale-pr%C3%A9sum%C3%A9e",
+      "source": "France 24 Eco FR",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-02T10:07:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7e5c70eb8044",
+      "title": "Le RN a t-il vraiment des mesures pour aider les plus pauvres ?",
+      "summary": "Ce lundi 09 novembre, Sébastien Chenu, le vice-président RN de l'Assemblée nationale était l'invité de \"Lundi, c'est politique\" sur LCP en partenariat avec Radio Classique et Challenges. L'occasion pour notre journaliste, chef du service France, Laurent Fargues, de questionner l'élu sur les mesures de son parti à destination des plus pauvres.",
+      "link": "https://www.challenges.fr/economie/le-rn-a-t-il-vraiment-des-mesures-pour-aider-les-plus-pauvres_646950",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-12T16:30:03+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "17d527c45f80",
+      "title": "Les demandes brutales de la Russie sur l’Ukraine",
+      "summary": "En profitant de la convergence avec Trump, à Abou Dhabi Poutine a exigé la capitulation stratégique de l’Europe L’article Les demandes brutales de la Russie sur l’Ukraine est apparu en premier sur Le Grand Continent .",
+      "link": "https://legrandcontinent.eu/fr/2026/11/14/les-demandes-brutales-de-la-russie-sur-lukraine/",
+      "source": "Le Grand Continent",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-14T13:15:39+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bd454b85f0b8",
+      "title": "President Sheikh Mohamed meets Mozambique's Chapo to strengthen UAE-Africa ties",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/president-sheikh-mohamed-meets-mozambiques-chapo-to-strengthen-uae-africa-ties/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T14:08:39+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "36921dac3526",
+      "title": "Fitch expects UAE GDP to rise this year and maintains high-grade credit rating",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/11/14/fitch-expects-uae-gdp-to-rise-in-2026-and-maintains-high-grade-credit-rating/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:24:10+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bc7d284a62a9",
+      "title": "UAE condemns Israeli air strikes on Nasser Medical Complex in Gaza",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/uae-condemns-israeli-air-strikes-on-nasser-medical-complex-in-gaza/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:17:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e35432ad1457",
+      "title": "Dubai private schools to report pupils who miss five consecutive days without explanation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/dubai-private-schools-to-report-pupils-who-miss-five-consecutive-days-without-explanation/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:38:50+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1208435223d0",
+      "title": "Dubai Police bust investment fraud gang that used victims' bank accounts to launder money",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/dubai-police-bust-investment-fraud-gang-that-used-victims-bank-accounts-to-launder-money/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T10:48:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "06a39dcafe9a",
+      "title": "Rehabilitated sea turtles released after being rescued off UAE’s east coast",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/rehabilitated-sea-turtles-released-after-being-rescued-off-uaes-east-coast/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T08:05:04+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "49d97b31dfe2",
+      "title": "UAE health ranking: Good on sugar taxes and vaccines, but tobacco control lags",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/uae-health-ranking-good-on-sugar-taxes-and-vaccines-but-tobacco-control-lags/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T05:28:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "00e585d1eb8c",
+      "title": "UAE Property: 'Should I waive the penalty if my tenant can no longer afford the rent?'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/11/14/uae-property-should-i-waive-the-penalty-if-my-tenant-can-no-longer-afford-the-rent/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T04:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "78b3a18c3888",
+      "title": "Is your child being bullied at school? Warning signs UAE parents should look out for",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/is-your-child-being-bullied-at-school-warning-signs-uae-parents-should-look-out-for/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T04:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "4c26db0f7156",
+      "title": "At Art Mumbai, UAE galleries reflect on historic and contemporary ties between India and the Gulf",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/14/at-art-mumbai-uae-galleries-reflect-on-historic-and-contemporary-ties-between-india-and-the-gulf/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T03:12:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c7bd5c9c9ba5",
+      "title": "UAE National Day holidays: How to get nine or five-day break around Eid Al Etihad",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/14/uae-national-day-holidays-how-to-get-nine-or-five-day-break-around-eid-al-etihad/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T02:00:01+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2e26411e9ca2",
+      "title": "Fujairah Crown Prince visits Indian family that lost three members in accident",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/fujairah-crown-prince-visits-indian-family-that-lost-three-members-in-accident-1.500747410",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:37:35+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1dc1499562e5",
+      "title": "Sheikh Theyab bin Mohamed offers condolences to families of Fujairah crash victims",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sheikh-theyab-bin-mohamed-offers-condolences-to-families-of-fujairah-crash-victims-1.500747421",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:29:56+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f31de605ae79",
+      "title": "UAE leaders condole with Emir of Kuwait over death of Sheikha Intisar Jassem Mohammed Al-Malik Al-Sabah",
+      "summary": "UAE leaders condole with Emir of Kuwait over death of Sheikha Intisar Jassem Mohammed Al-Malik Al-Sabah",
+      "link": "https://gulfnews.com/uae/government/uae-leaders-condole-with-emir-of-kuwait-over-death-of-sheikha-intisar-jassem-mohammed-al-malik-al-sabah-1.500747165",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:18:33+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e30f91e5ac02",
+      "title": "UAE strongly condemns Israeli strikes on Gaza's Nasser Medical Complex",
+      "summary": "UAE strongly condemns targeting of Nasser Medical Complex in Gaza Strip",
+      "link": "https://gulfnews.com/uae/government/c392jg5-uae-strongly-condemns-targeting-nasser-medical-1.500747374",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:01:16+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bf1870b0395b",
+      "title": "UAE and Mozambique Presidents explore ways to strengthen bilateral cooperation",
+      "summary": "UAE and Mozambique Presidents explore ways to strengthen bilateral cooperation",
+      "link": "https://gulfnews.com/uae/government/uae-and-mozambique-presidents-explore-ways-to-strengthen-bilateral-cooperation-1.500747379",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:56:16+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c2261f486a20",
+      "title": "These 5 slides might become your most-worn footwear this UAE beach season",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/these-5-slides-might-become-your-most-worn-footwear-this-uae-beach-season-1.500746043",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "243e3d5b4ca5",
+      "title": "Cybersecurity snakes and ladders: Major outages, AI-discovered vulnerabilities and the uncertain road to business resilience",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/cybersecurity-snakes-and-ladders-major-outages-ai-discovered-vulnerabilities-and-the-uncertain-road-to-business-resilience-1.500747263",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:02:09+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 2
+    },
+    {
+      "id": "78b620ede2c6",
+      "title": "How the UAE helped this Mexican pilot build a life across generations",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/how-the-uae-helped-this-mexican-pilot-build-a-life-across-generations-1.500747226",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T10:26:44+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "7777f00353ec",
+      "title": "IRC chief says world is witnessing 'global disorder' amid escalating conflicts and lack of accountability",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/14/irc-chief-says-world-is-witnessing-global-disorder-amid-escalating-conflicts-and-lack-of-accountability/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ea0b3e508872",
+      "title": "Man United turn to Pochettino after Carrick pays price for transfer difficulties and dramatic slump in form",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/14/man-united-turn-to-pochettino-after-carrick-pays-price-for-transfer-difficulties-and-dramatic-slump-in-form/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:43:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7a8870b14d51",
+      "title": "Has Usman Nurmagomedov ruined his chances of signing with the UFC?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/14/has-usman-nurmagomedov-ruined-his-chances-of-signing-with-the-ufc/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:36:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "6d4b661bbc36",
+      "title": "Tesla invites select customers to order their own driverless Cybercab",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/14/tesla-invites-select-customers-to-order-their-own-driverless-cybercab/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T09:34:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "41267c7e36f1",
+      "title": "Mohamed Salah breaks Egypt scoring record after hitting double in rout of Malawi",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/14/mohamed-salah-breaks-egypt-scoring-record-after-hitting-double-in-rout-of-malawi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T09:08:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "130d87ebbc38",
+      "title": "Royal Champion lives up to name as he powers to Bahrain International Trophy win",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/14/royal-champion-lives-up-to-name-as-he-powers-to-bahrain-international-trophy-win/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T07:55:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b991d6e96035",
+      "title": "Body of ex-Iraqi MP arrives in Baghdad as investigators probe death in Beirut",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/14/lebanon-hands-over-body-of-iraqi-former-mp-found-dead-in-beirut/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T07:50:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0c442366ba5e",
+      "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Arab Israelis",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/14/eisenkot-accuses-netanyahu-of-racist-campaign-against-arab-israelis/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T07:12:44+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f811f4aba898",
+      "title": "Turkey's approval of Makkah pact takes effect as it signs separate defence agreement with Qatar",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/14/turkeys-approval-of-makkah-pact-takes-effect-as-it-signs-defence-agreement-with-qatar/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T06:19:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1eccaf09404f",
+      "title": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/14/iran-war-live-irgc-strait-of-hormuz/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T04:42:53+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ed93944ac89b",
+      "title": "From civil war to political deadlock: the deep roots of Iraqi Kurdistan's KDP-PUK rift",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/14/from-civil-war-to-political-deadlock-the-deep-roots-of-iraqi-kurdistans-kdp-puk-rift/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T03:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a0139bb29822",
+      "title": "GCC demands Iran pays full compensation for attacks on Gulf states",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/14/gcc-iran-compensation-attacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T22:15:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d62dbcd980d3",
+      "title": "Passengers and crew safe after tanker strikes docked cruise ship in New Orleans",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/13/new-orleans-rescue-operations-underway-after-tanker-strikes-docked-cruise-ship/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T21:58:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a44e6ad737b4",
+      "title": "US flights resume after nationwide ground stop",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/13/flights-grounded-faa-nationwide-ground-stop/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T21:43:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5dcadc95f54a",
+      "title": "IMF says more progress needed on Lebanon's banking reforms",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/11/13/imf-says-more-progresses-needed-on-lebanons-banking-sector-reform/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T19:56:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "307dc327056a",
+      "title": "Gaza baby dies from exposure to cold as WHO warns of rising infection rates",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/13/gaza-baby-dies-from-exposure-to-cold-as-who-warns-of-rising-infection-rates/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-13T18:22:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "57bd5c63be0a",
+      "title": "Middle East War: US signals restraint as Iran warns of retaliation",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-war-us-signals-restraint-as-iran-warns-of-retaliation-1.500746947",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T03:07:18+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ac61003338c1",
+      "title": "India stun Pakistan in last-over thriller to win U-19 Asia Cup",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/cricket/india-stun-pakistan-in-last-over-thriller-to-win-u-19-asia-cup-1.500747434",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:37:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "128e27eca9c5",
+      "title": "Gaza hospital strike draws strong condemnation from 18 nations",
+      "summary": "Joint statement by foreign ministers of several Arab, Islamic countries",
+      "link": "https://gulfnews.com/world/mena/gaza-hospital-strike-draws-strong-condemnation-from-18-nations-1.500747350",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:11:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "49bb81ad4721",
+      "title": "Before you replace your old sweaters, try this Philips Fabric Shaver that removes unsightly fuzz",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/before-you-replace-your-old-sweaters-try-this-philips-fabric-shaver-that-removes-unsightly-fuzz-1.500745667",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T13:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b4a936ead858",
+      "title": "US flight chaos continues: Over 2,500 cancellations as services resume",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/us-flight-chaos-continues-over-2500-cancellations-as-services-resume-1.500747367",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:43:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ea4ff6ab9c3e",
+      "title": "‘Every picture has a story’: Celebrating Sheikh Hamdan’s birthday through the candid moments that show who he truly is",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/every-picture-has-a-story-celebrating-sheikh-hamdans-birthday-through-the-candid-moments-that-show-who-he-truly-is-1.500747247",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:37:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "858b43533ce2",
+      "title": "Madhuri Dixit was 16 and preparing for Class 12 exams during Bollywood debut, recalls Ashok Saraf",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/bollywood/madhuri-dixit-was-16-and-preparing-for-class-12-exams-during-bollywood-debut-recalls-ashok-saraf-1.500747357",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:28:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fe0bf56918dc",
+      "title": "'Truly beautiful' to make football return, says Ronaldinho",
+      "summary": "&apos;Truly beautiful&apos; to make football return, says Ronaldinho",
+      "link": "https://gulfnews.com/sport/football/truly-beautiful-to-make-football-return-says-ronaldinho-1.500747351",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:21:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "681f37a1239d",
+      "title": "AI cuts perfume development time by up to 30%, industry experts say",
+      "summary": "AI helps cosmetic giants overcome perfume&apos;s nasal &apos;paradoxes&apos;",
+      "link": "https://gulfnews.com/technology/ai-cuts-perfume-development-time-by-up-to-30-industry-experts-say-1.500747314",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:11:33+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "781939518522",
+      "title": "Vaibhav Sooryavanshi forgets Bihar playing XI on captaincy debut: 'Bhool gaya lagta main’",
+      "summary": "&apos;Bhul gaya&apos;: Sooryavanshi forgets Bihar playing XI details on historic captaincy debut",
+      "link": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshi-forgets-bihar-playing-xi-on-captaincy-debut-bhool-gaya-lagta-main-1.500747159",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:05:27+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "469476e8214a",
+      "title": "Microsoft says global outage fully resolved after disrupting services in over 70 countries",
+      "summary": "Microsoft says services fully restored after hourslong global outage",
+      "link": "https://gulfnews.com/technology/companies/microsoft-says-global-outage-fully-resolved-after-disrupting-services-in-over-70-countries-1.500747167",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T12:04:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "27dca78e5dca",
+      "title": "Anirudh Ravichander, Kavya Maran return to Chennai after Greece wedding",
+      "summary": "Anirudh, Kavya Maran return home to Chennai after wedding in Greece",
+      "link": "https://gulfnews.com/entertainment/south-indian/anirudh-ravichander-kavya-maran-return-to-chennai-after-greece-wedding-1.500747190",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:55:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "85f199be98aa",
+      "title": "Jailer 2: Apeksha Porwal reveals what she learnt from Rajinikanth",
+      "summary": "&apos;Jailer 2&apos; actor Apeksha Porwal reveals what she got to learn while working with Rajinikanth",
+      "link": "https://gulfnews.com/entertainment/south-indian/jailer-2-apeksha-porwal-reveals-what-she-learnt-from-rajinikanth-1.500747189",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:42:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d06b42955b7c",
+      "title": "Bigg Boss 20: Yung DSA opens up about parents' troubled relationship",
+      "summary": "BB 20: Yung DSA opens up on growing up amid parents’ financial struggles",
+      "link": "https://gulfnews.com/entertainment/music/bigg-boss-20-yung-dsa-opens-up-about-parents-troubled-relationship-1.500747205",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:35:42+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4eb73af067fb",
+      "title": "Bengaluru murders: ‘I am at peace’, says man accused of killing 7 family members",
+      "summary": "Bengaluru mass murderer says he is at peace after killing 7 family members",
+      "link": "https://gulfnews.com/world/asia/india/bengaluru-murders-i-am-at-peace-says-man-accused-of-killing-7-family-members-1.500747220",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-14T11:29:14+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 2
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 2
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 3
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
