@@ -1,6 +1,10 @@
 {
   "digests": [
     {
+      "filename": "digest_20261117_1658.json",
+      "date": "20261117_1658"
+    },
+    {
       "filename": "digest_20261116_2140.json",
       "date": "20261116_2140"
     },
@@ -235,10 +239,6 @@
     {
       "filename": "digest_20261018_1207.json",
       "date": "20261018_1207"
-    },
-    {
-      "filename": "digest_20261017_1502.json",
-      "date": "20261017_1502"
     }
   ]
 }
