@@ -1,0 +1,564 @@
+{
+  "generated_at": "2026-11-23T23:26:36.761253+00:00",
+  "generated_at_cet": "2026-11-24 00:26",
+  "total_articles": 38,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "1699fe8d1a8c",
+      "title": "UAE President receives Ruler of Fujairah",
+      "summary": "UAE President receives Ruler of Fujairah",
+      "link": "https://gulfnews.com/uae/abu-dhabi/uae-president-receives-ruler-of-fujairah-2-1.500758547",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:18:06+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "718416816be4",
+      "title": "Why finance matters as much as technology in UAE's AI ambitions",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/podcasts/business-extra/2026/11/23/why-finance-matters-as-much-as-technology-in-uaes-ai-ambitions/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T12:09:23+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "bbbffe430e64",
+      "title": "Un système gratuit pour le consommateur : Voltalis va investir 150 millions d’euros en France en 2027 pour doper sa « centrale électrique virtuelle »",
+      "summary": "À l’occasion du deuxième sommet Choose France-Edition France, qui se tient ce lundi 23 novembre, Voltalis annonce un plan pour équiper 1 million d’appareils (radiateurs, chauffe-eau ou pompes à chaleur) de son système de pilotage à distance de la consommation électrique. À la clé, 300 recrutements sont prévus.",
+      "link": "https://www.challenges.fr/entreprise/energie/un-systeme-gratuit-pour-le-consommateur-voltalis-va-investir-150-millions-deuros-en-france-en-2027-pour-doper-sa-centrale-electrique-virtuelle_647112",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-23T13:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0db0dbaf79a8",
+      "title": "Abu Dhabi concludes business delegation to New York",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/11/23/abu-dhabi-concludes-business-delegation-to-new-york/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T20:34:19+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1d906021d0c5",
+      "title": "UN water summit to be held every three years after next month's UAE talks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/23/un-backs-uae-plan-for-water-summit-to-be-held-every-three-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:05:06+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f7463d1edbeb",
+      "title": "HSBC’s Sami Abouzahr on why the UAE is a strategic wealth hub",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/23/hsbcs-sami-abouzahr-on-why-the-uae-is-a-strategic-wealth-hub/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:54:25+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "50ddf05b6728",
+      "title": "Dubai Islamic Bank shares surge 11% on potential acquisition deal",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/banking/2026/11/23/dubai-islamic-bank-shares-surge-11-on-potential-acquisition-deal/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:11:15+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "726e956b81bb",
+      "title": "Children’s Biennale in Abu Dhabi is a reflection on what we owe the next generation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/23/children-abu-dhabi-biennale-umm-al-emarat-park-art/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "38f1ac64a260",
+      "title": "University of Sharjah announces new paid parking as students raise concerns",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/university-of-sharjah-announces-new-paid-parking-as-students-raise-concerns/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:08:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "40e27983ace6",
+      "title": "Morgan Stanley joins JPMorgan in upgrading UAE equities to 'overweight'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/23/morgan-stanley-joins-jpmorgan-in-upgrading-uae-equities-to-overweight/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T12:26:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a10711d130df",
+      "title": "Abu Dhabi clinic brings cleft services together to help with post-surgery treatment",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/abu-dhabi-clinic-brings-cleft-services-together-to-help-with-post-surgery-treatment/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:39:38+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8088f9cfff61",
+      "title": "Dubai's new 'city within a city' to cost $20bn with 25,000 homes",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/11/23/yardlands-dubai-sheikh-mohamed-bin-zayed-road/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:38:14+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "dc3b6dccb5b5",
+      "title": "Are fireworks returning to the UAE? What to know about Eid Al Etihad and New Year",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/11/23/are-fireworks-returning-to-the-uae-what-to-know-about-eid-al-etihad-and-new-year/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T10:57:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "03d5c391b9f1",
+      "title": "US deepens Gulf partnerships with Qatar critical minerals framework",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/23/us-qatar-critical-minerals-framework/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T22:41:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "24175876123c",
+      "title": "UN warns Black Sea drone attacks threaten food exports as Russia-Ukraine war widens",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/23/un-warns-black-sea-drone-attacks-threaten-food-exports-as-russia-ukraine-war-widens/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T20:40:13+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e3c18a1f8b3b",
+      "title": "US 'discussing military training for Syrian forces'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/23/us-syria-troops-training/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T20:31:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "57173e3417ed",
+      "title": "Jensen Huang cheered on by staff as he returns to Nvidia",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/23/jensen-returns-to-nvidia-employees/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:12:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "47c06fce9634",
+      "title": "President Sheikh Mohamed speaks with Syrian leader Ahmad Al Shara",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/president-sheikh-mohamed-speaks-with-syrian-leader-ahmad-al-shara/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:49:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bc5340d997b0",
+      "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:40:31+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "468c8d462695",
+      "title": "Eisenkot says no immediate threat justifies attack on Iran",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/eisenkot-says-no-immediate-threat-justifies-attack-on-iran/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:03:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "890e3c547c79",
+      "title": "Discovery Dunes: Private members-only community redefines luxury living in Middle East",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/19/discovery-dunes-private-members-only-community-redefines-luxury-living-in-middle-east/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:27:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d8d7b70c3f3e",
+      "title": "Cop31 failure will not stop move away from fossil fuels, climate analysts say",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/cop31-talks-failure-will-not-stop-move-away-from-fossil-fuels-climate-analysts-say/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:12:17+00:00",
+      "sectors": [
+        {
+          "id": "climate",
+          "label": "Climate Transition",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9714844df4ea",
+      "title": "Nvidia surges 30% after Jensen Huang reinstated as CEO",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:43:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ab463303a8c9",
+      "title": "What do we know about the strike on Libya's Benghazi port?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/23/what-do-we-know-about-the-strike-on-libyas-benghazi-port/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:37:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "85b5c619f600",
+      "title": "Iran lashes female singer and her team 74 times each over 'vulgar' concert with no audience",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/iran-lashes-female-singer-and-her-team-74-times-each-over-vulgar-concert-with-no-audience/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:24:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f8a16d9b89e4",
+      "title": "Jensen Huang 'honoured to return' to Nvidia less than two weeks after resignation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/23/jensen-huang-statement-nvidia-returns-trump/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:12:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "747485761b90",
+      "title": "Israeli military accused of exploiting Lebanese schoolchildren in 'propaganda' video",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/israeli-military-accused-of-exploiting-lebanese-schoolchildren-in-propaganda-video/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:35:05+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "29a3d94d498c",
+      "title": "Saddam Hussein's Boeing 747 could be yours for $900,000",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/saddam-husseins-boeing-747-could-be-yours-for-900000/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:31:53+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ff63e7d663af",
+      "title": "UK spy chief sees European miscalculation as likeliest cause of conflict",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/23/uk-spy-chief-sees-european-miscalculation-as-likeliest-cause-of-conflict/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:27:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9169df69fb70",
+      "title": "Egyptian man uses claim of Muslim Brotherhood membership to secure UK asylum",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/23/egyptian-man-uses-claim-of-muslim-brotherhood-membership-to-secure-uk-asylum/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T12:43:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4d13622aa3d0",
+      "title": "Police investigate 'death awaits you' bomb threats in Denmark and Germany",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/23/police-investigate-death-awaits-you-bomb-threats-in-denmark-and-germany/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:33:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c44dcd299a79",
+      "title": "Gaza turned into ‘toxic wasteland with human survival under threat’",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/climate/environment/2026/11/23/gaza-turned-into-toxic-wasteland-with-human-survival-under-threat/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:25:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "eee1cbc93fdf",
+      "title": "Brentford hit Everton for four to soar into Premier League top 6",
+      "summary": "Brentford hit Everton for four to soar into Premier League top six",
+      "link": "https://gulfnews.com/sport/football/brentford-hit-everton-for-four-to-soar-into-premier-league-top-6-1.500758597",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T22:59:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7b667cb1147f",
+      "title": "noon Yellow Friday Sale: Top 5 small appliances, from air fryers to cordless vacuums",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/noon-yellow-friday-sale-top-5-small-appliances-from-air-fryers-to-cordless-vacuums-1.500758016",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "58c025f8c1a2",
+      "title": "AB de Villiers alleges Australia ball-tampering began in Durban",
+      "summary": "AB de Villiers makes new claim about Australian ball-tampering",
+      "link": "https://gulfnews.com/sport/cricket/ab-de-villiers-alleges-australia-ball-tampering-began-in-durban-1.500758322",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:35:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2981b2f8cc18",
+      "title": "Athens Acropolis museum reopens after $11m revamp",
+      "summary": "Old Acropolis Museum reopens in Athens after two decades",
+      "link": "https://gulfnews.com/world/europe/athens-acropolis-museum-reopens-after-11m-revamp-1.500758211",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:20:44+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3fbb161f0b10",
+      "title": "Gaza faces toxic contamination for generations, report warns",
+      "summary": "Gaza turned into ‘toxic wasteland’ for decades: Report",
+      "link": "https://gulfnews.com/world/mena/gaza-turned-into-toxic-wasteland-for-decades-report-1.500758420",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:36:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e20546d8da9e",
+      "title": "Nvidia stock surges 33% as Jensen Huang returns as CEO after shock board reversal",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/nvidia-stock-surges-33-as-jensen-huang-returns-as-ceo-after-shock-board-reversal-1.500758380",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:51:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 1
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 1
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 1
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 1
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
