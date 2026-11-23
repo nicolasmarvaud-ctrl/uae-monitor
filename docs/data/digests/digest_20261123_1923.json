@@ -1,0 +1,809 @@
+{
+  "generated_at": "2026-11-23T19:23:01.011661+00:00",
+  "generated_at_cet": "2026-11-23 20:23",
+  "total_articles": 55,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "1699fe8d1a8c",
+      "title": "UAE President receives Ruler of Fujairah",
+      "summary": "UAE President receives Ruler of Fujairah",
+      "link": "https://gulfnews.com/uae/abu-dhabi/uae-president-receives-ruler-of-fujairah-2-1.500758547",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:18:06+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "32e277de5b7c",
+      "title": "From data centres to $20b Anthropic gain: Inside Abu Dhabi's AI investments",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/from-data-centres-to-20b-anthropic-gain-inside-mgxs-ai-investments-1.500758462",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:08:22+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "718416816be4",
+      "title": "Why finance matters as much as technology in UAE's AI ambitions",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/podcasts/business-extra/2026/11/23/why-finance-matters-as-much-as-technology-in-uaes-ai-ambitions/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T12:09:23+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "5796042cb94f",
+      "title": "UAE unveils government AI assistant called Mira to boost public services",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/uae-unveils-government-ai-assistant-called-mira-to-boost-public-services/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T09:52:59+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "e7c9482bc715",
+      "title": "Meet Mira: UAE's AI concierge agent that renews passport, Emirates ID, books doctors and handles school affairs in one chat",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/meet-mira-uaes-ai-concierge-agent-that-renews-passport-emirates-id-books-doctors-and-handles-school-affairs-in-one-chat-1.500758308",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:21:44+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "bbbffe430e64",
+      "title": "Un système gratuit pour le consommateur : Voltalis va investir 150 millions d’euros en France en 2027 pour doper sa « centrale électrique virtuelle »",
+      "summary": "À l’occasion du deuxième sommet Choose France-Edition France, qui se tient ce lundi 23 novembre, Voltalis annonce un plan pour équiper 1 million d’appareils (radiateurs, chauffe-eau ou pompes à chaleur) de son système de pilotage à distance de la consommation électrique. À la clé, 300 recrutements sont prévus.",
+      "link": "https://www.challenges.fr/entreprise/energie/un-systeme-gratuit-pour-le-consommateur-voltalis-va-investir-150-millions-deuros-en-france-en-2027-pour-doper-sa-centrale-electrique-virtuelle_647112",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-23T13:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1d906021d0c5",
+      "title": "UN water summit to be held every three years after next month's UAE talks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/23/un-backs-uae-plan-for-water-summit-to-be-held-every-three-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:05:06+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f7463d1edbeb",
+      "title": "HSBC’s Sami Abouzahr on why the UAE is a strategic wealth hub",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/23/hsbcs-sami-abouzahr-on-why-the-uae-is-a-strategic-wealth-hub/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:54:25+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "50ddf05b6728",
+      "title": "Dubai Islamic Bank shares surge 11% on potential acquisition deal",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/banking/2026/11/23/dubai-islamic-bank-shares-surge-11-on-potential-acquisition-deal/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:11:15+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "726e956b81bb",
+      "title": "Children’s Biennale in Abu Dhabi is a reflection on what we owe the next generation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/23/children-abu-dhabi-biennale-umm-al-emarat-park-art/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "38f1ac64a260",
+      "title": "University of Sharjah announces new paid parking as students raise concerns",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/university-of-sharjah-announces-new-paid-parking-as-students-raise-concerns/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:08:08+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "40e27983ace6",
+      "title": "Morgan Stanley joins JPMorgan in upgrading UAE equities to 'overweight'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/23/morgan-stanley-joins-jpmorgan-in-upgrading-uae-equities-to-overweight/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T12:26:58+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a10711d130df",
+      "title": "Abu Dhabi clinic brings cleft services together to help with post-surgery treatment",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/abu-dhabi-clinic-brings-cleft-services-together-to-help-with-post-surgery-treatment/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:39:38+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8088f9cfff61",
+      "title": "Dubai's new 'city within a city' to cost $20bn with 25,000 homes",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/11/23/yardlands-dubai-sheikh-mohamed-bin-zayed-road/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:38:14+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "dc3b6dccb5b5",
+      "title": "Are fireworks returning to the UAE? What to know about Eid Al Etihad and New Year",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/11/23/are-fireworks-returning-to-the-uae-what-to-know-about-eid-al-etihad-and-new-year/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T10:57:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "2e453be4a4c7",
+      "title": "How to check passenger transport violations in Sharjah",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/how-to-check-passenger-transport-violations-in-sharjah-1.500758494",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T18:09:30+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c8c35b54bf5b",
+      "title": "Middle East war: 5 things UAE residents need to know tonight (Nov 23, 2026)",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-tonight-nov-23-2026-1.500758468",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:03:30+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f5e241d88968",
+      "title": "Sheikh Mohammed visits Big 5 Global exhibition in Dubai",
+      "summary": "Mohammed bin Rashid visits Big 5 Global exhibition in Dubai",
+      "link": "https://gulfnews.com/uae/dubai/sheikh-mohammed-visits-big-5-global-exhibition-in-dubai-1.500758389",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:44:30+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e84dfb05821f",
+      "title": "UAE President receives phone call from Syrian President",
+      "summary": "UAE President receives phone call from Syrian President",
+      "link": "https://gulfnews.com/uae/uae-president-receives-phone-call-from-syrian-president-1.500758430",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:32:04+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1df7d5f82e4a",
+      "title": "Umm Al Quwain changes truck access route to Umm Al Thuoob",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/umm-al-quwain/umm-al-quwain-changes-truck-access-route-to-umm-al-thuoob-1.500758283",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:22:45+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6161cbbd73ee",
+      "title": "Drone shows, concerts and shopping deals: Dubai Shopping Festival unveils packed line-up for 2026-27",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/drone-shows-concerts-and-shopping-deals-dubai-shopping-festival-unveils-packed-line-up-for-2026-27-1.500758207",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:32:54+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "49f8af15167e",
+      "title": "Jensen Huang cheered on by staff as he returns to Nvidia",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/23/jensen-huang-cheered-video-nvidia-return/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:12:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "47c06fce9634",
+      "title": "President Sheikh Mohamed speaks with Syrian leader Ahmad Al Shara",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/president-sheikh-mohamed-speaks-with-syrian-leader-ahmad-al-shara/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:49:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "bc5340d997b0",
+      "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:40:31+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "468c8d462695",
+      "title": "Eisenkot says no immediate threat justifies attack on Iran",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/eisenkot-says-no-immediate-threat-justifies-attack-on-iran/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:03:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "890e3c547c79",
+      "title": "Discovery Dunes: Private members-only community redefines luxury living in Middle East",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/19/discovery-dunes-private-members-only-community-redefines-luxury-living-in-middle-east/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:27:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d8d7b70c3f3e",
+      "title": "Cop31 failure will not stop move away from fossil fuels, climate analysts say",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/cop31-talks-failure-will-not-stop-move-away-from-fossil-fuels-climate-analysts-say/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:12:17+00:00",
+      "sectors": [
+        {
+          "id": "climate",
+          "label": "Climate Transition",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9714844df4ea",
+      "title": "Nvidia surges 30% after Jensen Huang reinstated as CEO",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/23/nvidia-shares-nasdaq-sp-500-djia/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:43:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ab463303a8c9",
+      "title": "What do we know about the strike on Libya's Benghazi port?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/23/what-do-we-know-about-the-strike-on-libyas-benghazi-port/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:37:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "85b5c619f600",
+      "title": "Iran lashes female singer and her team 74 times each over 'vulgar' concert with no audience",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/iran-lashes-female-singer-and-her-team-74-times-each-over-vulgar-concert-with-no-audience/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:24:55+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f8a16d9b89e4",
+      "title": "Jensen Huang 'honoured to return' to Nvidia less than two weeks after resignation",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/23/jensen-huang-statement-nvidia-returns-trump/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T14:12:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "747485761b90",
+      "title": "Israeli military accused of exploiting Lebanese schoolchildren in 'propaganda' video",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/israeli-military-accused-of-exploiting-lebanese-schoolchildren-in-propaganda-video/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:35:05+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "29a3d94d498c",
+      "title": "Saddam Hussein's Boeing 747 could be yours for $900,000",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/23/saddam-husseins-boeing-747-could-be-yours-for-900000/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:31:53+00:00",
+      "sectors": [
+        {
+          "id": "aeronautics",
+          "label": "Aeronautics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ff63e7d663af",
+      "title": "UK spy chief sees European miscalculation as likeliest cause of conflict",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/23/uk-spy-chief-sees-european-miscalculation-as-likeliest-cause-of-conflict/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T13:27:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9169df69fb70",
+      "title": "Egyptian man uses claim of Muslim Brotherhood membership to secure UK asylum",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/23/egyptian-man-uses-claim-of-muslim-brotherhood-membership-to-secure-uk-asylum/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T12:43:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4d13622aa3d0",
+      "title": "Police investigate 'death awaits you' bomb threats in Denmark and Germany",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/23/police-investigate-death-awaits-you-bomb-threats-in-denmark-and-germany/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:33:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c44dcd299a79",
+      "title": "Gaza turned into ‘toxic wasteland with human survival under threat’",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/climate/environment/2026/11/23/gaza-turned-into-toxic-wasteland-with-human-survival-under-threat/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T11:25:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4e42d088c2fc",
+      "title": "Four killed and 17 injured in Oman after bus crashes into lorry",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/23/four-killed-and-17-injured-in-oman-after-bus-crashes-into-lorry/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T10:41:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "08a855749ddb",
+      "title": "Why Palestine was absent and Miss Israel booed at Miss Universe 2026",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/fashion-beauty/2026/11/23/miss-universe-2026-israel-jerusalem-palestine/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T10:27:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d00e0049d707",
+      "title": "Copper sinks below $12,000 for the first time since March amid AI demand uncertainty",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/23/copper-sinks-below-12000-for-the-first-time-since-march-amid-ai-demand-uncertainty/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T09:07:19+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1953d6d6c714",
+      "title": "Centurion Test: Bangladesh collapse to 91 as South Africa seize control",
+      "summary": "Bangladesh crash to 91 all out against South African pace in 2nd Test",
+      "link": "https://gulfnews.com/sport/cricket/centurion-test-bangladesh-collapse-to-91-as-south-africa-seize-control-1.500758415",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T19:03:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9105fd8f40b4",
+      "title": "Ex-prince Andrew received £750,000 ‘bribe’ over Turkish heiress, UK court told",
+      "summary": "Ex-prince Andrew took &apos;bribe&apos; to help Turkish heiress, UK court told",
+      "link": "https://gulfnews.com/world/europe/ex-prince-andrew-received-750000-bribe-over-turkish-heiress-uk-court-told-1.500758519",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T18:54:28+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b66293c82617",
+      "title": "Trump threatens to sink Iranian vessels as US strikes oil tanker, Ghalibaf calls for lasting security",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/trump-threatens-to-sink-iranian-vessels-as-us-strikes-oil-tanker-ghalibaf-calls-for-lasting-security-1.500757421",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T03:06:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "63e71f41d6e0",
+      "title": "Indonesian rescuers race to find 34 missing workers after a deadly candy factory fire",
+      "summary": "Indonesian rescuers race to find 34 missing workers after a deadly candy factory fire",
+      "link": "https://gulfnews.com/world/asia/indonesian-rescuers-race-to-find-34-missing-workers-after-a-deadly-candy-factory-fire-1.500757617",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T18:23:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d5b85d1607ca",
+      "title": "Over 85,000 people tested for HIV in Mizoram between April and October 2026",
+      "summary": "Over 85,000 people tested for HIV in Mizoram between April and October 2026",
+      "link": "https://gulfnews.com/world/asia/india/over-85000-people-tested-for-hiv-in-mizoram-between-april-and-october-2026-1.500758520",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T18:10:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ee5071449c23",
+      "title": "Emirates Group offers more than 120 jobs, packages reach Dh1.2 million",
+      "summary": "",
+      "link": "https://gulfnews.com/business/aviation/emirates-group-offers-more-than-120-jobs-packages-reach-dh12-million-1.500758486",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T18:04:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "48b4492c0b17",
+      "title": "Sheikh Khaled, Sheikh Zayed attend Mohammed Ali Mohammed Al Ketbi wedding reception",
+      "summary": "Zayed bin Mohamed bin Zayed attends Mohammed Ali Mohammed Al Ketbi wedding reception",
+      "link": "https://gulfnews.com/uae/sheikh-khaled-sheikh-zayed-attend-mohammed-ali-mohammed-al-ketbi-wedding-reception-1.500758467",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T17:47:27+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2384e86cffaa",
+      "title": "Gaza turned into ‘toxic wasteland’ for decades: Report",
+      "summary": "Gaza turned into ‘toxic wasteland’ for decades: Report",
+      "link": "https://gulfnews.com/world/mena/gaza-turned-into-toxic-wasteland-for-decades-report-1.500758420",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:36:26+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "885dc7c0fc15",
+      "title": "5 million gulab jamuns, horse race & SUV prize: Inside Bihar MLA's daughter's lavish wedding",
+      "summary": "",
+      "link": "https://gulfnews.com/world/asia/india/5-million-gulab-jamuns-horse-race-suv-prize-inside-bihar-mlas-daughters-lavish-wedding-1.500758426",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:24:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "598dde05018f",
+      "title": "Boy, 6, dies after parents allegedly beat him repeatedly to discipline him",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/boy-6-dies-after-parents-allegedly-beat-him-repeatedly-to-discipline-him-1.500758407",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:21:07+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f46a8cca1c54",
+      "title": "UK Grand Theft Auto VI hacker gets 7-year sentence",
+      "summary": "UK Grand Theft Auto VI hacker gets 7-year sentence",
+      "link": "https://gulfnews.com/technology/gaming/uk-grand-theft-auto-vi-hacker-gets-7-year-sentence-1.500758395",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:16:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "aa912b06cffd",
+      "title": "Dutch court blocks BYD SUV sales in EU over Land Rover design rights",
+      "summary": "",
+      "link": "https://gulfnews.com/auto/dutch-court-blocks-byd-suv-sales-in-eu-over-land-rover-design-rights-1.500758393",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T16:07:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e20546d8da9e",
+      "title": "Nvidia stock surges 33% as Jensen Huang returns as CEO after shock board reversal",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/nvidia-stock-surges-33-as-jensen-huang-returns-as-ceo-after-shock-board-reversal-1.500758380",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:51:41+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "95cf99abb625",
+      "title": "Dhanush, Mammootty, Sai Pallavi's OM crosses Rs1 billion worldwide in 3 days",
+      "summary": "",
+      "link": "https://gulfnews.com/entertainment/south-indian/dhanush-mammootty-sai-pallavis-om-crosses-rs1-billion-worldwide-in-3-days-1.500758353",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:40:15+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c380e3c7ac6c",
+      "title": "Burnham to ignore ‘stuck in the past’ ex-PMs as he hails UK’s EU reset",
+      "summary": "",
+      "link": "https://gulfnews.com/world/europe/burnham-to-ignore-stuck-in-the-past-ex-pms-as-he-hails-uks-eu-reset-1.500758364",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-23T15:37:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 1
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 5
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 1
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 1
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
