@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T18:59:07.334322+00:00",
-  "generated_at_cet": "2026-11-24 19:59",
-  "total_articles": 53,
+  "generated_at": "2026-11-24T21:57:12.204488+00:00",
+  "generated_at_cet": "2026-11-24 22:57",
+  "total_articles": 47,
   "sources_fetched": 26,
   "articles": [
     {
@@ -13,25 +13,6 @@
       "source_lang": "en",
       "category": "uae",
       "published": "2026-11-24T11:44:26+00:00",
-      "sectors": [
-        {
-          "id": "aeronautics",
-          "label": "Aeronautics",
-          "score": 1
-        }
-      ],
-      "bilateral_score": 4,
-      "relevance_score": 5
-    },
-    {
-      "id": "e47aae9e7853",
-      "title": "From paper planes to Etihad Airways: A female Emirati pilot achieves her dream",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/abu-dhabi/from-paper-planes-to-etihad-airways-a-female-emirati-pilot-achieves-her-dream-1.500759179",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T14:06:29+00:00",
       "sectors": [
         {
           "id": "aeronautics",
@@ -56,30 +37,23 @@
       "relevance_score": 4
     },
     {
-      "id": "4654b1d03c15",
-      "title": "UAE launches nationwide mass wedding initiative to support 2,000 Emirati grooms",
+      "id": "cafbd1a592ac",
+      "title": "Abu Dhabi to showcase more than 80 AI projects at GITEX 2026",
       "summary": "",
-      "link": "https://gulfnews.com/uae/uae-launches-nationwide-mass-wedding-initiative-to-support-2000-emirati-grooms-1.500759674",
+      "link": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-to-showcase-more-than-80-ai-projects-at-gitex-2026-1.500759815",
       "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-24T16:25:51+00:00",
-      "sectors": [],
-      "bilateral_score": 4,
-      "relevance_score": 4
-    },
-    {
-      "id": "54bc3e1a8397",
-      "title": "Ras Al Khaimah bus-truck crash: Indians among 13 victims, Indian Consulate in Dubai confirms",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/ras-al-khaimah-bus-truck-crash-indians-among-victims-consulate-confirms-1.500759531",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T14:14:09+00:00",
-      "sectors": [],
-      "bilateral_score": 4,
-      "relevance_score": 4
+      "published": "2026-11-24T19:10:06+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
     },
     {
       "id": "70286b80ea78",
@@ -173,14 +147,27 @@
       "relevance_score": 2
     },
     {
-      "id": "12f5f0e491dc",
-      "title": "Hamdan Al Kamali: 'The UAE has given me so much. Now it's time to give back'",
+      "id": "5d899979fc11",
+      "title": "How Muhammad Tariq turned Dh30,000 into two epic Dubai businesses",
       "summary": "",
-      "link": "https://www.thenationalnews.com/sport/football/2026/11/24/hamdan-al-kamali-the-uae-has-given-me-so-much-now-its-time-to-give-back/",
-      "source": "The National",
+      "link": "https://gulfnews.com/uae-success-stories/how-muhammad-tariq-turned-dh30000-into-two-epic-dubai-businesses-1.500753209",
+      "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-24T08:00:01+00:00",
+      "published": "2026-11-24T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "64fbc16fa53e",
+      "title": "UAE strongly condemns Houthi attack on Riyadh that injured 11 people",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/uae-strongly-condemns-houthi-attack-on-riyadh-that-injured-11-people-1.500759811",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T19:54:15+00:00",
       "sectors": [],
       "bilateral_score": 2,
       "relevance_score": 2
@@ -212,34 +199,60 @@
       "relevance_score": 2
     },
     {
-      "id": "cef6c1925468",
-      "title": "Middle East war: 8 things UAE residents need to know tonight, November 24",
+      "id": "d4f7963c75d4",
+      "title": "Whoop opens retail store and performance centre in Qatar",
       "summary": "",
-      "link": "https://gulfnews.com/uae/middle-east-war-8-things-uae-residents-need-to-know-tonight-november-24-1.500759752",
-      "source": "Gulf News",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/24/whoop-doha-qatar-store/",
+      "source": "The National",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-24T17:21:56+00:00",
+      "published": "2026-11-24T21:15:10+00:00",
       "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
+      "bilateral_score": 0,
+      "relevance_score": 1
     },
     {
-      "id": "3f05fbf960b5",
-      "title": "Profits soar by up to 759%: 10 UAE companies leading earnings growth",
+      "id": "fb01e2f52e63",
+      "title": "Democrats want Iran war to end now and might support government shutdown to stop it, poll shows",
       "summary": "",
-      "link": "https://gulfnews.com/business/profits-soar-by-up-to-759-10-uae-companies-leading-earnings-growth-1.500759690",
-      "source": "Gulf News",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/24/iran-war-poll-democrats-funding/",
+      "source": "The National",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-24T16:18:29+00:00",
+      "published": "2026-11-24T20:42:13+00:00",
       "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
+      "bilateral_score": 0,
+      "relevance_score": 1
     },
     {
-      "id": "e19985ad28b3",
-      "title": "Nvidia sell-off resumes day after historic rally",
+      "id": "1c9a521878e7",
+      "title": "UK Foreign Secretary condemns Israel's ‘horrifying’ Gaza blockade as ‘collective punishment’ for Palestinians",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/24/ed-miliband-condemns-israels-horrifying-gaza-blockade-as-collective-punishment-for-palestinians/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T19:46:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "241f060f72c4",
+      "title": "Is Nvidia too big to fail or is Jensen Huang temporarily irreplaceable?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/24/is-nvidia-too-big-to-fail-or-is-jensen-huang-temporarily-irreplaceable/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T19:45:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "08a6bdff427e",
+      "title": "Bull trap? Nvidia sell-off resumes day after historic rally",
       "summary": "",
       "link": "https://www.thenationalnews.com/business/markets/2026/11/24/whats-a-bull-trap-nvidia-ai-stocks-nasdaq-djia-sp500/",
       "source": "The National",
@@ -491,46 +504,66 @@
       "relevance_score": 1
     },
     {
-      "id": "f079824a3c2a",
-      "title": "Pakistani pilot Zeeshan Ali to become first foreign astronaut on Chinese space mission",
+      "id": "d52a8200c353",
+      "title": "Cristiano Ronaldo scores 987th career goal but Joao Felix steals the show with stunning bicycle kick",
       "summary": "",
-      "link": "https://www.thenationalnews.com/news/asia/2026/11/24/pakistani-pilot-zeeshan-ali-to-become-first-foreign-astronaut-on-chinese-space-mission/",
-      "source": "The National",
+      "link": "https://gulfnews.com/sport/football/cristiano-ronaldo-scores-987th-career-goal-but-joao-felix-steals-the-show-with-stunning-bicycle-kick-1.500759855",
+      "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-24T08:07:11+00:00",
-      "sectors": [
-        {
-          "id": "space",
-          "label": "Space",
-          "score": 1
-        }
-      ],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "f7c7e7c227ea",
-      "title": "Landmine casualties hit five-year high as refugees return to Syria",
-      "summary": "",
-      "link": "https://www.thenationalnews.com/news/mena/2026/11/24/landmine-casualties-hit-five-year-high-as-refugees-return-to-syria/",
-      "source": "The National",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T08:00:41+00:00",
+      "published": "2026-11-24T20:55:59+00:00",
       "sectors": [],
       "bilateral_score": 0,
       "relevance_score": 1
     },
     {
-      "id": "1a88d324d607",
-      "title": "Louis Theroux's documentary on Israeli settlers wins International Emmy",
+      "id": "d5c3a6346d85",
+      "title": "noon Yellow Friday Sale: Top 6 refrigerators, from compact to family-sized",
       "summary": "",
-      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/24/louis-therouxs-documentary-on-israeli-settlers-wins-international-emmy/",
-      "source": "The National",
+      "link": "https://gulfnews.com/best-buys/noon-yellow-friday-sale-top-6-refrigerators-from-compact-to-family-sized-1.500759029",
+      "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-24T07:40:33+00:00",
+      "published": "2026-11-24T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "56d264eb1ef1",
+      "title": "Gunmen hold 25 people hostage in supermarket in Colombian tourist city of Cartagena",
+      "summary": "Twenty-five hostages taken in botched robbery in Colombia&apos;s Cartagena",
+      "link": "https://gulfnews.com/world/americas/gunmen-hold-25-people-hostage-in-supermarket-in-colombian-tourist-city-of-cartagena-1.500759821",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T19:51:06+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9c15d5d9b084",
+      "title": "Sheikh Hasina announces December 16 return to Bangladesh despite death sentence",
+      "summary": "Ousted leader Hasina plans to return to Bangladesh from exile on Dec. 16, spokesperson says",
+      "link": "https://gulfnews.com/world/asia/sheikh-hasina-announces-december-16-return-to-bangladesh-despite-death-sentence-1.500758726",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T19:32:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "74057208ab4b",
+      "title": "Jannik Sinner undergoes knee surgery, Australian Open return uncertain",
+      "summary": "Jannik Sinner undergoes &apos;minor&apos; surgery on his troublesome right knee",
+      "link": "https://gulfnews.com/sport/tennis/jannik-sinner-undergoes-knee-surgery-australian-open-return-uncertain-1.500759767",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T19:17:03+00:00",
       "sectors": [],
       "bilateral_score": 0,
       "relevance_score": 1
@@ -588,32 +621,6 @@
       "relevance_score": 1
     },
     {
-      "id": "859d57b52d3c",
-      "title": "Kuwait approves GCC excise tax agreement: What could be taxed?",
-      "summary": "",
-      "link": "https://gulfnews.com/world/gulf/kuwait/kuwait-approves-gcc-excise-tax-agreement-what-could-be-taxed-1.500759724",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T16:47:30+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "a5aa29e100ba",
-      "title": "Saudi Arabia approves $371 billion budget for 2027, projects $50.8 billion deficit",
-      "summary": "",
-      "link": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-approves-371-billion-budget-for-2027-projects-508-billion-deficit-1.500759709",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T16:31:58+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
       "id": "62df976fc50d",
       "title": "Senegal are AFCON champions again: justice served, football wins in legal battle",
       "summary": "",
@@ -622,97 +629,6 @@
       "source_lang": "en",
       "category": "uae",
       "published": "2026-11-24T16:18:51+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "590d71dbd060",
-      "title": "French ex-president Sarkozy, wife to be tried over witness tampering",
-      "summary": "French ex-president Sarkozy, wife to be tried over witness tampering",
-      "link": "https://gulfnews.com/world/europe/french-ex-president-sarkozy-wife-to-be-tried-over-witness-tampering-1.500759654",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T16:03:45+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "cca1f0d70725",
-      "title": "Nvidia shares tumble, weighing on Nasdaq",
-      "summary": "Nvidia shares tumble, weighing on Nasdaq",
-      "link": "https://gulfnews.com/technology/nvidia-shares-tumble-weighing-on-nasdaq-1.500759598",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T15:57:51+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "666b0a0262ab",
-      "title": "‘You do feel the pressure’: Vaibhav Sooryavanshi on his record-breaking double century",
-      "summary": "",
-      "link": "https://gulfnews.com/sport/cricket/you-do-feel-pressure-vaibhav-sooryavanshi-on-his-record-breaking-double-century-1.500759664",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T15:46:10+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "fd9c23c07867",
-      "title": "Saudi civil defence says 11 injured in Houthi attack on financial district",
-      "summary": "Saudi civil defence says 11 injured in Houthi attack on finincial district",
-      "link": "https://gulfnews.com/world/gulf/saudi/saudi-civil-defence-says-11-injured-in-houthi-attack-on-financial-district-1.500759629",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T15:32:01+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "0b891e9ee382",
-      "title": "MENAFATF Plenary opened to strengthen regional cooperation against financial crime",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/abu-dhabi/menafatf-plenary-opened-to-strengthen-regional-cooperation-against-financial-crime-1.500759345",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T14:54:38+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "e7d63ec1ac65",
-      "title": "'Nice to be here': Prince William makes first Downing Street visit",
-      "summary": "&apos;Nice to be here&apos;: Prince William makes first Downing Street visit",
-      "link": "https://gulfnews.com/world/europe/nice-to-be-here-prince-william-makes-first-downing-street-visit-1.500759532",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T14:54:24+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "6d7a0f0513f6",
-      "title": "Oman accident: 4 dead, 26 injured in school bus crash, a day after four killed",
-      "summary": "",
-      "link": "https://gulfnews.com/world/gulf/oman/oman-accident-15-injured-in-vehicle-school-bus-collision-1.500758799",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-24T05:12:48+00:00",
       "sectors": [],
       "bilateral_score": 0,
       "relevance_score": 1
@@ -725,7 +641,7 @@
     },
     "ai_tech": {
       "label": "AI & New Technologies",
-      "count": 1
+      "count": 2
     },
     "climate": {
       "label": "Climate Transition",
@@ -741,11 +657,11 @@
     },
     "aeronautics": {
       "label": "Aeronautics",
-      "count": 2
+      "count": 1
     },
     "space": {
       "label": "Space",
-      "count": 1
+      "count": 0
     },
     "fintech": {
       "label": "Fintech",
