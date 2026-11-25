@@ -1,0 +1,764 @@
+{
+  "generated_at": "2026-11-25T21:07:31.998500+00:00",
+  "generated_at_cet": "2026-11-25 22:07",
+  "total_articles": 52,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "70a5d93c8111",
+      "title": "Canadian Finance Minister says his country and the UAE are 'open for business'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/economy/2026/11/25/canadian-finance-minister-says-his-country-and-the-uae-are-open-for-business/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T15:41:23+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "9c23b28a66b5",
+      "title": "Madagascar : Marco Tsaradia élu président de l’Assemblée nationale, après la destitution de Siteny Randrianasoloniaiko, accusé d’abus de pouvoir",
+      "summary": "M. Randrianasoloniaiko est régulièrement présenté comme l’un des artisans du rapprochement de Madagascar avec la Russie depuis l’arrivée au pouvoir du colonel Michaël Randrianirina, en octobre 2025.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/25/madagascar-marco-tsaradia-elu-president-de-l-assemblee-nationale-apres-la-destitution-de-siteny-randrianasoloniaiko-accuse-d-abus-de-pouvoir_6815172_3212.html",
+      "source": "Le Monde International",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-25T19:32:42+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "37cd73385961",
+      "title": "UAE raises clean energy target to 35% by 2031: Minister of Energy",
+      "summary": "UAE raises clean energy target to 35% by 2031: Minister of Energy",
+      "link": "https://gulfnews.com/uae/government/uae-raises-clean-energy-target-to-35-by-2031-minister-of-energy-1.500761170",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T19:56:58+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "647735294f5a",
+      "title": "Malakut Business Forum draws 500-plus delegates to Dubai as leaders tackle conflict, credit and AI",
+      "summary": "",
+      "link": "https://gulfnews.com/business/malakut-business-forum-draws-500-plus-delegates-to-dubai-as-leaders-tackle-conflict-credit-and-ai-1.500761126",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:33:31+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "b621fb403c4d",
+      "title": "Dubai Police use AI to recreate traffic accidents in 3D simulations",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dubai/dubai-police-use-ai-to-recreate-traffic-accidents-in3d-simulations-1.500760719",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T13:58:00+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "70286b80ea78",
+      "title": "Le gouvernement aurait-il pu éviter le mouvement des gilets jaunes en 2018 ?",
+      "summary": "« J'avais tiré la sonnette d'alarme », a indiqué Louis Pautrel, maire UDI du Ferré et vice-président de l'Association des maires ruraux de France, au sujet du mouvement des Gilets jaunes en 2018. Il était interrogé par notre journaliste Raphaël Legendre ce lundi, sur le plateau de LCP, en partenariat avec Radio Classique.",
+      "link": "https://www.challenges.fr/economie/le-gouvernement-aurait-il-pu-eviter-le-mouvement-des-gilets-jaunes-en-2018_647153",
+      "source": "Challenges",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-24T14:12:33+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3180e66c1b32",
+      "title": "China Securities opens first overseas office in Dubai to boost Middle East ties",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/banking/2026/11/25/china-securities-opens-first-overseas-office-in-dubai-to-boost-middle-east-ties/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T16:51:17+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "3fe2042d7552",
+      "title": "Filipino among Ras Al Khaimah bus crash victims, embassy says",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/25/filipino-killed-ras-al-khaimah-bus-truck-crash-injured-hospital/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T15:53:28+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b545057a3d0a",
+      "title": "Dubai Islamic Bank to acquire Emirates Islamic to form Dh585bn company",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/banking/2026/11/25/dubai-islamic-bank-to-acquire-emirates-islamic-to-form-dh585bn-major/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T15:51:23+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "8f2a727cdeb3",
+      "title": "Dubai yacht industry cautiously optimistic as it braces for difficult two years",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/25/dubais-yacht-industry-cautiously-optimistic-as-it-braces-for-difficult-two-years/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T13:28:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "838cb216f0e0",
+      "title": "UAE Education Minister responds after emotional pupil suspension video sparks online debate",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/25/uae-education-minister-responds-after-emotional-pupil-suspension-video-sparks-online-debate/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T12:00:27+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "bfcfde9a0adf",
+      "title": "LLMs are so last year: Why Jack Hidary says AI's future runs on numbers not words",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/11/25/llms-are-so-last-year-why-jack-hidary-says-ais-future-runs-on-numbers-not-words/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T11:31:58+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 2
+    },
+    {
+      "id": "d271967546d1",
+      "title": "Dubai hosts mass wedding with 277 grooms at Expo City",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/25/uae-mass-wedding-afrah-al-emarat/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T10:09:37+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fba5f1b847ac",
+      "title": "UAE Cabinet approves children’s charter setting out 10 cultural rights",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/25/uae-approves-fedai-platform-to-build-fastest-and-most-efficient-government/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T09:43:51+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "18f5519b6a25",
+      "title": "‘When we put the black jersey on, it demands a lot’: New Zealand aim to lift spirits at Dubai Sevens",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/25/when-we-put-the-black-jersey-on-it-demands-a-lot-new-zealand-aim-to-lift-spirits-at-dubai-sevens/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T09:20:52+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "6ff8f12a2449",
+      "title": "Sharjah Old Cars Club wins luxury car award in Qatar",
+      "summary": "Sharjah Old Cars Club wins luxury car award in Qatar",
+      "link": "https://gulfnews.com/auto/c3fmbiz-sharjah-old-cars-club-wins-luxury-car-award-qatar-1.500761064",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:57:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f85182fbac90",
+      "title": "Dh30m UAE Lottery: Check your numbers – you could be among the winners",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dh30m-uae-lottery-check-your-numbers-you-could-be-among-the-winners-1.500760799",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:40:37+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9fb9968eede5",
+      "title": "Why does the UAE sea sometimes glow blue at night?",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/why-does-the-uae-sea-sometimes-glow-blue-at-night-1.500760150",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ec275cdd07fb",
+      "title": "US gives SpaceX approval for data centres in space",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/2026/11/25/data-centers-in-space/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T19:25:56+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ca60828f5347",
+      "title": "US-led group reaches deal to acquire Lukoil's global assets",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/25/todd-boehly-lukoil/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:52:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9984b4f56fa0",
+      "title": "At least 30 killed after tanker explosion in Cairo",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/at-least-21-killed-after-tanker-explosion-near-cairo/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:20:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0db025dcdc8d",
+      "title": "Will Nvidia's Jensen Huang be sworn in during Congress testimony?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/future/technology/2026/11/25/when-will-jensen-huang-testify-in-congress/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:00:18+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9574b4ce35a4",
+      "title": "Lebanese public transport drivers jam roads in nationwide protests",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/lebanese-public-transport-drivers-jam-roads-in-nationwide-protests/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T16:45:34+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7e53a21a8bc6",
+      "title": "Sudan war grinds on with RSF seeking to stretch SAF's resources thin",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/sudan-war-grinds-on-with-rsf-seeking-to-stretch-safs-resources-thin/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T16:06:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fc3b553a86f9",
+      "title": "Iraq's National Security Service reports two more oil smuggling operations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/iraqs-national-security-service-reports-two-more-oil-smuggling-operations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T16:03:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4faa015dfb00",
+      "title": "Sheikha Shamma chairs first meeting of Al Yalsa Advisory Council",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/25/sheikha-shamma-chairs-first-meeting-of-al-yalsa-advisory-council/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T14:43:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4486772bd215",
+      "title": "US proposes tariffs on trade partners including China, India and EU",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/25/us-proposes-tariffs-on-trade-partners-including-china-india-and-eu/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T14:41:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "574b66de3367",
+      "title": "Ignorance of Asia is widespread in Europe and the US",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/25/kaja-kallas-europe-russia-china-us/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "17d332d8ba1a",
+      "title": "Israeli opposition divided as deadline looms to form government",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/israeli-opposition-divided-as-deadline-looms-to-form-government/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T13:37:32+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c6a32848b467",
+      "title": "German politician expelled by party for extreme Israel stance",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/25/german-politician-expelled-by-party-for-extreme-israel-stance/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T13:15:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b440fb26b011",
+      "title": "Iran suspends execution of two protesters",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/iran-suspends-execution-of-two-protesters/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T13:09:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "868989a51842",
+      "title": "Nuclear Israel in the spotlight: Ageing reactor, six submarines and 50 missiles",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/ageing-reactor-six-submarines-and-50-missiles-nuclear-israel-in-the-spotlight/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T12:22:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "511a98582c87",
+      "title": "Saudi defences destroy drones in Ras Tanura as footage shows smoke from refinery",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/25/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T12:00:54+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0a3b3cb1c843",
+      "title": "Iraqi oil smuggled through Kurdistan to Iran and Afghanistan, government report reveals",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/25/iraqi-oil-from-kurdistan-smuggled-into-iran-and-afghanistan-government-report-reveals/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T10:50:39+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "49a912432a44",
+      "title": "Misconceptions about immigration 'widespread' in UK",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/25/misconceptions-about-immigration-widespread-in-uk/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T10:43:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7264c1428197",
+      "title": "UK households to suffer energy bill shock caused by Middle East crisis",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/25/uk-households-to-suffer-energy-bill-shock-caused-by-middle-east-crisis/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T10:43:18+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d692207da799",
+      "title": "Gatwick Airport hacked: Cyber-attack may have exposed customers’ bank details",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/aviation/2026/11/25/gatwick-airport-hacked-cyber-attack-may-have-exposed-customers-bank-details/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T09:58:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7a4e609ed61b",
+      "title": "How Tarkan became Turkey's 'Megastar' and took Turkish pop to the world",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/11/25/how-tarkan-became-turkeys-megastar-and-took-turkish-pop-to-the-world/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T09:01:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2ad0d8ed40d8",
+      "title": "Middle East conflict: Trump says Iran war funded through January amid Saudi, Yemen escalation",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T03:17:19+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b11e8f850ec1",
+      "title": "noon Yellow Friday Sale: Top 5 mini LED TVs for films, sport and gaming",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/noon-yellow-friday-sale-top-5-mini-led-tvs-for-films-sport-and-gaming-1.500760497",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4deeb87a77d4",
+      "title": "Nepal moves to declare 213 missing Indians dead",
+      "summary": "Nepal moves to declare 213 missing Indians dead",
+      "link": "https://gulfnews.com/world/asia/nepal-moves-to-declare-213-missing-indians-dead-1.500761112",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T19:26:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "dff2830c2191",
+      "title": "Colombia police reveal 76 hostages were caught in supermarket siege",
+      "summary": "Colombia police reveal 76 hostages were caught in supermarket siege",
+      "link": "https://gulfnews.com/world/americas/colombia-police-reveal-76-hostages-were-caught-in-supermarket-siege-1.500761124",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T19:15:59+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fa09f2b919f9",
+      "title": "Gordon Ramsay to take the lead in revival of BBC's flagship motoring programme Top Gear",
+      "summary": "Gordon Ramsay to take the lead in revival of BBC&apos;s flagship motoring program Top Gear",
+      "link": "https://gulfnews.com/entertainment/gordon-ramsay-to-take-the-lead-in-revival-of-bbcs-flagship-motoring-programme-top-gear-1.500761142",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T19:05:14+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "616cef08d6cd",
+      "title": "Death toll rises to 30 in Egypt Ring Road tanker fire",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/death-toll-rises-to-30-in-egypt-ring-road-tanker-fire-1.500761119",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:35:16+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "92cd05fc4d20",
+      "title": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip",
+      "summary": "Plane crash off the coast of Mississippi kills extended family of 6 on fishing trip",
+      "link": "https://gulfnews.com/world/americas/plane-crash-off-the-coast-of-mississippi-kills-extended-family-of-6-on-fishing-trip-1.500761118",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:31:33+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "432830261e8d",
+      "title": "Row over 'grotesque' influencer erupts in UK parliament",
+      "summary": "Row over &apos;grotesque&apos; influencer erupts in UK parliament",
+      "link": "https://gulfnews.com/world/europe/row-over-grotesque-influencer-erupts-in-uk-parliament-1.500761015",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:13:46+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b007dcf696a6",
+      "title": "Two men charged with stealing cufflinks and a clock in break-in at British royal couple's country home",
+      "summary": "UK police charge 2 men over a break-in at Prince William and Princess Catherine’s country home",
+      "link": "https://gulfnews.com/world/europe/two-men-charged-with-stealing-cufflinks-and-a-clock-in-break-in-at-british-royal-couples-country-home-1.500760436",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T18:01:51+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "991f4bd52bb4",
+      "title": "Kenya cult leader found guilty of new assault and cruelty charges",
+      "summary": "Kenya cult leader found guilty of new assault and cruelty charges",
+      "link": "https://gulfnews.com/world/africa/kenya-cult-leader-found-guilty-of-new-assault-and-cruelty-charges-1.500761083",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:45:25+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a2e397af1b2e",
+      "title": "Violating oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iran",
+      "summary": "Violating oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iran",
+      "link": "https://gulfnews.com/world/mena/violating-oil-tanker-catches-fire-after-hitting-naval-mines-near-strait-of-hormuz-iran-1.500761057",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:27:32+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "f7afc6fe8af0",
+      "title": "Saudi-led coalition says Houthi projectile hits Jazan Port, causing minor damage",
+      "summary": "",
+      "link": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-says-houthi-projectile-hits-jazan-port-causing-minor-damage-1.500761056",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:19:50+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d72a2d7bee36",
+      "title": "Canada pushing controversial bill on personal data access",
+      "summary": "Canada pushing controversial bill on personal data access",
+      "link": "https://gulfnews.com/world/americas/canada-pushing-controversial-bill-on-personal-data-access-1.500761011",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-25T17:17:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c419c4cde54a",
+      "title": "Jude Bellingham scores one of the goals of the season, leaves Rafael Nadal stunned as Real Madrid stage comeback",
+      "summary": "",
+      "link": "https://gulfnews.com/sport/football/jude-bellingham-scores-one-of-the-goals-of-the-season-leaves-rafael-nadal-stunned-as-real-madrid-stage-comeback-1.500759878",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-24T21:57:12+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 3
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 4
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 0
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
