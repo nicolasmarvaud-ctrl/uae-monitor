@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T17:49:06.857572+00:00",
-  "generated_at_cet": "2026-11-26 18:49",
-  "total_articles": 52,
+  "generated_at": "2026-11-26T20:58:39.187716+00:00",
+  "generated_at_cet": "2026-11-26 21:58",
+  "total_articles": 42,
   "sources_fetched": 26,
   "articles": [
     {
@@ -37,30 +37,42 @@
       "relevance_score": 4
     },
     {
-      "id": "1720c7f4fdb1",
-      "title": "UAE concludes MENAFATF Plenary in Abu Dhabi, Bahrain to lead in 2027",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/abu-dhabi/uae-concludes-menafatf-plenary-in-abu-dhabi-bahrain-to-lead-in-2027-1.500762225",
+      "id": "ab55f58523d6",
+      "title": "UAE launches AI education guide for parents: What families need to know",
+      "summary": "Ministry of Education, AI Office launch ‘Parent’s Guide to Artificial Intelligence in Education’",
+      "link": "https://gulfnews.com/uae/education/uae-launches-ai-education-guide-for-parents-what-families-need-to-know-1.500762419",
       "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-26T14:57:36+00:00",
-      "sectors": [],
-      "bilateral_score": 4,
+      "published": "2026-11-26T18:52:51+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
       "relevance_score": 4
     },
     {
-      "id": "7d7601e4b68a",
-      "title": "UAE National Day hotel deals: 9 Dubai staycations with savings of up to 30%",
-      "summary": "",
-      "link": "https://gulfnews.com/lifestyle/uae-national-day-hotel-deals-9-dubai-staycations-with-savings-of-up-to-30-1.500762099",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T14:21:08+00:00",
-      "sectors": [],
-      "bilateral_score": 4,
-      "relevance_score": 4
+      "id": "7cbdade2b787",
+      "title": "RTL : les journalistes dénoncent le management de la direction de la rédaction sur fond d’inquiétudes sur la baisse des moyens alloués",
+      "summary": "Le directeur général, Jonathan Curiel, a pris la parole, jeudi, devant la rédaction pour tenter d’apaiser les tensions au sein de la radio du groupe M6. La maison mère est aussi accusée « d’appauvrir » la station.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/26/rtl-les-journalistes-denoncent-le-management-de-la-direction-de-la-redaction-sur-fond-d-inquietudes-sur-la-baisse-des-moyens-alloues_6815588_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-26T18:00:14+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
     },
     {
       "id": "09ef51b253ce",
@@ -101,33 +113,14 @@
       "relevance_score": 3
     },
     {
-      "id": "0c50f99e6fc6",
-      "title": "REWATCH: ADNOC's 'Energy of Our Nation' operetta celebrates 55th Eid Al Etihad",
+      "id": "9d6813b0a365",
+      "title": "Abu Dhabi to host Culture Summit 2026 with focus on shared spaces",
       "summary": "",
-      "link": "https://gulfnews.com/uae/abu-dhabi/adnocs-energy-of-our-nation-operetta-55th-eid-al-etihad-1.500762165",
-      "source": "Gulf News",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/abu-dhabi-to-host-culture-summit-2026-with-focus-on-shared-spaces/",
+      "source": "The National",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-26T14:50:22+00:00",
-      "sectors": [
-        {
-          "id": "energy",
-          "label": "Energy",
-          "score": 1
-        }
-      ],
-      "bilateral_score": 2,
-      "relevance_score": 3
-    },
-    {
-      "id": "781ad55ca4d6",
-      "title": "En Grèce, le « mini-Dubaï » de la Méditerranée, zone immobilière de luxe, fortement contaminé aux PFAS",
-      "summary": "Le site de l’ancien aéroport d’Athènes, en cours de transformation en quartier résidentiel haut de gamme, est fortement contaminé aux polluants éternels, sans que cette information figure dans les documents du promoteur Lamda, selon une enquête de « Reporters United » et du « Monde ».",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/26/en-grece-le-mini-dubai-de-la-mediterranee-zone-immobiliere-de-luxe-fortement-contamine-aux-pfas_6815528_4355770.html",
-      "source": "Le Monde International",
-      "source_lang": "fr",
-      "category": "french",
-      "published": "2026-11-26T12:00:07+00:00",
+      "published": "2026-11-26T17:54:05+00:00",
       "sectors": [],
       "bilateral_score": 2,
       "relevance_score": 2
@@ -198,105 +191,27 @@
       "relevance_score": 2
     },
     {
-      "id": "fea925afaeca",
-      "title": "Abu Dhabi restaurants and cafes to display calorie counts on menus from June 2027",
+      "id": "20ffdadf016b",
+      "title": "Why Dubai families are buying to put down roots",
       "summary": "",
-      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/abu-dhabi-restaurants-and-cafes-to-display-calorie-counts-on-menus-from-june-2027/",
-      "source": "The National",
+      "link": "https://gulfnews.com/business/property/why-dubai-families-are-buying-to-put-down-roots-1.500761600",
+      "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-26T10:31:27+00:00",
+      "published": "2026-11-26T20:00:00+00:00",
       "sectors": [],
       "bilateral_score": 2,
       "relevance_score": 2
     },
     {
-      "id": "fa588f5c7614",
-      "title": "Research and innovation key to UAE’s university ambitions",
+      "id": "e4c206a23f2e",
+      "title": "Sharjah activates new emergency safety services for buildings",
       "summary": "",
-      "link": "https://gulfnews.com/gn-focus/research-and-innovation-key-to-uaes-university-ambitions-1.500762382",
+      "link": "https://gulfnews.com/uae/sharjah/sharjah-activates-new-emergency-safety-services-for-buildings-1.500762359",
       "source": "Gulf News",
       "source_lang": "en",
       "category": "uae",
-      "published": "2026-11-26T16:47:15+00:00",
-      "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
-    },
-    {
-      "id": "69b4d00a19b7",
-      "title": "Feve Chocolates, Dubai Autism Center sign MOU to train and employ students",
-      "summary": "",
-      "link": "https://gulfnews.com/gn-focus/feve-chocolates-dubai-autism-center-sign-mou-to-train-and-employ-students-1.500762347",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T16:25:35+00:00",
-      "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
-    },
-    {
-      "id": "976e4c70a08e",
-      "title": "Canada's financial firms follow trade deals to the UAE",
-      "summary": "",
-      "link": "https://gulfnews.com/business/canadas-financial-firms-follow-trade-deals-to-the-uae-1.500762250",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T15:51:51+00:00",
-      "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
-    },
-    {
-      "id": "f93f5ba800a0",
-      "title": "Middle East war: 9 things UAE residents need to know tonight, November 26",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/middle-east-war-9-things-uae-residents-need-to-know-tonight-november-26-1.500762280",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T15:44:38+00:00",
-      "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
-    },
-    {
-      "id": "be91ae2f836a",
-      "title": "How Abu Dhabi transformed a Ghanaian dancer into Mansour Al Ameri",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/abu-dhabi/how-abu-dhabi-transformed-a-ghanaian-dancer-into-mansour-al-ameri-1.500762161",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T15:07:02+00:00",
-      "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
-    },
-    {
-      "id": "678c752cd5ea",
-      "title": "Seven emirates, seven different ways to experience UAE winter",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/seven-emirates-seven-different-ways-to-experience-uae-winter-1.500760170",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T15:00:00+00:00",
-      "sectors": [],
-      "bilateral_score": 2,
-      "relevance_score": 2
-    },
-    {
-      "id": "b3e149e25078",
-      "title": "After beating Ronaldo's Al Nassr 4-0, Al Ain outclass another Saudi giant Al Ittihad 4-1 in Jeddah",
-      "summary": "",
-      "link": "https://gulfnews.com/sport/football/after-beating-ronaldos-al-nassr-4-0-al-ain-outclass-another-saudi-giant-al-ittihad-4-1-in-jeddah-1.500733994",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-03T09:07:56+00:00",
+      "published": "2026-11-26T17:50:56+00:00",
       "sectors": [],
       "bilateral_score": 2,
       "relevance_score": 2
@@ -562,6 +477,90 @@
       "relevance_score": 1
     },
     {
+      "id": "b1cb4b76095f",
+      "title": "Friday sermon, November 27, 2026: Why national unity is a blessing and a source of honour",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/friday-sermon-november-27-2026-why-national-unity-is-a-blessing-and-a-source-of-honour-1.500762495",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T20:02:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9cb162356f9a",
+      "title": "noon Yellow Friday Sale: Top 5 action cameras for travel and adventure",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/noon-yellow-friday-sale-top-5-action-cameras-for-travel-and-adventure-1.500761577",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1acfcd02eb94",
+      "title": "Middle East conflict: Saudi refinery attack kills worker, Iran denies deadly Kuwait strike",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-refinery-attack-kills-worker-iran-denies-deadly-kuwait-strike-1.500761343",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T03:34:59+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "43d3b3d391c9",
+      "title": "Trump demands investigation after US economic growth revised upwards to 4.3%",
+      "summary": "Trump calls for investigation into &apos;fake&apos; GDP figures",
+      "link": "https://gulfnews.com/world/americas/trump-demands-investigation-after-us-economic-growth-revised-upwards-to-43-1.500762440",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T18:08:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e2b7093ded0b",
+      "title": "noon’s biggest Yellow Friday Sale offers with up to 80% off",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/noons-biggest-yellow-friday-sale-offers-with-up-to-80-off-1.500762322",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T18:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c655e20c4efb",
+      "title": "WhatsApp finally lets you schedule messages: Here's how it works",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/whatsapp-finally-lets-you-schedule-messages-heres-how-it-works-1.500762434",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T17:49:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
       "id": "67378011bab9",
       "title": "High fat, high sugar, high salt: India’s Supreme Court orders warning labels on packaged foods",
       "summary": "High fat, sugar, salt? Food packs must warn you",
@@ -586,129 +585,6 @@
       "sectors": [],
       "bilateral_score": 0,
       "relevance_score": 1
-    },
-    {
-      "id": "9dfe63ad1680",
-      "title": "Middle East conflict: Saudi Arabia intercepts missiles and drones as Trump keeps Iran options open",
-      "summary": "",
-      "link": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-missiles-and-drones-as-trump-keeps-iran-options-open-1.500761343",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T03:34:59+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "6959285d0290",
-      "title": "Educators call for greater focus on skills and lifelong learning",
-      "summary": "",
-      "link": "https://gulfnews.com/gn-focus/educators-call-for-greater-focus-on-skills-and-lifelong-learning-1.500762374",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T16:40:15+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "d6861ca9de26",
-      "title": "European leaders choose Pablo Hernández de Cos to succeed Christine Lagarde as ECB president",
-      "summary": "",
-      "link": "https://gulfnews.com/business/economy/european-leaders-choose-pablo-hern%C3%A1ndez-de-cos-to-succeed-christine-lagarde-as-ecb-president-1.500762345",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T16:28:16+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "1daf09e1e287",
-      "title": "Sheikh Mohammed reviews Dh1.2 billion Hatta plan, opens Dh1.4 billion power plant",
-      "summary": "",
-      "link": "https://gulfnews.com/uae/government/sheikh-mohammed-reviews-dh12-billion-hatta-plan-opens-dh14-billion-power-plant-1.500762219",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T14:42:01+00:00",
-      "sectors": [
-        {
-          "id": "energy",
-          "label": "Energy",
-          "score": 1
-        }
-      ],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "f46b554179a3",
-      "title": "New York postpones Thanksgiving Day parade over major storm",
-      "summary": "",
-      "link": "https://gulfnews.com/world/americas/new-york-postpones-thanksgiving-day-parade-over-major-storm-2-1.500762211",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T14:27:47+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "a9ce5414c8df",
-      "title": "Freddie Flintoff and Brett Lee recreate iconic 2005 Ashes photograph",
-      "summary": "",
-      "link": "https://gulfnews.com/sport/cricket/freddie-flintoff-and-brett-lee-recreate-iconic-2005-ashes-photograph-1.500762182",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T14:06:35+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "635dc58c4db2",
-      "title": "Israel threatens fresh Gaza displacement of 1 million people",
-      "summary": "Israel says killed another Hamas official in latest Gaza strikes",
-      "link": "https://gulfnews.com/world/mena/israel-threatens-fresh-gaza-displacement-of-1-million-people-1.500761759",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T14:06:07+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "3bf40980a3c1",
-      "title": "Eyeing Apple AirPods? Don't miss these White Friday offers",
-      "summary": "",
-      "link": "https://gulfnews.com/best-buys/BestBuys-lifestyle/eyeing-apple-airpods-dont-miss-these-white-friday-offers-1.500760559",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T14:00:00+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
-    },
-    {
-      "id": "3e9f6596955b",
-      "title": "Two Italians killed, two others injured in Iranian drone attack on Kuwait",
-      "summary": "",
-      "link": "https://gulfnews.com/world/gulf/kuwait/two-italians-killed-two-others-injured-in-iranian-drone-attack-on-kuwait-1.500762119",
-      "source": "Gulf News",
-      "source_lang": "en",
-      "category": "uae",
-      "published": "2026-11-26T13:25:43+00:00",
-      "sectors": [],
-      "bilateral_score": 0,
-      "relevance_score": 1
     }
   ],
   "sector_summary": {
@@ -718,7 +594,7 @@
     },
     "ai_tech": {
       "label": "AI & New Technologies",
-      "count": 0
+      "count": 1
     },
     "climate": {
       "label": "Climate Transition",

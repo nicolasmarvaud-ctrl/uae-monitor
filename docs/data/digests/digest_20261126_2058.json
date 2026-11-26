@@ -1,0 +1,628 @@
+{
+  "generated_at": "2026-11-26T20:58:39.187716+00:00",
+  "generated_at_cet": "2026-11-26 21:58",
+  "total_articles": 42,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "779b095a96b7",
+      "title": "Operetta and top UAE singers centre stage at Adnoc's Eid Al Etihad celebrations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/adnoc-eid-al-etihad-uae-national-day-celebrations-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T15:19:32+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "deb4ee1e3367",
+      "title": "Public Art Abu Dhabi Biennial: What's on in Al Ain",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/in-focus/2026/11/26/public-art-abu-dhabi-biennial-whats-on-in-al-ain/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T12:38:11+00:00",
+      "sectors": [],
+      "bilateral_score": 4,
+      "relevance_score": 4
+    },
+    {
+      "id": "ab55f58523d6",
+      "title": "UAE launches AI education guide for parents: What families need to know",
+      "summary": "Ministry of Education, AI Office launch ‘Parent’s Guide to Artificial Intelligence in Education’",
+      "link": "https://gulfnews.com/uae/education/uae-launches-ai-education-guide-for-parents-what-families-need-to-know-1.500762419",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T18:52:51+00:00",
+      "sectors": [
+        {
+          "id": "ai_tech",
+          "label": "AI & New Technologies",
+          "score": 2
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 4
+    },
+    {
+      "id": "7cbdade2b787",
+      "title": "RTL : les journalistes dénoncent le management de la direction de la rédaction sur fond d’inquiétudes sur la baisse des moyens alloués",
+      "summary": "Le directeur général, Jonathan Curiel, a pris la parole, jeudi, devant la rédaction pour tenter d’apaiser les tensions au sein de la radio du groupe M6. La maison mère est aussi accusée « d’appauvrir » la station.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/26/rtl-les-journalistes-denoncent-le-management-de-la-direction-de-la-redaction-sur-fond-d-inquietudes-sur-la-baisse-des-moyens-alloues_6815588_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-26T18:00:14+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "09ef51b253ce",
+      "title": "UAE delegation and Lebanese PM Nawaf Salam discuss urgent support for energy sector",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/uae-delegation-and-lebanese-pm-nawaf-salam-discuss-urgent-support-for-energy-sector/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T13:52:52+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "56eacebe952b",
+      "title": "Nakheel awards Dh1.4bn contract to build 176 villas on Palm Jebel Ali",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/property/2026/11/26/nakheel-awards-dh14bn-contract-to-build-176-villas-on-palm-jebel-ali/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:18:44+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "9d6813b0a365",
+      "title": "Abu Dhabi to host Culture Summit 2026 with focus on shared spaces",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/abu-dhabi-to-host-culture-summit-2026-with-focus-on-shared-spaces/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T17:54:05+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "dc200a639dad",
+      "title": "Safety warning as UAE bans My Lisaa weight-loss products",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/safety-warning-as-uae-bans-my-lisaa-weight-loss-products/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:12:09+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "5e663dca7d33",
+      "title": "Sharjah archaeologists uncover rare 7,000-year-old turtle carvings in mountains",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/sharjah-archaeologists-uncover-rare-7000-year-old-sea-turtle-carvings-in-mountains/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T12:41:40+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "961311a849ce",
+      "title": "Lufthansa Group and Air France resume flights to Dubai",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/travel/2026/11/26/lufthansa-group-and-air-france-resume-flights-to-dubai/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:30:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "9389d91bd020",
+      "title": "UAE parents warned over adult content as youngsters are exposed to GTA 6",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/uae-parents-warned-over-adult-content-as-nine-year-olds-are-exposed-to-gta-6/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:14:57+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c659c3d0caa7",
+      "title": "Inside Al Fahidi Fort Museum: Dubai’s oldest building reopens with a new story to tell",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/26/inside-al-fahidi-fort-museum-dubais-oldest-building-reopens-with-a-new-story-to-tell/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T10:33:11+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "20ffdadf016b",
+      "title": "Why Dubai families are buying to put down roots",
+      "summary": "",
+      "link": "https://gulfnews.com/business/property/why-dubai-families-are-buying-to-put-down-roots-1.500761600",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e4c206a23f2e",
+      "title": "Sharjah activates new emergency safety services for buildings",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/sharjah/sharjah-activates-new-emergency-safety-services-for-buildings-1.500762359",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T17:50:56+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "0e7279333167",
+      "title": "Iraq's oil revenues hit $8.8bn as it prepares to ask for higher Opec quota",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/26/iraqs-oil-revenues-hit-88bn-as-it-prepares-to-ask-for-higher-opec-quota/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T17:37:11+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1c082dc22ecd",
+      "title": "ADIB raises $500m in perpetual sukuk to support growth strategy",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/11/26/adib-raises-500m-in-perpetual-sukuk-to-support-growth-strategy/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T16:23:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0b73b2f37f95",
+      "title": "Sheikh Mohammed opens Dh1.4 billion hydroelectric plant during Hatta visit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/26/sheikh-mohammed-opens-dh14-billion-hydroelectric-plant-during-hatta-visit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T16:08:47+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "fd26559b1454",
+      "title": "Sheikha Hoor Al Qasimi becomes first Arab curator of Venice Biennale",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/26/sheikha-hoor-al-qasimi-becomes-first-arab-curator-of-venice-biennale/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T15:57:08+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "d5f8e1ff6220",
+      "title": "Two Italian workers killed in Iranian drone attack on Kuwait",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/gulf/2026/11/26/two-italian-workers-killed-in-iranian-drone-attack-on-kuwait/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T15:47:54+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "30315c0f6453",
+      "title": "Two Iraqis arrested over Iran-backed plot to attack Jewish targets in Germany",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/26/two-iraqis-arrested-over-iran-backed-plot-to-attack-jewish-targets-in-germany/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T15:00:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "cfd5cdb4c20b",
+      "title": "Iraqi court jails 11 for oil smuggling in nationwide crackdown",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/iraqi-court-jails-11-for-oil-smuggling-in-nationwide-crackdown/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:57:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a3c9825c9d96",
+      "title": "UK net migration drops to lowest since 1997",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/26/uk-net-migration-drops-to-lowest-since-1997/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:08:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "84cf76db57c7",
+      "title": "Middle East latest: Two Italians killed in Iranian drone attack in Kuwait",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/live-iran-war-drone-strike-kuwait/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:02:02+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c12e3c277f0d",
+      "title": "Iran sustaining attacks in Europe 'despite arrests'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/europe/2026/11/26/iran-sustaining-attacks-in-europe-and-despite-arrests/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7a4f37110db2",
+      "title": "How Baghdad's takeover of Kurdistan oil can be detrimental for Iraq and the region",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/26/iraq-kurdistan-oil-us-erbil/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a2ad938cde8e",
+      "title": "Sovereign Wealth Fund Institute wants to bring $60tn purse to G20 investment summit",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/2026/11/26/swfi-chairman-wants-to-bring-60tn-purse-to-miami-investment-summit/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T14:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2073d20271a6",
+      "title": "Majid Al Mohandis leaves hospital after undergoing heart procedure",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/26/majid-al-mohandis-leaves-hospital-after-undergoing-heart-procedure/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T12:55:30+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "dad6e0e36436",
+      "title": "UK government ‘has not made case’ for third runway at Heathrow Airport",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/26/uk-government-has-not-made-case-for-third-runway-at-heathrow-airport/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T12:53:20+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e20e2dc3b550",
+      "title": "Egypt mourns dozens killed in horrific tanker explosion",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/egypt-mourns-dozens-of-deaths-in-horrific-road-accident/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T12:27:57+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "2001a49c10ae",
+      "title": "King of Jordan assured of Britain's ‘full support’ over Middle East crisis",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/26/king-of-jordan-assured-of-britains-full-support-over-middle-east-crisis/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T12:13:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a8ae7c57c874",
+      "title": "New Delhi asks Netflix to block its first Pakistani original series in India",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/26/new-delhi-asks-netflix-to-block-its-first-pakistani-original-series-in-india/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:56:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0a40828eeab5",
+      "title": "Benghazi drone strike exposes deep mistrust stalling Libya's unity",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/26/benghazi-drone-strike-exposes-deep-mistrust-stalling-libyas-unity/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:27:50+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b930062cb5e3",
+      "title": "Nomad, Frieze, GTA 6 and building cultural capital",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/podcasts/culture-bites/2026/11/26/nomad-frieze-gta-6-and-building-cultural-capital/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:17:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "7082dffc4180",
+      "title": "Cristiano Ronaldo and Al Nassr look to get back to winning ways in Saudi Pro League after Al Ahli setback",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/26/cristiano-ronaldo-and-al-nassr-look-to-get-back-to-winning-ways-in-saudi-pro-league-after-al-ahli-setback/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T11:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "b1cb4b76095f",
+      "title": "Friday sermon, November 27, 2026: Why national unity is a blessing and a source of honour",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/friday-sermon-november-27-2026-why-national-unity-is-a-blessing-and-a-source-of-honour-1.500762495",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T20:02:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "9cb162356f9a",
+      "title": "noon Yellow Friday Sale: Top 5 action cameras for travel and adventure",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/noon-yellow-friday-sale-top-5-action-cameras-for-travel-and-adventure-1.500761577",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "1acfcd02eb94",
+      "title": "Middle East conflict: Saudi refinery attack kills worker, Iran denies deadly Kuwait strike",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-refinery-attack-kills-worker-iran-denies-deadly-kuwait-strike-1.500761343",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T03:34:59+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "43d3b3d391c9",
+      "title": "Trump demands investigation after US economic growth revised upwards to 4.3%",
+      "summary": "Trump calls for investigation into &apos;fake&apos; GDP figures",
+      "link": "https://gulfnews.com/world/americas/trump-demands-investigation-after-us-economic-growth-revised-upwards-to-43-1.500762440",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T18:08:48+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e2b7093ded0b",
+      "title": "noon’s biggest Yellow Friday Sale offers with up to 80% off",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/noons-biggest-yellow-friday-sale-offers-with-up-to-80-off-1.500762322",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T18:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "c655e20c4efb",
+      "title": "WhatsApp finally lets you schedule messages: Here's how it works",
+      "summary": "",
+      "link": "https://gulfnews.com/technology/whatsapp-finally-lets-you-schedule-messages-heres-how-it-works-1.500762434",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T17:49:17+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "67378011bab9",
+      "title": "High fat, high sugar, high salt: India’s Supreme Court orders warning labels on packaged foods",
+      "summary": "High fat, sugar, salt? Food packs must warn you",
+      "link": "https://gulfnews.com/world/asia/india/high-fat-high-sugar-high-salt-india-s-supreme-court-orders-warning-labels-on-packaged-foods-1.500761938",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T17:05:49+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "4e96d4c27926",
+      "title": "Leave the US or lose your job: IBM’s visa move puts Indian tech workers in a bind",
+      "summary": "IBM visa move puts Indian tech workers in a bind",
+      "link": "https://gulfnews.com/world/asia/india/leave-the-us-or-lose-your-job-ibm-s-visa-move-puts-indian-tech-workers-in-a-bind-1.500761830",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T16:59:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 4
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 1
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 1
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
