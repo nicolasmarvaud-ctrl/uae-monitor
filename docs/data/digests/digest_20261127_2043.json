@@ -1,0 +1,713 @@
+{
+  "generated_at": "2026-11-27T20:43:33.361902+00:00",
+  "generated_at_cet": "2026-11-27 21:43",
+  "total_articles": 49,
+  "sources_fetched": 26,
+  "articles": [
+    {
+      "id": "bf6f061bb679",
+      "title": "Eid Al Etihad 2026: Celebrations at six Aldar malls in Abu Dhabi, Al Ain and Ras Al Khaimah",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/eid-al-etihad-2026-celebrations-at-six-aldar-malls-in-abu-dhabi-al-ain-and-ras-al-khaimah-1.500763640",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T18:25:18+00:00",
+      "sectors": [],
+      "bilateral_score": 8,
+      "relevance_score": 8
+    },
+    {
+      "id": "1edaad9a5bcb",
+      "title": "Welcome to Al Dhafra: Two new Etihad Rail stations to open up access to Abu Dhabi's desert towns",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/27/etihad-rail-stations-al-dhafra-liwa-madinat-zayed-abu-dhabi/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:40:00+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "6b19ba9af1ef",
+      "title": "Dh100 billion Saadiyat development to house over 58,000 residents and feature underground Etihad Rail station",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/dh100-billion-saadiyat-development-to-house-over-58000-residents-and-feature-underground-etihad-rail-station-1.500763568",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:21:06+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 4,
+      "relevance_score": 5
+    },
+    {
+      "id": "6b31fdfc8173",
+      "title": "Etihad Rail opens two Al Dhafra stations ready for Liwa International Festival",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/27/etihad-rail-opens-two-al-dhafra-stations-ready-for-liwa-international-festival/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T18:17:26+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "d804f76121de",
+      "title": "Sheikh Hamdan bin Zayed Al Nahyan opens two new Etihad Rail stations",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/transport/sheikh-hamdan-bin-zayed-al-nahyan-opens-two-new-etihad-rail-stations-1.500763582",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:11:56+00:00",
+      "sectors": [
+        {
+          "id": "logistics",
+          "label": "Logistics",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 2,
+      "relevance_score": 3
+    },
+    {
+      "id": "3c4f7a5291bb",
+      "title": "Radio France demande des sanctions alourdies pour les auteurs de violences contre des journalistes",
+      "summary": "La PDG du groupe public, Sibyle Veil, plaide pour que le code pénal prévoie que l’agression d’un journaliste constitue une « circonstance aggravante ». France Télévisions et BFM-TV annoncent au « Monde » soutenir la proposition.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html",
+      "source": "Le Monde Economie",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-27T11:37:26+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "793f108ce3c2",
+      "title": "L'intégrale de BFM Bourse du vendredi 27 novembre",
+      "summary": "Ce vendredi 27 novembre, Antoine Larigaudrie, journaliste à BFM Business, Thierry Gautier, directeur général de GSD Gestion, Arthur Bernasconi, co-gérant et analyste financier chez Gay-Lussac Gestion, Nadia Gharbi, économiste senior chez Pictet Wealth Management, Julie Cohen-Heurton, journaliste BFM Business, Jean-François Bay, directeur de BOURSOFIRST, Louis Reinhart, gérant Tech Sycomore AM, Jean-Edwin Rhea, fund manager de SUNNY AM, Valentin Nicaud, membre de la cellule infos d'expert de Bour",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-vendredi-27-novembre_EN-202611270756.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-27T17:09:05+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b9f77fbc45f5",
+      "title": "L'éco du monde : S&P actualise la note de la France – 27/11",
+      "summary": "Ce vendredi 27 novembre, Nadia Gharbi, économiste senior chez Pictet Wealth Management, a abordé la récession de l'économie française depuis le deuxième trimestre 2026 et l'arrivée de l'Espagnol Pablo Hernández de Cos pour remplacer Christine Lagarde à la tête de la BCE, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-s-p-actualise-la-note-de-la-france-27-11_EN-202611270690.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-27T15:34:02+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "b899cce97f9e",
+      "title": "L'éco du monde : S&P actualise la note de la France - 27/11",
+      "summary": "Ce vendredi 27 novembre, Nadia Gharbi, économiste senior chez Pictet Wealth Management, a abordé la récession de l'économie française depuis le deuxième trimestre 2026 et l'arrivée de l'Espagnol Pablo Hernández de Cos pour remplacer Christine Lagarde à la tête de la BCE, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du lundi au vendredi sur BFM Business.",
+      "link": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-l-eco-du-monde-s-p-actualise-la-note-de-la-france-27-11_VN-202611270691.html",
+      "source": "BFM Business",
+      "source_lang": "fr",
+      "category": "french",
+      "published": "2026-11-27T15:32:32+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "ad1da266f995",
+      "title": "UAE Property: 'Is traffic congestion a turn-off for buyers?'",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/money/2026/11/27/uae-property-is-traffic-congestion-a-turn-off-for-buyers/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:42:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a931fb3eae1c",
+      "title": "Review: Star-studded glamping at Al Quaa, the UAE's Milky Way spot",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/11/27/review-star-studded-glamping-at-al-quaa-the-uaes-milky-way-spot/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:41:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a643aec4b50c",
+      "title": "Inside the restaurants that fed a young UAE",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/27/uae-oldest-restaurants/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:40:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "c5697014bb5c",
+      "title": "Dubai's stock market rises 14 per cent in November",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/markets/2026/11/27/dubais-stock-market-rises-14-per-cent-in-november/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T16:59:27+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f7313f042508",
+      "title": "‘We bleed and breathe rugby’: Riyadh Warriors emerge from conflict to make mark at Dubai Sevens",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/2026/11/27/we-bleed-and-breathe-rugby-riyadh-warriors-emerge-from-conflict-to-make-mark-at-dubai-sevens/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T15:16:35+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "f90e4579338d",
+      "title": "'This country saved my children's lives': Gazans given refuge in UAE join Eid Al Etihad celebrations",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/27/this-country-saved-my-childrens-lives-gazans-given-refuge-in-uae-join-eid-al-etihad-celebrations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T13:38:31+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "a013ec56f711",
+      "title": "noon Yellow Friday Sale: 5 best electric motorcycles in the UAE",
+      "summary": "",
+      "link": "https://gulfnews.com/best-buys/noon-yellow-friday-sale-5-best-electric-motorcycles-in-the-uae-1.500763002",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T20:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e9a99b62b715",
+      "title": "‘Stories of our determination’: How residents captured the spirit of the UAE in short films",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/stories-of-our-determination-how-residents-captured-the-spirit-of-the-uae-in-short-films-1.500762947",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T18:38:56+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "599432c45481",
+      "title": "Abu Dhabi sees 74.6% rise in remote business inspections",
+      "summary": "",
+      "link": "https://gulfnews.com/business/abu-dhabi-sees-746-rise-in-remote-business-inspections-1.500763655",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T18:36:22+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "1f1ad4f09e80",
+      "title": "Sheikh Nahyan visits Al Ain hunting exhibition on third day",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/sheikh-nahyan-visits-al-ain-hunting-exhibition-on-third-day-1.500763570",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T16:51:18+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "fde95dcb0670",
+      "title": "Sheikh Mohammed visits Dubai International Boat Show",
+      "summary": "",
+      "link": "https://gulfnews.com/business/sheikh-mohammed-visits-dubai-international-boat-show-1.500763550",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T16:30:09+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "976e4c70a08e",
+      "title": "Canada's financial firms follow trade deals to the UAE",
+      "summary": "",
+      "link": "https://gulfnews.com/business/canadas-financial-firms-follow-trade-deals-to-the-uae-1.500762250",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T15:51:51+00:00",
+      "sectors": [],
+      "bilateral_score": 2,
+      "relevance_score": 2
+    },
+    {
+      "id": "e11f46adc38e",
+      "title": "UN warns of worsening hunger in Middle East due to conflict and aid cuts",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/27/un-warns-of-worsening-hunger-in-middle-east-due-to-conflict-and-aid-cuts/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T18:31:23+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e9f24536593f",
+      "title": "News quiz of the week: November 27, 2026",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/27/news-quiz-of-the-week-november-27-2026/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T18:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5b5f31bc0c4e",
+      "title": "Cartoon for November 28, 2026",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/cartoon/2026/11/27/un-unifil-lebanon-israel-hezbollah/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:53:21+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "0b62ff574d20",
+      "title": "Weekender",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/newsletters/weekly-newsletter/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:51:40+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "88fac3806d96",
+      "title": "I wrote a song for Eid Al Etihad. Here's the message I hope it carries",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/music-stage/2026/11/27/eid-al-etihad-national-day-song-celebrations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:41:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ad53a30b13e6",
+      "title": "Arabic word of the week: 'Khayma' evokes ideas of shelter and belonging",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/2026/11/27/learn-arabic-khayma-tent/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:41:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e6146189cf4d",
+      "title": "Sam Bankman-Fried: Why are we so fascinated by the fallen crypto billionaire?",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/27/sam-bankman-fried-the-altruists-netflix-prime-video/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:41:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "35e563b036ee",
+      "title": "Syrian master glassblower laments demise of craft in its birthplace",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/syria-glass-economy-old-city/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:40:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ef05ea4b500d",
+      "title": "How the Cambridge Festival of Islamic Art is conquering prejudice",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/27/how-the-cambridge-festival-of-islamic-art-is-conquering-prejudice/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:40:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "3d15988acba8",
+      "title": "Paul Pogba's camel racing investment offers glimpse of life after football",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/sport/football/2026/11/27/paul-pogba-where-next-uae-camel-racing-investment/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:40:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a0fe22a791cb",
+      "title": "Justice delayed: why the Rohingya verdict may change little on the ground",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/opinion/comment/2026/11/27/rohingya-myanmar-genocide-international-court-justice-icj-refugees/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:40:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5fd498b9df4d",
+      "title": "Pictures of the week: From a portrait of Hugo Chavez to graduation day for Etihad pilots",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/2026/11/27/pictures-of-the-week-from-a-portrait-of-hugo-chavez-to-graduation-day-for-etihad-pilots/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T17:30:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e3954870072c",
+      "title": "Thanksgiving storms batter US, leaving hundreds of thousands without power",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/27/thanksgiving-storms-flight-delays-cancellations/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T16:58:29+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "ed0a120f710d",
+      "title": "Israel says it killed alleged Hamas members despite Gaza ‘ceasefire’",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/israel-says-it-killed-alleged-hamas-members-despite-gaza-ceasefire/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T16:47:22+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e5b44d5f536c",
+      "title": "Saudi Arabia shoots down 90 per cent of Houthi missiles in five-month barrage",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/saudi-arabia-shoots-down-90-per-cent-of-houthi-missiles-in-five-month-barrage/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T15:15:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "dd354fdd9928",
+      "title": "Trump backs Iraq's Al Zaidi as tensions rise with Kurds",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/27/trump-backs-iraqs-al-zaidi-in-fight-against-oil-smuggling/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T15:15:03+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "5c2a548c6d48",
+      "title": "Arabic broadcaster stripped of UK licence over Houthi leader's speech praising October 7 attacks",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uk/2026/11/27/bahraini-broadcaster-stripped-of-uk-licence-over-houthi-leaders-speech-praising-october-7-attacks/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T15:15:01+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a580d35f5114",
+      "title": "President Sheikh Mohamed and Romanian PM discuss deepening nations' ties",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/27/president-sheikh-mohamed-and-romanian-pm-discuss-deepening-nations-ties/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T14:59:35+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "8252338f32fc",
+      "title": "Culture and community: How schools celebrated Eid Al Etihad early",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/27/culture-and-community-how-schools-celebrated-eid-al-etihad-early/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T14:52:09+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "534e9d9059f7",
+      "title": "Kuwait says 'no one above the law' after arrest of royal family member in drugs case",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/news/mena/2026/11/27/kuwait-says-no-one-above-the-law-after-arrest-of-royal-family-member-in-drugs-case/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T14:06:36+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "18725b170b41",
+      "title": "Love is Blind Habibi season two reunion: Release date and what to expect",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/27/love-is-blind-habibi-season-two-reunion-release-date-and-what-to-expect/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T13:59:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "dc4f31165d88",
+      "title": "Qatar LNG exports hit highest level since war began despite disruption in Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.thenationalnews.com/business/energy/2026/11/27/qatar-lng-exports-hit-highest-level-since-war-began-despite-disruption-in-strait-of-hormuz/",
+      "source": "The National",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T13:40:43+00:00",
+      "sectors": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "score": 1
+        }
+      ],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "69e0a8ceb95b",
+      "title": "Nearly 500,000 without power as storm batters eastern US",
+      "summary": "Hundreds of thousands out of power in US after Thanksgiving storm",
+      "link": "https://gulfnews.com/world/americas/nearly-500000-without-power-as-storm-batters-eastern-us-1.500763649",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T20:03:58+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "42b2e15f13f1",
+      "title": "Middle East tensions: Trump signals victory as Iran offers Kuwait drone probe",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T02:59:27+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a58f503e50df",
+      "title": "Vladimir Putin unveils nuclear submarine, promises five more by 2030",
+      "summary": "Putin unveils new nuclear submarine",
+      "link": "https://gulfnews.com/world/europe/vladimir-putin-unveils-nuclear-submarine-promises-five-more-by-2030-1.500763653",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T19:45:32+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "a03f440f6d41",
+      "title": "Sheikh Zayed Festival to mark Eid Al Etihad with fireworks and parades",
+      "summary": "",
+      "link": "https://gulfnews.com/uae/people/sheikh-zayed-festival-to-mark-eid-al-etihad-with-fireworks-and-parades-1.500763671",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T19:26:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "db656bf6c78c",
+      "title": "ADIB raises $500 million in sukuk after strong demand",
+      "summary": "",
+      "link": "https://gulfnews.com/business/banking/adib-raises-500-million-in-sukuk-after-strong-demand-1.500763565",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-27T16:47:38+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    },
+    {
+      "id": "e2b7093ded0b",
+      "title": "noon’s biggest Yellow Friday Sale offers with up to 80% off",
+      "summary": "",
+      "link": "https://gulfnews.com/gn-focus/noons-biggest-yellow-friday-sale-offers-with-up-to-80-off-1.500762322",
+      "source": "Gulf News",
+      "source_lang": "en",
+      "category": "uae",
+      "published": "2026-11-26T18:00:00+00:00",
+      "sectors": [],
+      "bilateral_score": 0,
+      "relevance_score": 1
+    }
+  ],
+  "sector_summary": {
+    "energy": {
+      "label": "Energy",
+      "count": 1
+    },
+    "ai_tech": {
+      "label": "AI & New Technologies",
+      "count": 0
+    },
+    "climate": {
+      "label": "Climate Transition",
+      "count": 0
+    },
+    "food_security": {
+      "label": "Food Security",
+      "count": 0
+    },
+    "logistics": {
+      "label": "Logistics",
+      "count": 4
+    },
+    "aeronautics": {
+      "label": "Aeronautics",
+      "count": 0
+    },
+    "space": {
+      "label": "Space",
+      "count": 0
+    },
+    "fintech": {
+      "label": "Fintech",
+      "count": 0
+    },
+    "health": {
+      "label": "Health",
+      "count": 0
+    }
+  }
+}
